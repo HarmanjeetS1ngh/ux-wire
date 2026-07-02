@@ -1,0 +1,18 @@
+{
+  "name": "ux-pulse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A daily, self-updating digest of UX/UI design news, tools, and industry signal.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "fetch": "node scripts/fetch-feeds.mjs"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "rss-parser": "3.13.0"
+  }
+}
