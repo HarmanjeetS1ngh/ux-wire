@@ -1,4 +1,1062 @@
 {
-  "updatedAt": null,
-  "days": []
+  "updatedAt": "2026-07-02T06:01:07.677Z",
+  "days": [
+    {
+      "date": "2026-07-02",
+      "items": [
+        {
+          "id": "10d3vil",
+          "title": "AI personality is a design problem",
+          "link": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-02T05:09:06.000Z",
+          "summary": "Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "beakwk",
+          "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T04:06:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ptykfz",
+          "title": "PanelSpec – design UI on real devices, export layout prompts for AI codegen",
+          "link": "https://www.ismartbase.com/designer/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T01:56:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1q4me5c",
+          "title": "How designers need to change for an AI-powered world",
+          "link": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-01T21:49:00.000Z",
+          "summary": "A recap of ideas from our panel discussion for a topic that’s on everyone’s mind Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "b6qdxf",
+          "title": "12+ YOE Enterprise/SaaS Product Designer stuck in the interview loop (H1B) — Is it time for a career coach?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ukwwzt/12_yoe_enterprisesaas_product_designer_stuck_in/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-01T20:22:18.000Z",
+          "summary": "Hey everyone, I’m reaching out because I’m officially running out of ideas and could really use some perspective from this community. I’m a Product Designer with 12+ years of experience, primarily focused on complex…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1qh3f36",
+          "title": "Agentic design patterns, read through a healthcare AI lens",
+          "link": "https://jenniferjiangkells.com/thoughts/agentic-patterns-healthcare-lens/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T20:21:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1gtr089",
+          "title": "Better UX design for LLM utilization is needed.",
+          "link": "https://www.magfrump.net/blog/the-problem-with-chat",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T18:14:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "z8ax6b",
+          "title": "Show HN: Open-source sandbox for your product team",
+          "link": "https://news.ycombinator.com/item?id=48750459",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T17:35:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ywq60i",
+          "title": "Flow state interruption",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ukr76t/flow_state_interruption/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-01T16:53:39.000Z",
+          "summary": "Im realizing what bugs me about using AI tools is stop/go feeling of prompting, tweaking via prompting, and the waiting period. The general disconnection from the actual control of objects on screen. I come from a more…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "199fi0z",
+          "title": "CorvinOS – self-hosted agentic OS where EU AI Act and GDPR compliance by design",
+          "link": "https://github.com/CorvinLabs/CorvinOS",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T16:02:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "8zo73a",
+          "title": "Context Engineering for Claude Code",
+          "link": "https://uxplanet.org/context-engineering-for-claude-code-69d5590469a3?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-01T15:14:46.000Z",
+          "summary": "Most people start using Claude Code the same way they use ChatGPT: they open Claude, submit a prompt describing the task, and expect a… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "3vccxu",
+          "title": "Show HN: Clockjumper – An Intervibed Project",
+          "link": "https://clockjumper.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T14:41:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "sfjqbk",
+          "title": "How bad is it out there?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ukn9qt/how_bad_is_it_out_there/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-01T14:28:52.000Z",
+          "summary": "(For brief context, I work as a mid-level UXD at a pretty big tech companh, +50k employees. Got there as an intern, got hired as a junior, and then promoted.) It feels like devs just don't care. I send them designs,…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1rk5sh3",
+          "title": "The Untouchable Angular Component: How “Good Components” Slowly Become Monsters!",
+          "link": "https://uxplanet.org/the-untouchable-angular-component-how-good-components-slowly-become-monsters-c32a12a35757?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-01T13:49:53.000Z",
+          "summary": "Every Angular codebase has one. You know exactly which component I’m talking about. It’s the file people hesitate to open. The one that… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1vzjqdj",
+          "title": "GEO: Getting Cited by the Machines",
+          "link": "https://uxplanet.org/geo-get-cited-by-ai-32f2f2bf2387?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-01T13:48:57.000Z",
+          "summary": "Most searches now end without a click. The AI gives the answer, and only the sources it cites get seen. Here’s what actually gets you… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "l5a6ru",
+          "title": "4 Daily Web Habits That Will Make You Better Than 90% of Designers & Developers",
+          "link": "https://uxplanet.org/4-daily-web-habits-that-will-make-you-better-than-90-of-designers-developers-dda54635e3b4?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-01T13:48:33.000Z",
+          "summary": "Want to go from beginner to pro-level web designer? Today, I’m going to give you four simple tips that are going to help you upskill fast… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "10nsinq",
+          "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+          "link": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:22:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "z7uvk4",
+          "title": "Show HN: Ox – an AI agent that catches tech debt before it's committed",
+          "link": "https://news.ycombinator.com/item?id=48746066",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:03:38Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "b2pxfk",
+          "title": "Claude Sonnet 5 for Product Designers",
+          "link": "https://uxplanet.org/claude-sonnet-5-for-product-designers-cc2ac393c27a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-01T12:48:30.000Z",
+          "summary": "Anthropic just updated its most balanced AI model, Sonnet. The company calls Sonnet 5 “the most agentic Sonnet model yet” Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "z7ud0p",
+          "title": "3 dangers of being locked into a harness. Your context layer is true freedom",
+          "link": "https://news.ycombinator.com/item?id=48745664",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T12:32:11Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "re8bwe",
+          "title": "The 4 predators sabotaging your product team",
+          "link": "https://uxdesign.cc/the-4-predators-sabotaging-your-product-team-3dce31215ff4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-01T11:18:41.000Z",
+          "summary": "A tale of strategy, survival, and the wild animals hiding in plain sight Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "13mv2i4",
+          "title": "Show HN: Open-source library to copy-paste HTML into Figma as editable layers",
+          "link": "https://www.figit.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T11:13:02Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1cfc1oc",
+          "title": "[OFFICIAL] Salary Sharing thread for UX Professionals — July 2026",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ukec1f/official_salary_sharing_thread_for_ux/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-01T07:01:03.000Z",
+          "summary": "Credit goes to the mods of r/cscareerquestions for the inspiration for this thread. Mod note: This thread is for sharing recent offers/current salaries for experienced UX professionals, new grads, and interns. Please…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1qka3yy",
+          "title": "Does anyone here REALLY use AI and agents for actual design?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uke7pb/does_anyone_here_really_use_ai_and_agents_for/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-01T06:54:14.000Z",
+          "summary": "I’ve been reading a lot posts in this subreddit about how people disappointed about AI design process. About how AI creating sloppy design and then actual designer have to fix it. The thing that I don’t get is what’s…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "z7rv8y",
+          "title": "Found a great blog on Advance Threat Intel",
+          "link": "https://news.ycombinator.com/item?id=48741944",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T03:35:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1cwisss",
+          "title": "39 principles for designing human-AI interaction",
+          "link": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-06-30T22:04:22.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "16esks7",
+          "title": "Game UX: the cursor that wasn’t supposed to be there",
+          "link": "https://uxdesign.cc/game-ux-the-cursor-that-wasnt-supposed-to-be-there-f9369dafc451?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-06-30T22:02:49.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "punkw4",
+          "title": "Exploring comprehensive data color scheme design with GenAI",
+          "link": "https://uxdesign.cc/exploring-comprehensive-data-color-scheme-design-with-genai-099d543df4ba?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-06-30T21:59:14.000Z",
+          "summary": "Using Google Gemini to completely build and evaluate a sequential data color scheme Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "z7b7ao",
+          "title": "Ask HN: What tool are you using for A/B tests and analyzing and documenting them",
+          "link": "https://news.ycombinator.com/item?id=48736618",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T18:00:23Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "z7ahj2",
+          "title": "Ask HN: Books on the Design of Design Tools",
+          "link": "https://news.ycombinator.com/item?id=48735291",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T16:38:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1k5l2nw",
+          "title": "Designed for a Dead Language",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/designed-for-a-dead-language/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2026-06-30T16:22:27.000Z",
+          "summary": "Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you. In 1788, Prussia introduced…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "bty4cc",
+          "title": "Show HN: Valmis, an OpenClaw alternative built for work, with security in mind",
+          "link": "https://github.com/valmishq/valmis",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T13:46:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "cg6ovu",
+          "title": "Claude Design’s Most Overlooked Feature",
+          "link": "https://uxplanet.org/claude-designs-most-overlooked-feature-c86c4f4dc701?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-06-30T13:45:23.000Z",
+          "summary": "Claude Design is a very useful tool for quick prototyping. Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1htqwqx",
+          "title": "Show HN: CmdBox – A CLI tool for saving and running parameterized commands",
+          "link": "https://github.com/PhantomLambSoft/CmdBox",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T12:58:32Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "qg300q",
+          "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+          "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-06-30T12:00:00.000Z",
+          "summary": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or…",
+          "categories": [
+            "Tool",
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 31,
+          "isHighlight": true
+        },
+        {
+          "id": "16qn6xn",
+          "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-06-30T11:00:00.000Z",
+          "summary": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": false
+        },
+        {
+          "id": "9ck6wp",
+          "title": "Show HN: Not Another AI Platform",
+          "link": "https://tryhello.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T08:15:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "n909zx",
+          "title": "Show HN: Lighting fast writing app on Mac with powerful table functions",
+          "link": "https://org-notes-mac.netlify.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T00:57:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "b8dsiw",
+          "title": "Extracting standalone HTML files from Lovable, Figma make, Canva code and more",
+          "link": "https://productnow.ai/blogs/extracting-html-from-ai-prototyping-tools",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-29T15:00:26Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "10ux457",
+          "title": "Hangul, the only major writing system with a known inventor",
+          "link": "https://spacedaily.com/d-the-korean-alphabet-called-hangul-is-the-only-major-writing-system-in-human-history-with-a-known-inventor-and-a-documented-design-rationale-created-in-1443-by-king-sejong-of-the-joseon-dyn/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-29T14:49:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bjx84k",
+          "title": "Integrity on Embedded Linux Devices Under the Cyber Resilience Act",
+          "link": "https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-29T10:05:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "z5n21x",
+          "title": "Finding It Challenging to Maintain Software Created with Coding Agents?",
+          "link": "https://news.ycombinator.com/item?id=48705004",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-28T06:47:00Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1tg7jb",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 06/28/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uho4d2/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-06-28T05:00:41.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1s570em",
+          "title": "Show HN: Moumantai – self-hosted, agent-driven apps you can use on any device",
+          "link": "https://github.com/xiang-deng/moumantai",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-28T00:47:13Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1nuodpb",
+          "title": "Show HN: FPGA design acceleration – idiomatic Python to synthesizable Verilog",
+          "link": "https://holoso.digital",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T14:47:42Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16tjwok",
+          "title": "Astryx Design System",
+          "link": "https://astryx.atmeta.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T20:30:11Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "19nybwo",
+          "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
+          "link": "https://www.statey.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T20:18:33Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "rtewgu",
+          "title": "Kick the Bots Out of Your Survey Data",
+          "link": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-06-26T17:00:00.000Z",
+          "summary": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "vwctw5",
+          "title": "Your New UX Habit: Establishing Baselines for Impact",
+          "link": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-06-26T17:00:00.000Z",
+          "summary": "Gather baseline metrics before starting a project so your team can demonstrate its impact.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 30,
+          "isHighlight": false
+        },
+        {
+          "id": "15w0y9g",
+          "title": "Codex AI Agent Skill Development for UI Design and Development",
+          "link": "https://rapidkt.com/pages/blog/codex_ai_agent_skill_development_for_ui_design_and_development",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T12:31:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "131g9vt",
+          "title": "Show HN: SwitchBoard – route macOS links to different browsers/profiles by app",
+          "link": "https://relaylabs.cc/switchboard",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-25T13:33:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "l2mxee",
+          "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+          "link": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-25T10:20:01Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "yry9ik",
+          "title": "A 30 Year OG Application Developer Available",
+          "link": "https://news.ycombinator.com/item?id=48668766",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-25T04:09:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "yrxjij",
+          "title": "Do Course Certificates Matter?",
+          "link": "https://news.ycombinator.com/item?id=48667346",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-25T00:43:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19qtvbq",
+          "title": "Free UX Review for websites, web apps and mobile apps",
+          "link": "https://momocentral.com/pages-we-train-our-designers-you-get-a-free-ux-review/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-24T23:13:47Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "wfkyut",
+          "title": "Show HN: Publish.my – Static hosting where the AI agent is the customer",
+          "link": "https://publish.my/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-23T15:12:15Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "egt1d5",
+          "title": "Incentive Structures for Diary Studies",
+          "link": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-06-19T17:00:00.000Z",
+          "summary": "A mindful incentive structure can keep diary study participants engaged and responding, without overloading you with low-quality responses.",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "kf278o",
+          "title": "Vibe Architects: Agentic Vibe Coders",
+          "link": "https://www.nngroup.com/articles/vibe-architects/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-06-19T17:00:00.000Z",
+          "summary": "Nondevelopers are building complex agentic AI systems on intuition developed through many hours of experimentation, YouTube videos, and Reddit threads.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "jr3j7p",
+          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+          "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-06-16T15:00:00.000Z",
+          "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty,…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": false
+        },
+        {
+          "id": "ii81pp",
+          "title": "The Core Skill of Design in the AI Era: Critique",
+          "link": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-06-12T17:00:00.000Z",
+          "summary": "To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1gt36mm",
+          "title": "Context Architecture",
+          "link": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-06-12T17:00:00.000Z",
+          "summary": "Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "5efdaa",
+          "title": "The Impact Of Humanoid Robots On Humanity",
+          "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-06-12T08:00:00.000Z",
+          "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": false
+        },
+        {
+          "id": "z42msw",
+          "title": "The Benefits Of Cognitive Inclusion In UX Research",
+          "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-06-10T10:00:00.000Z",
+          "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": false
+        },
+        {
+          "id": "1wdoslr",
+          "title": "How To Make Your Design System AI-Ready",
+          "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-06-03T13:00:00.000Z",
+          "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and…",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "Beginner",
+          "impactScore": 31,
+          "isHighlight": false
+        },
+        {
+          "id": "1dp8rev",
+          "title": "Good designers, bad websites: a proposal",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/good-designers-bad-websites-a-proposal/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2026-04-23T12:57:21.000Z",
+          "summary": "I want to discuss accessibility because it is the most important thing for making websites. Other A List Apart articles give you innovation and insight. This article will give you homework. These are just my personal…",
+          "categories": [
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "1ny9fz1",
+          "title": "For Craft Sake: On the laws and principles behind good design",
+          "link": "https://blog.prototypr.io/for-craft-sake-on-the-laws-and-principles-behind-good-design-3b2989610e64?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2026-03-29T07:16:52.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "4b4pny",
+          "title": "Design for Amiability: Lessons from Vienna",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/design-for-amiability-lessons-from-vienna/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-10-15T15:35:00.000Z",
+          "summary": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments. Social media…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1gwyqln",
+          "title": "Innovating the Workspace: Crafting a Home Office Solution with Spacious, Adjustable, and Movable…",
+          "link": "https://blog.prototypr.io/innovating-the-workspace-crafting-a-home-office-solution-with-spacious-adjustable-and-movable-7df2b74ae95a?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-10-03T08:46:52.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1wlg9ec",
+          "title": "20+ best bookmarking tools for people who loves to save links",
+          "link": "https://blog.prototypr.io/20-best-bookmarking-tools-for-people-who-loves-to-save-links-fc15d5f0e5ff?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-30T11:55:43.000Z",
+          "summary": "Save and curate links you love. Continue reading on Prototypr »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "svn2ph",
+          "title": "I stopped using Figma for 70% of my product design work…and my output doubled.",
+          "link": "https://blog.prototypr.io/i-stopped-using-figma-for-70-of-my-product-design-work-and-my-output-doubled-7aceb264dd5a?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-30T11:55:08.000Z",
+          "summary": "Most design problems aren’t ‘design’ problems and that’s why Figma is not where you should be doing most of your design work. Continue reading on Prototypr »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1p7pfpt",
+          "title": "Design Dialects: Breaking the Rules, Not the System",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-09-26T16:48:12.000Z",
+          "summary": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\" — Kenneth L. Pike The web has accents. So should our design systems.…",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "44k6hv",
+          "title": "I Tested 5 AI Tools on 10 Real UI Design Prompts — Here’s What Actually Works in 2025",
+          "link": "https://blog.prototypr.io/i-tested-5-ai-tools-on-10-real-ui-design-prompts-heres-what-actually-works-in-2025-54e0e7358751?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-23T07:01:53.000Z",
+          "summary": "An unfiltered look at the first-pass results from Stitch, Claude, and more — and what it means for the future of UI design. Continue reading on Prototypr »",
+          "categories": [
+            "AI",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "10tig31",
+          "title": "The world doesn’t need more courses — It needs better ones",
+          "link": "https://blog.prototypr.io/the-world-doesnt-need-more-courses-it-needs-better-ones-99dc2070b722?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-20T06:22:58.000Z",
+          "summary": "My own sleepless thoughts on why the future of learning must go beyond crash tutorials and tackle ethics, accessibility, and… Continue reading on Prototypr »",
+          "categories": [
+            "Accessibility",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1jxap1s",
+          "title": "An Holistic Framework for Shared Design Leadership",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-07-23T14:10:22.000Z",
+          "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has the right skills to…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1ppaih4",
+          "title": "From Beta to Bedrock: Build Products that Stick.",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-04-23T18:04:31.000Z",
+          "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months. Financial products, which is…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1xg68oy",
+          "title": "How to Group Your Sidebar Items for Better Findability",
+          "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+          "source": "UX Movement",
+          "publishedAt": "2025-03-19T15:27:48.000Z",
+          "summary": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18x9fh8",
+          "title": "How to Make Any Sidebar Menu Easier to Scan",
+          "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+          "source": "UX Movement",
+          "publishedAt": "2025-03-19T15:24:10.000Z",
+          "summary": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "t2299q",
+          "title": "The Optimal Design for Sidebar Indicators",
+          "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+          "source": "UX Movement",
+          "publishedAt": "2024-11-22T18:05:18.000Z",
+          "summary": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10vq0as",
+          "title": "How to Design a Sidebar That Saves Screen Space",
+          "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+          "source": "UX Movement",
+          "publishedAt": "2024-11-22T17:58:44.000Z",
+          "summary": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "kr71tv",
+          "title": "How to Handle Large-Scale Item Groups in a Sidebar",
+          "link": "https://uxmovement.com/navigation/how-to-handle-large-scale-item-groups-in-a-sidebar/",
+          "source": "UX Movement",
+          "publishedAt": "2024-08-28T02:26:51.000Z",
+          "summary": "A sidebar navigation with a few items is simple to design. All you have to do is display them in a list with relevant icons. But what do you do when you have multiple large-scale item groups to display? The typical…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    }
+  ]
 }
