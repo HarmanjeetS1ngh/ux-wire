@@ -1,6 +1,429 @@
 {
-  "updatedAt": "2026-07-02T06:01:07.677Z",
+  "updatedAt": "2026-07-04T08:20:42.288Z",
   "days": [
+    {
+      "date": "2026-07-04",
+      "items": [
+        {
+          "id": "kiofeh",
+          "title": "Show HN: FinMav – Screen 3,000+ stocks by describing what you want in  English",
+          "link": "https://www.finmav.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-04T05:40:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1hof4ow",
+          "title": "What Makes a Great UX Designer?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1un04yo/what_makes_a_great_ux_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-04T05:06:34.000Z",
+          "summary": "Hi! I'm an Industrial Design student and I'm becoming very interested in UX design. I'd love to learn more about the field, especially what skills are the most valuable to develop, what separates a good UX designer from…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1yhm92i",
+          "title": "Tips for becoming an international designer?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1umw7sp/tips_for_becoming_an_international_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-04T01:44:45.000Z",
+          "summary": "I’ve been a UX designer for four years and want to land projects paid in dollars (or euros). I’m Brazilian, and I know that the first and most important step is English proficiency…however, I wanted to go a step further…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "z9y7xv",
+          "title": "Show HN: Pulse v0.2.0",
+          "link": "https://news.ycombinator.com/item?id=48780038",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T21:15:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "z9jp7v",
+          "title": "Show HN: I ran 400 hours of interviews, so I built the tool I wished existed",
+          "link": "https://news.ycombinator.com/item?id=48778853",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T19:17:10Z",
+          "summary": "",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "16g780p",
+          "title": "Show HN: Emra – A workspace where every app you build shares one db",
+          "link": "https://emra.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T18:21:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ewlyzk",
+          "title": "Average site pop-ups",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1umk58h/average_site_popups/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-03T17:08:42.000Z",
+          "summary": "I’m so tired of every website opening to a swarm of pop-ups like this. I use standard pop-up and ad blockers, so I’m mainly talking about some of the things you see here (cookie prompts, AI chatbots trying to talk to…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1ee5m70",
+          "title": "Stop Reporting UX Activity and Report Business Outcomes",
+          "link": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-03T17:00:00.000Z",
+          "summary": "UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1684ygb",
+          "title": "Crafting AI Explanations for Every Role in Your Enterprise",
+          "link": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-03T17:00:00.000Z",
+          "summary": "Different enterprise roles need different types of explanations for AI outputs.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "h729l6",
+          "title": "Notion pulled itself back from the brink of failure (2019)",
+          "link": "https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T16:06:37Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16aann2",
+          "title": "How I got Claude to actually USE my Figma design library instead of redrawing icons from scratch",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1umeqvh/how_i_got_claude_to_actually_use_my_figma_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-03T13:38:49.000Z",
+          "summary": "TL;DR: Claude kept \"designing\" its own icons out of circles and rectangles instead of using our published Figma library. Fixed it with a reusable skill containing a component-key map. Now it imports real library…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "lrwgb9",
+          "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
+          "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-03T13:00:00.000Z",
+          "summary": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "z9h0w7",
+          "title": "What I had to unlearn as a perfectionist before I could ship",
+          "link": "https://news.ycombinator.com/item?id=48774284",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T12:36:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "185qjmq",
+          "title": "Automatic Prefix Caching – vLLM",
+          "link": "https://docs.vllm.ai/en/latest/design/prefix_caching/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T11:53:12Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "103lkxl",
+          "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
+          "link": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-03T11:17:14.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1eyt148",
+          "title": "Did good UX break the job market?",
+          "link": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-03T11:16:44.000Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1qushvn",
+          "title": "Vibe Coding Is a Dead End",
+          "link": "https://uxplanet.org/vibe-coding-is-a-dead-end-01f10ba40f46?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-03T10:55:23.000Z",
+          "summary": "If I had to choose the buzzword of 2026, without any doubt it would be “vibe coding.” Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1vdtgz5",
+          "title": "We Tested 40 CSS Tools for Performance and Learning Curve. Here's What Won",
+          "link": "https://cssawwwards.com/blog/color-blindness-accessible-design-guide-2026",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T06:02:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "9uv2yq",
+          "title": "The seven AI tools I actually use and when",
+          "link": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-03T03:56:18.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "z9ehiw",
+          "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+          "link": "https://news.ycombinator.com/item?id=48770319",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-03T03:18:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1788mme",
+          "title": "Show HN: Capcat – CLI/TUI to Archive Articles as Markdown and HTML (FOSS)",
+          "link": "https://capcat.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T22:37:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1b7v9ei",
+          "title": "I’ve Watched 10 UI Trends Rise and Die. Most Designers Still Can’t Name Half of Them.",
+          "link": "https://uxplanet.org/ui-design-styles-explained-670cfabdf430?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-02T22:01:24.000Z",
+          "summary": "You have touched all ten of these today. Maybe before you even got out of bed. Continue reading on UX Planet »",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1vncsd9",
+          "title": "The Fable 5 Blackout: What It Proved About Running Claude Code and Hermes Together",
+          "link": "https://uxplanet.org/the-fable-5-blackout-what-it-proved-about-running-claude-code-and-hermes-together-6d35b65397b9?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-02T22:00:52.000Z",
+          "summary": "Fable 5 went dark worldwide in under an hour. Here’s the pattern that makes the vendor irrelevant Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "162eb42",
+          "title": "Show HN: Material 3 Expressive Web Components",
+          "link": "https://matraic.github.io/m3e/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T21:15:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1tmsa4u",
+          "title": "Show HN: Collection of skills to help improve UX and AI Product design",
+          "link": "https://github.com/tommyjepsen/awesome-ux-skills",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T19:45:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "igh265",
+          "title": "Framesmith 1.8 – click an element to give an AI agent design feedback",
+          "link": "https://github.com/vicmaster/framesmith",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T19:42:00Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "57da27",
+          "title": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
+          "link": "https://www.eebench.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T19:37:25Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dglfwh",
+          "title": "Show HN: MotionLoom – An open-source video-as-code language for video creation",
+          "link": "https://lovelyzombieyho.github.io/anica-landing-page/motionloom/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T17:53:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "9ybu09",
+          "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+          "link": "https://manufact.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T15:11:20Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "ofkqcl",
+          "title": "Caveman for Claude Code",
+          "link": "https://uxplanet.org/caveman-for-claude-code-cfa0b0b35240?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-02T12:59:11.000Z",
+          "summary": "How It Works, Why Use It, and How to Set It Up Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "v6aobs",
+          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-02T10:00:00.000Z",
+          "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context,…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "m38bdf",
+          "title": "Design your MCP server like a UI, not an API",
+          "link": "https://bump.sh/blog/4-rules-to-build-an-efficient-mcp-server/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-02T09:33:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-02",
       "items": [
