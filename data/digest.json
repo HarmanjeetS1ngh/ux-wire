@@ -1,6 +1,167 @@
 {
-  "updatedAt": "2026-07-04T08:20:42.288Z",
+  "updatedAt": "2026-07-05T08:38:34.269Z",
   "days": [
+    {
+      "date": "2026-07-05",
+      "items": [
+        {
+          "id": "1f8zt5h",
+          "title": "SigMap: 97% token reduction for AI coding sessions",
+          "link": "https://sigmap.io/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T07:52:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "akxhk1",
+          "title": "Highly recommend this article on the real use of AI tools in the design process",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1unub0u/highly_recommend_this_article_on_the_real_use_of/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-05T05:59:48.000Z",
+          "summary": "Read “Real UX/UI design test of the best Design AI tool out there.“ by Michal Malewicz on Medium: https://michalmalewicz.medium.com/claude-fable-5-real-ux-ui-design-test-87696215b703 In the Nutschell, it highlights a…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "t8i6wq",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 07/05/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1unta1h/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-05T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "uziqx7",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 07/05/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1unta15/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-05T05:00:37.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1rgcb3n",
+          "title": "Show HN: Local MCP – Claude/ChatGPT read your iMessage, Teams, files on-device",
+          "link": "https://www.local-mcp.com/en",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T02:49:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "scy8nn",
+          "title": "Bumped up to \"Senior\", why?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1unmkdf/bumped_up_to_senior_why/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-04T23:02:00.000Z",
+          "summary": "Hi folks! I was contacted by a recruiter for a \"Product Designer\" role (UX/UI...). Did the whole process and ended up getting an offer. On my offer, it says \"Senior Product Designer\" and not \"Product Designer\". Does…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1wvy2u7",
+          "title": "The face was never the point",
+          "link": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-04T22:58:03.000Z",
+          "summary": "Animacy isn’t something you design. It’s something you trigger. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1rjz49a",
+          "title": "Shaper3d is too expensive so I vibe coded this for Woodwork design",
+          "link": "https://designer.vos.lol/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-04T18:47:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "a0loog",
+          "title": "Daily streaks in apps",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uneb6c/daily_streaks_in_apps/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-04T17:06:38.000Z",
+          "summary": "Hi everyone! I'm a UI/UX designer currently working at a company that has a reading platform, and I want to convince my manager that adding a streak system does actually make people come back to the app, which could be…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1kn7rlv",
+          "title": "I'm currently developing my own UI Kit with a modern feel and interactions, need feedback on animations and sizing",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1une01w/im_currently_developing_my_own_ui_kit_with_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-04T16:54:20.000Z",
+          "summary": "So I am currently building a SaaS and also my own CRM, both related to web-design. Since I didn't want to just build components on the fly in one app and then have to copy it to my other project, I started building my…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1g35wvb",
+          "title": "Never mind the prompts, here’s the thinking",
+          "link": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-04T16:37:02.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "13amo0j",
+          "title": "Scaling Java-Based Real-Time Systems: Hidden Tradeoffs of Event-Driven Design",
+          "link": "https://www.infoq.com/articles/tradeoffs-event-driven-design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-04T09:19:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-04",
       "items": [
