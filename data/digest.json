@@ -1,6 +1,215 @@
 {
-  "updatedAt": "2026-07-05T08:38:34.269Z",
+  "updatedAt": "2026-07-06T09:52:45.789Z",
   "days": [
+    {
+      "date": "2026-07-06",
+      "items": [
+        {
+          "id": "46lreg",
+          "title": "Red Flag: \"The Flex\" is farming free design work via case studies",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uordh0/red_flag_the_flex_is_farming_free_design_work_via/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-06T08:29:07.000Z",
+          "summary": "Hey everyone, I wanted to put out a warning for fellow designers currently on the job hunt. I recently applied for a UX/UI Designer position at \"The Flex\" and just walked away from the process because they are clearly…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "16dr8kp",
+          "title": "Ui Designer Influenced with Ai Designs",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uoqqhx/ui_designer_influenced_with_ai_designs/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-06T07:50:55.000Z",
+          "summary": "I am running a website and software development firm. We create custom solutions. What I have seen recently Figma ui designers also influenced with AI designs. I have seen hundrends of custom Figma ui for website,…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "136t45b",
+          "title": "Design as a function",
+          "link": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-06T07:35:38.000Z",
+          "summary": "The future of design isn’t about pixels. It’s about function. And the organisations that figure that out first will be the ones that win. Continue reading on UX Collective »",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1cwasua",
+          "title": "Wait, who made this?",
+          "link": "https://uxdesign.cc/wait-who-made-this-705a30d74220?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-06T07:33:56.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "grludk",
+          "title": "AI-powered product photography suite designed specifically for Amazon sellers",
+          "link": "https://loomadesign.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T07:25:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dwf15t",
+          "title": "Tastefile: Figma to Design.md",
+          "link": "https://usetastefile.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T07:02:42Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1rff4q",
+          "title": "How do you explain UX design when applying for a non-UX job?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uopuqp/how_do_you_explain_ux_design_when_applying_for_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-06T06:58:55.000Z",
+          "summary": "Hey everyone! I have decided to change my career from UX to a very different field, which is not even tech related. I’m having hard time explaining what UX is. How would you explain UX if you have 1 minute in a job…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1hkvsoy",
+          "title": "Show HN: Logo Design for Busy Founders",
+          "link": "https://iconicity.cc",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T22:50:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zalyz5",
+          "title": "Show HN: Pgconverge – An experimental multi-master PostgreSQL framework in Go",
+          "link": "https://news.ycombinator.com/item?id=48796668",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T18:33:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "8ve08",
+          "title": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
+          "link": "https://cooked.house",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T17:14:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "hxx53s",
+          "title": "How did you actually transition from Figma to Claude for rapid prototyping?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uo4oww/how_did_you_actually_transition_from_figma_to/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-05T15:14:24.000Z",
+          "summary": "My company is starting to use Claude for rapid prototyping. We’re not replacing Figma completely. Figma will still be used for the design system, visual polish, and handoff. Right now we’re only talking about rapid…",
+          "categories": [
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1prjxeo",
+          "title": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
+          "link": "https://pablojimenezmateo.github.io/microide/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T14:49:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "c8r9qd",
+          "title": "I built a Figma for traders and investors – all in on tab",
+          "link": "https://fynca.io/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T11:19:30Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "13p0fo4",
+          "title": "Show HN: Design Patterns for AI",
+          "link": "https://verificationdesign.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T10:36:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "razzj",
+          "title": "Claude Design System Prompt",
+          "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-05T08:43:37Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-05",
       "items": [
