@@ -1,6 +1,233 @@
 {
-  "updatedAt": "2026-07-06T09:52:45.789Z",
+  "updatedAt": "2026-07-07T09:21:07.470Z",
   "days": [
+    {
+      "date": "2026-07-07",
+      "items": [
+        {
+          "id": "bazu6x",
+          "title": "Show HN: Ex Situ, open-source spatial index of displaced cultural artifacts",
+          "link": "https://exsitu.app/map",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T09:02:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ur5f58",
+          "title": "Should I combine coding with Ui ux design to increase my chances of getting hired?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1upogix/should_i_combine_coding_with_ui_ux_design_to/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-07T08:00:13.000Z",
+          "summary": "Please help, I'm confused whether to focus on only ui ux design or building some coding skills on the side. Will it be a good combo in this Al era? submitted by /u/SURVIVOR108123 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1xq4cal",
+          "title": "What the Lean Startup still teaches us about generative AI",
+          "link": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-06T22:11:57.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1i4g2zi",
+          "title": "Should you really aim to be the best?",
+          "link": "https://uxdesign.cc/should-you-really-aim-to-be-the-best-a570d43fae37?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-06T22:09:59.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "z84tbw",
+          "title": "The promotion that didn’t take",
+          "link": "https://uxdesign.cc/the-promotion-that-didnt-take-adb678a7ec74?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-06T22:09:40.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "ur4cbz",
+          "title": "Struggling as a junior/mid- thinking of just leaving",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1upbu2d/struggling_as_a_juniormid_thinking_of_just_leaving/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-06T22:06:23.000Z",
+          "summary": "Hey all, I just got laid off a project. It was an unusual situation where I had been onboarded, worked for several months, then got let go in a mass layoff. I was contacted by the client manager to rejoin again in…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1odhr3h",
+          "title": "Alternate Clock Designs and Time Systems",
+          "link": "https://serialc.github.io/altClocks/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T21:09:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "afk5fb",
+          "title": "Architecture 2.0: Designing AI-Assisted Loops for Computing Systems",
+          "link": "https://arch2.mlsysbook.ai/book/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T20:05:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1jbyv5u",
+          "title": "Are there UX designers out there not experiencing burnout in their jobs?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1up6skt/are_there_ux_designers_out_there_not_experiencing/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-06T19:00:57.000Z",
+          "summary": "All the time I hear these nightmare burnout stories with underpaid designers. In this post, I'd like to know if the opposite is true. Designers making good money in a job that gives them work-life balance. Can you…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "4hd87v",
+          "title": "Show HN: AI harness for C/C++ with GDB, sanitizers, perf and compile tools",
+          "link": "https://byteask.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T14:38:49Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1n2e0t4",
+          "title": "Claude Design: Create Stunning Animations and Motion Graphics",
+          "link": "https://uxplanet.org/claude-design-create-stunning-animations-and-motion-graphics-f6ada52dc4a0?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-06T14:25:45.000Z",
+          "summary": "Claude Design is typically used to create prototypes, but not many people know that it’s possible to use this tool to craft very… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "12hxdqz",
+          "title": "Show HN: A strategy game about the AI race where you can't verify alignment",
+          "link": "https://criticalwindow.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T13:14:36Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "148a3rg",
+          "title": "Is it just me, or have UX portfolios become incredibly boring to look at?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uowrav/is_it_just_me_or_have_ux_portfolios_become/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-06T13:03:17.000Z",
+          "summary": "I’ve been browsing through quite a few portfolios lately, some for research, some because I’m helping a bit with hiring and I’m starting to feel some serious case study fatigue. I'm missing some kind of spark what I…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "v2bkyl",
+          "title": "MCP Optimization Best Practices",
+          "link": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-06T11:35:19.000Z",
+          "summary": "Just like APIs before it, MCP is quickly becoming a must-have for organizations building B2B and B2C digital products. Many organizations… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "11qpvxh",
+          "title": "Design system debt, game UX, 39 principles for AI interaction",
+          "link": "https://uxdesign.cc/design-system-debt-game-ux-39-principles-for-ai-interaction-dab9500dc926?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-06T11:25:19.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "158er8f",
+          "title": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
+          "link": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-06T10:26:29.000Z",
+          "summary": "Open the inspector on any Linear card, any Stripe input, any Vercel panel. Look for the border. Now look at the box-shadow property… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1fvwx8j",
+          "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
+          "link": "https://www.whitematterlabs.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-06T10:16:32Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "items": [
