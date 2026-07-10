@@ -1,6 +1,616 @@
 {
-  "updatedAt": "2026-07-07T09:21:07.470Z",
+  "updatedAt": "2026-07-10T08:58:16.302Z",
   "days": [
+    {
+      "date": "2026-07-10",
+      "items": [
+        {
+          "id": "b7sfmv",
+          "title": "Designing excuses",
+          "link": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-10T07:28:15.000Z",
+          "summary": "Perhaps it is the market that draws the norm into the open Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "14zbea9",
+          "title": "The elements of user experience — A framework for the five layers of UX design, from strategy to surface.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1usdjba/the_elements_of_user_experience_a_framework_for/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-10T04:39:45.000Z",
+          "summary": "submitted by /u/iambarryegan [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "35wflq",
+          "title": "Show HN: R3 – A Local Code Review Tool for You and Your AI Agent",
+          "link": "https://github.com/hyperlogue/r3",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T04:13:39Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "erq008",
+          "title": "Show HN: Typeflag. Can you guess which Country's design system a font belongs to",
+          "link": "https://typeflag.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T22:05:28Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1bp54nc",
+          "title": "Building a real-time AI tutor for 5-year-olds",
+          "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T20:51:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "utdk0q",
+          "title": "Show HN: LocaleProof – catch internationalization text overflow in Figma",
+          "link": "https://www.figma.com/community/plugin/1652797384930391326",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T19:26:02Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1hzb2z4",
+          "title": "Show HN: Fudge – Web Design References for AI",
+          "link": "https://design.withfudge.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T18:55:56Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zpcl2q",
+          "title": "It's Not Subconsciousness",
+          "link": "https://news.ycombinator.com/item?id=48850668",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T18:49:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1r42xuf",
+          "title": "Stayed at same title and company for 6 years. How do I recover from this?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1urz8yi/stayed_at_same_title_and_company_for_6_years_how/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-09T18:46:56.000Z",
+          "summary": "I (34F) work as a Product Designer II at a mid-sized SaaS company in California and have never received a promotion since I joined 6 years ago, despite consistently getting good performance reviews. I have 8 years of…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "18j96vz",
+          "title": "I don’t think AI is taking UX jobs. I think it’s making good UX more obvious 🤷‍♂️",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1urwlus/i_dont_think_ai_is_taking_ux_jobs_i_think_its/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-09T17:15:49.000Z",
+          "summary": "I’m a product builder in the world of AI, and honestly, I’ve been struggling with UX way more than I expected, so this is from my personal experience. AI can make a screen. It can give me a wireframe. It can throw…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "9xhq1r",
+          "title": "DesignOps in the age of AI: when governance becomes orchestration",
+          "link": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-09T16:23:55.000Z",
+          "summary": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "h8jcff",
+          "title": "Show HN: GodUI – Open-source React components with a shared motion system",
+          "link": "https://godui.design",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T16:23:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16i9834",
+          "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+          "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-09T15:00:00.000Z",
+          "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge.…",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "dm1dh3",
+          "title": "AI Agent Skill Traceability in UX Design",
+          "link": "https://rapidkt.com/pages/blog/ai_agent_skill_traceability_in_ux_design",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T14:22:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "v99jjm",
+          "title": "Claude Code Workflow Tips After a Year of Daily Use",
+          "link": "https://uxplanet.org/claude-code-workflow-tips-after-a-year-of-daily-use-3dd1acdb1b6d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-09T13:41:46.000Z",
+          "summary": "Practical recommendations from a senior product designer Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1fwrd82",
+          "title": "Being replaced by PMs?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uroyy2/being_replaced_by_pms/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-09T12:33:39.000Z",
+          "summary": "I know this isn't the reality at big companies with stable budgets, where you actually have time to handle projects properly with real product thinking and discovery sessions. I work at an AI-native startup. Part of our…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "zova5l",
+          "title": "Ask HN: I hate coding agents. Is this skill issue?",
+          "link": "https://news.ycombinator.com/item?id=48844345",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T11:47:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10xueum",
+          "title": "Astryx by Facebook: An design system that's customizable and agent ready",
+          "link": "https://github.com/facebook/astryx",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T11:32:11Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1lw899e",
+          "title": "Can Claude Fable 5 Replace Product Designers?",
+          "link": "https://uxplanet.org/can-claude-fable-5-replace-product-designers-5783b39e67f8?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-09T11:18:50.000Z",
+          "summary": "Short answer: Yes Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1qkrvmo",
+          "title": "Former GitHub CEO launches competitor designed for the age of vibe coding",
+          "link": "https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T07:06:35Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "t2372r",
+          "title": "Book: RISC-V System-on-Chip Design",
+          "link": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T05:28:42Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zossiw",
+          "title": "non-tech founder + choosing between buying ClaudeCode or CodeX",
+          "link": "https://news.ycombinator.com/item?id=48840681",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T03:34:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1j50mbd",
+          "title": "Show HN: Figment – An AI that I made my friends talk to for 2 weeks",
+          "link": "https://figment.computer/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T03:31:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "83x1dw",
+          "title": "The revolution was the easy part",
+          "link": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-08T21:52:46.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "avdxrh",
+          "title": "Losing the spark in their eyes",
+          "link": "https://uxdesign.cc/losing-the-spark-in-their-eyes-0ef198ab1499?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-08T21:51:55.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "zodi90",
+          "title": "Show HN: Screenstab (tilt-shift-style screenshots) is now free and open source",
+          "link": "https://news.ycombinator.com/item?id=48837850",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T21:47:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "jbfr26",
+          "title": "Vibe Coding Is a System Design Interview",
+          "link": "https://www.brendanlong.com/vibe-coding-is-a-system-design-interview.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T21:01:10Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "18kypjg",
+          "title": "Show HN: Cruxible – Open-source governed truth layer for AI agents",
+          "link": "https://github.com/cruxible-ai/cruxible",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T15:39:47Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "gvqv6",
+          "title": "Measuring and improving AI-generated UI design",
+          "link": "https://softlight.com/blog/measuring-and-improving-ai-generated-ui-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T14:50:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "18zpkmr",
+          "title": "Show HN: Design a component visually, get spec-grade prompts for AI tools",
+          "link": "https://uiprompt-olive.vercel.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T13:38:26Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "5s3h1x",
+          "title": "Claude Code Plugins: Practical Guide",
+          "link": "https://uxplanet.org/claude-code-plugins-practical-guide-ff6343c3cbda?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-08T11:56:24.000Z",
+          "summary": "Claude Code is much more than an AI coding assistant. It is a customizable development environment where teams can automate their own… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "90gzez",
+          "title": "I built an MCP server and had to design UX with no screen",
+          "link": "https://sharemypage.app/blog/how-i-built-the-sharemypage-mcp-and-measured-its-ux",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T07:58:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "2zroz2",
+          "title": "Show HN: Tools and skills to build better sites with AI",
+          "link": "https://app.initium.sh",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-08T07:32:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "16wwcrv",
+          "title": "Designing in regulated industries",
+          "link": "https://uxdesign.cc/when-compliance-is-the-brief-a-creative-practitioners-survival-guide-to-designing-in-regulated-f0759cd3732c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-08T05:15:18.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1rjiqri",
+          "title": "The crisis of the what",
+          "link": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-07T22:51:18.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "aprbf6",
+          "title": "Show HN: CLRK, an open-source agent runtime with gVisor and MitM guardrails",
+          "link": "https://github.com/apoxy-dev/clrk",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T19:45:15Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1tcmk6w",
+          "title": "Orchids Is Joining Figma",
+          "link": "https://www.orchids.app/blog/orchids-is-joining-figma",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T16:09:56Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "twa8bk",
+          "title": "Claude Design: How To Edit a Design Created with Claude",
+          "link": "https://uxplanet.org/claude-design-how-to-edit-a-design-created-with-claude-2f198450779f?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-07T14:28:10.000Z",
+          "summary": "5 ways of introducing changes in design created by Claude Design Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "zn9ryx",
+          "title": "ScreenStack Is Looking for Design Partners",
+          "link": "https://news.ycombinator.com/item?id=48817192",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T13:03:34Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1mxpbtm",
+          "title": "Show HN: SigMap – deterministic repo maps for AI coding agents",
+          "link": "https://sigmap.io",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T12:57:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "k7dhb",
+          "title": "A design system for Rust/egui where token violations fail the build",
+          "link": "https://ouroboros-ui.typezerolabs.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T12:55:22Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "4s825m",
+          "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+          "link": "https://www.yamanote.fun/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T12:47:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1we5k61",
+          "title": "Show HN: Open-source desktop agent that uses a local folder as its memory",
+          "link": "https://github.com/zqiren/Orbital",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-07T12:33:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "139snss",
+          "title": "Claude Code Has a Trust Problem",
+          "link": "https://uxplanet.org/claude-code-has-a-trust-problem-8376e40c9530?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-07T11:52:27.000Z",
+          "summary": "Claude Code is one of the most powerful AI tools for builders right now. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "160dwbd",
+          "title": "5 UX laws every developer must know",
+          "link": "https://uxplanet.org/5-ux-laws-every-developer-must-know-3ee39eff2ec2?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-07T10:06:10.000Z",
+          "summary": "Yes, I said it, developers, not the designers, because most developers treat UX as a coat of paint. Slap on some padding, pick a nice font… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1nsy7s0",
+          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-07T10:00:00.000Z",
+          "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "items": [
