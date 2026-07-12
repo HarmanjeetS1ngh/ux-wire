@@ -1,6 +1,344 @@
 {
-  "updatedAt": "2026-07-10T08:58:16.302Z",
+  "updatedAt": "2026-07-12T07:56:13.643Z",
   "days": [
+    {
+      "date": "2026-07-12",
+      "items": [
+        {
+          "id": "18l9tv3",
+          "title": "What do we owe the people who use what we design, when we’re the ones shaping how they agree to things?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uu82ni/what_do_we_owe_the_people_who_use_what_we_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-12T06:56:23.000Z",
+          "summary": "I’ve been in UX for over 15 years, and a good part of that time has involved building or refining consent flows, onboarding screens, permission prompts, all designed to move people through as smoothly as possible. I’ve…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "73h1jh",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 07/12/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uu5xah/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-12T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1gyjcn9",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 07/12/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uu5xab/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-12T05:00:37.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1s5820z",
+          "title": "ux design job market by the numbers",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uu10tq/ux_design_job_market_by_the_numbers/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-12T00:58:04.000Z",
+          "summary": "I was pulling data for a research project and was curious and started pulling job data for the LA market. This is just rough not very clean data fyi. job - number of openings ux design - 1100 game designer - 900 product…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "ckeysy",
+          "title": "Looking for some unique and interesting ux case studies and projects to read!",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1utp0uk/looking_for_some_unique_and_interesting_ux_case/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-11T16:44:45.000Z",
+          "summary": "Im a fresher and I cant really gauge how far ux as a dicipline can reach. I want to look at impactful and interesting ux studies...kinda wanna see studies that will reignite my passion for ux and r&d...and make me…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "dobg87",
+          "title": "Craft still matters, but it’s about outcomes",
+          "link": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-11T13:29:41.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "bbxce3",
+          "title": "Show HN: A Figma file viewer for the 333 MHz Sony PSP",
+          "link": "https://pocketjs.dev/blog/pocket-figma/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-11T12:35:45Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1oocuf9",
+          "title": "Show HN: Hidetext.sh – encrypted pastebin where the server never sees the key",
+          "link": "https://hidetext.sh",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-11T12:24:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "j1td8p",
+          "title": "New UX design intern: a few workflow questions",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1utgylf/new_ux_design_intern_a_few_workflow_questions/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-11T10:55:44.000Z",
+          "summary": "Hi everyone, I’m currently doing a UX design internship at a tech company and have a few workflow questions that I’ve been thinking about. I don’t want to keep peppering my team with questions when they’re busy, so I…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1niqvsy",
+          "title": "Local open-source system design tool",
+          "link": "https://github.com/Derssa/Torollo",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-11T03:20:52Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1y089ld",
+          "title": "Show HN: 9lives – Self-healing test runner that refuses to mask real bugs",
+          "link": "https://github.com/Quality-Max/9lives",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T18:01:00Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "yhptl2",
+          "title": "Show HN: GenUI, native SwiftUI interfaces generated by AI agents",
+          "link": "https://github.com/kiliczsh/genui",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T17:09:07Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ysdg7e",
+          "title": "The 5 Qualities of Site-Specific AI Chatbots",
+          "link": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-10T17:00:00.000Z",
+          "summary": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "105af9b",
+          "title": "Design-System Maturity: A 6-Dimension Framework",
+          "link": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-10T17:00:00.000Z",
+          "summary": "Use this maturity model to assess your design system’s health and identify where to focus next.",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "rgvzuz",
+          "title": "Lessons from designing MCP tools for AI agents",
+          "link": "https://blog.spill.coffee/p/trust-the-harbor-pilot",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T16:00:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jic4w",
+          "title": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
+          "link": "https://sxp.studio/apps/subz",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T15:23:50Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1nblham",
+          "title": "Honestly – out of pure curiosity: Custom SaaS built with AI in under 30 minutes",
+          "link": "https://liqlab.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T15:05:18Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zpwbcj",
+          "title": "Ask HN: Illustration Themes in AI Apps?",
+          "link": "https://news.ycombinator.com/item?id=48860327",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T14:19:50Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "csmj6r",
+          "title": "AI Web Design (Opus vs. Sol)",
+          "link": "https://ploy.ai/blog/ai-web-design-with-opus-and-sol",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T13:49:07Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "15h1lww",
+          "title": "7 Design Rules That Take 10 Minutes to Learn and Fix Your UI Forever",
+          "link": "https://uxplanet.org/design-rules-to-learn-ui-ux-8be82e04a835?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-10T13:07:47.000Z",
+          "summary": "You can write clean code. Your logic is solid. Your app works perfectly. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "1gjbqzj",
+          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+          "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-10T13:00:00.000Z",
+          "summary": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with…",
+          "categories": [
+            "Tool",
+            "Research"
+          ],
+          "level": "Beginner",
+          "impactScore": 31,
+          "isHighlight": true
+        },
+        {
+          "id": "qu93dh",
+          "title": "Show HN: Mojave Paint for macOS, edit images like it's 1999",
+          "link": "https://mojavepaint.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T12:29:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19oahqp",
+          "title": "How to Stop Claude Code from Ruining Your Product Design",
+          "link": "https://uxplanet.org/how-to-stop-claude-code-from-ruining-your-product-design-7fb10c3f5749?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-10T12:07:14.000Z",
+          "summary": "Claude Code can generate polished screens quickly, so it’s relatively easy to fall into a trap of “AI will drive the entire design… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1k3gkfh",
+          "title": "Show HN: The Flint Programming Language",
+          "link": "https://github.com/flint-lang/flintc",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T10:59:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1no54tg",
+          "title": "Show HN: Vuci – make the spoken word searchable",
+          "link": "https://vuci.ai/feed/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-10T09:10:11Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-10",
       "items": [
