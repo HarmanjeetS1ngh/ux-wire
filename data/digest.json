@@ -1,6 +1,241 @@
 {
-  "updatedAt": "2026-07-12T07:56:13.643Z",
+  "updatedAt": "2026-07-13T08:44:04.051Z",
   "days": [
+    {
+      "date": "2026-07-13",
+      "items": [
+        {
+          "id": "8pg98c",
+          "title": "AI Email Template Design Company",
+          "link": "https://madooai.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T07:45:54Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zr52o9",
+          "title": "Show HN: TokenDrift – find hardcoded colors/spacing hiding in your CSS",
+          "link": "https://news.ycombinator.com/item?id=48888631",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T06:25:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1qouwdx",
+          "title": "How's this advice from tech recruiter: \"Don't bother applying Manager roles, pivot to IC and work your way back up\"",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uuzl28/hows_this_advice_from_tech_recruiter_dont_bother/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-13T03:01:11.000Z",
+          "summary": "Asked for advice from a tech recruiter. They told me that despite my experience as a product design manager, to find work going forward, pivoting completely to IC is the way to go. That most Manager roles are filled…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1n2ye4u",
+          "title": "Ai and Corporate - how are we feeling?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uuyjwi/ai_and_corporate_how_are_we_feeling/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-13T02:11:34.000Z",
+          "summary": "Keen to hear what people in product feel about ai. Here's my perspective: I'm in product design in AUS (8+ years now), and here's my exprience: Situation: TLDR; PMs creating an ERP on a house of ai-design-debt cards PMs…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "z893hn",
+          "title": "Taste cannot be delegated",
+          "link": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-12T21:32:06.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1xjq46z",
+          "title": "Show HN: Openleetcode – LeetCode runner where tests live in the repo",
+          "link": "https://github.com/therepanic/openleetcode/releases/tag/v1.0.2",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T20:48:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1xtgi58",
+          "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+          "link": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T19:35:27Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1au0rbi",
+          "title": "YC's Head of Design Shows You How to Design with AI [video]",
+          "link": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T19:31:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zr149e",
+          "title": "Show HN: TrialPilot – clinical trials from your phone, built by a patient",
+          "link": "https://news.ycombinator.com/item?id=48882018",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T15:42:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1nc0pbx",
+          "title": "Show HN: Itara – Distributed system topology as an explicit, executable layer",
+          "link": "https://github.com/itara-project/itara",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T14:58:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1yr2ew1",
+          "title": "Online Monopoly (WIP)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uuhekb/online_monopoly_wip/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-12T14:44:46.000Z",
+          "summary": "I was recently working on a monopoly like game. There are a lot of such websites out there but i honestly wanted to do some designs of my own. the board looks doable but yet incomplete and cluttered. 40 tiles arranged…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "ipp558",
+          "title": "Almost replied to another post lamenting the field, posting my comment here instead",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uugw2j/almost_replied_to_another_post_lamenting_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-12T14:24:21.000Z",
+          "summary": "UXers have been breathless that “UX is more than Figma”, “UX is more than making things look nice”, and now that the field is shifting (because admittedly orgs are foolishly choosing robots over humans) and UXers are…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1dzhldi",
+          "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+          "link": "https://github.com/sshwarts/skillscript",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T13:34:00Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "76hc79",
+          "title": "Show HN: Jargo – Conversational-AI Golang Framework",
+          "link": "https://github.com/gojargo/jargo",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-12T13:26:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1wi0kdf",
+          "title": "How to Design a Production-Ready Dashboard with Claude Code",
+          "link": "https://uxplanet.org/how-to-design-a-production-ready-dashboard-with-claude-code-9a78c4585981?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-12T10:23:19.000Z",
+          "summary": "Dashboards are one of the best ways to test the real product-design capabilities of Claude Code. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "iuouyn",
+          "title": "The interface has left the building",
+          "link": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-12T09:30:16.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "ok208d",
+          "title": "Did you verify that — or was it just too easy to believe?",
+          "link": "https://uxdesign.cc/did-you-verify-that-or-was-it-just-too-easy-to-believe-664ff017a1a1?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-12T09:28:48.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "aiq1t7",
+          "title": "The Kintsugi problem",
+          "link": "https://uxdesign.cc/the-kintsugi-problem-7f5e5cbfb442?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-12T09:28:24.000Z",
+          "summary": "The most important design decisions aren’t made when everything works — they’re made when it doesn’t. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-07-12",
       "items": [
