@@ -1,6 +1,247 @@
 {
-  "updatedAt": "2026-07-13T08:44:04.051Z",
+  "updatedAt": "2026-07-14T07:45:00.541Z",
   "days": [
+    {
+      "date": "2026-07-14",
+      "items": [
+        {
+          "id": "103numo",
+          "title": "Ask HN: What hardware hobby would you recommend to a software engineer?",
+          "link": "https://news.ycombinator.com/item?id=48901519",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T02:21:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "14dxti0",
+          "title": "Container scrolling or body scrolling? Which one feels more intuitive?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uvv847/container_scrolling_or_body_scrolling_which_one/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-14T01:56:37.000Z",
+          "summary": "one keeps the content inside a fixed container, and your scroll in locked inside the area the other lets you scroll on the whole page, which some feel more normal. is one better than the other in this context or is it…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1tqxhxh",
+          "title": "Has anybody read this book? Is it still a good template for portfolio projects?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uvsd9x/has_anybody_read_this_book_is_it_still_a_good/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-13T23:49:49.000Z",
+          "summary": "submitted by /u/LesterMcBean [link] [comments]",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1ywpiua",
+          "title": "The terminal became my canvas",
+          "link": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-13T22:10:10.000Z",
+          "summary": "And it’s great… but horrible at the same time Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "17vacq1",
+          "title": "AX is just the orchestration layer",
+          "link": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-13T22:09:55.000Z",
+          "summary": "The work didn’t vanish with the screen. It fell one layer down. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "x2ayvj",
+          "title": "Show HN: kassette – Durable agent workflows backed by object storage",
+          "link": "https://github.com/lostinpatterns/kassette",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T18:31:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ypbash",
+          "title": "I'd love to meet someone who has 5+ experience here...",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uvjxcw/id_love_to_meet_someone_who_has_5_experience_here/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-13T18:31:20.000Z",
+          "summary": "Because they're clearly a time traveler. SMH... submitted by /u/8ringer [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "13boz8h",
+          "title": "Show HN: Finterm.ai Bloomberg terminal for Claude Code",
+          "link": "https://finterm.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T17:52:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1q3iis1",
+          "title": "I Tested 20 Popular Claude Code Skills. Most of Them Were Useless.",
+          "link": "https://uxplanet.org/i-tested-20-popular-claude-code-skills-most-of-them-were-useless-6bfdf190a6d1?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-13T16:38:37.000Z",
+          "summary": "Skills are one of the more useful features in Claude Code. Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1u1t79x",
+          "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+          "link": "https://github.com/jbwinters/jacquard-lang",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T15:56:02Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "xc13ec",
+          "title": "Show HN: HTML, CSS and JavaScript in the Terminal",
+          "link": "https://duetbrowser.com/krnl-ss-redirect?k2vh",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T15:52:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zrkfry",
+          "title": "Show HN: OSS Web Based AI Video Studio (Vivijure)",
+          "link": "https://news.ycombinator.com/item?id=48891809",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T12:40:17Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "9ssy2g",
+          "title": "Billion dollars in UX research and yet one of the poorest placements of these two critical buttons",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uv9q56/billion_dollars_in_ux_research_and_yet_one_of_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-13T12:08:19.000Z",
+          "summary": "Whichever genius decided to place these two keys together, you have a special place in hell. Honestly every keyboard that copied everyone else has the same issue. This isn't even Android specific to be honest. submitted…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1j1gl4e",
+          "title": "Who made this, Designing excuses, DesignOps in the age of AI",
+          "link": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-13T11:11:11.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "w073u6",
+          "title": "4 Types of Loops You Can Create in Claude Code",
+          "link": "https://uxplanet.org/4-types-of-loops-you-can-create-in-claude-code-aff824404834?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-13T11:09:55.000Z",
+          "summary": "When we interact with Claude Code, we typically go through repeated cycles when completing a task, also known as loops. The cycles can be… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "1y9oxx2",
+          "title": "When design becomes the organisation, and AI becomes the design",
+          "link": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-13T11:09:50.000Z",
+          "summary": "What happens when the entity that designs everything is itself being designed by machines? Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1umibl8",
+          "title": "Show HN: Call to Control AI Agents via the Web",
+          "link": "https://diffforge.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-13T10:04:16Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fpxalo",
+          "title": "12 Mobile Menu Patterns, and the One Question That Decides Which One You Need",
+          "link": "https://uxplanet.org/mobile-menu-patterns-1cfe8dd9fc55?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-13T09:38:11.000Z",
+          "summary": "We all know what it’s like to be on a website that has a really bad mobile menu that’s just super frustrating to interact with. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-13",
       "items": [
