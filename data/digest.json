@@ -1,6 +1,484 @@
 {
-  "updatedAt": "2026-07-14T07:45:00.541Z",
+  "updatedAt": "2026-07-16T07:52:48.600Z",
   "days": [
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "id": "lch6om",
+          "title": "Is There a Reliable Way to Generate Figma Designs from Code?",
+          "link": "https://geekyants.com/blog/how-we-built-the-missing-bridge-from-code-to-figma",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T06:55:03Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1szyhep",
+          "title": "Positive vs negative labels",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uxq2if/positive_vs_negative_labels/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-16T02:27:10.000Z",
+          "summary": "I'm a CD and I'm working on a service directory to be displayed on a kiosk-type surface. The directory has about 15 items related to payment services, each of which supports 2 payment methods. However, there are a…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "17ht6hc",
+          "title": "What are recent design grads actually using for portfolios after they get their first job?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uxoszk/what_are_recent_design_grads_actually_using_for/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-16T01:28:32.000Z",
+          "summary": "I’m a university instructor in a generalist program. Our students graduate with skills in graphic design, photography, video, and UI/UX, so they’re generalists rather than specialists. Every graduating senior builds a…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "104wi78",
+          "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
+          "link": "https://news.ycombinator.com/item?id=48929304",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T01:12:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "bdxuk1",
+          "title": "What’s the one mobile or SaaS app that frustrates you the most from a UX perspective?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uxnrdy/whats_the_one_mobile_or_saas_app_that_frustrates/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-16T00:41:20.000Z",
+          "summary": "Worst onboarding, biggest pain points, clunkiest flows, or most confusing design - what is it and why does it drive you crazy? submitted by /u/kuhas [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1psir50",
+          "title": "We don't use AI in any of our design or production processes",
+          "link": "https://mass-driver.com/article/from-human-hands",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T21:36:49Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "d2vxpc",
+          "title": "AI systems are demanding new interaction models. Are designers ready?",
+          "link": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-15T19:48:50.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "um9d6r",
+          "title": "Designers are sharpening knives for the wrong fight",
+          "link": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-15T19:47:57.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "198ad2q",
+          "title": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
+          "link": "https://getlimits.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T18:53:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "104twtk",
+          "title": "Ask HN: Are AWS Certs worth getting for experienced Devs?",
+          "link": "https://news.ycombinator.com/item?id=48925128",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T18:30:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "sx63qt",
+          "title": "Show HN: Stillwind – PCB part selection as constraint solving",
+          "link": "https://stillwind.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T17:03:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "s14rxc",
+          "title": "Show HN: Figmaboy – Tauri Figma Clone with a Built in MCP-Enabled CLI for Codex",
+          "link": "https://0xmiki.github.io/figmaboy/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T16:40:44Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1wa160r",
+          "title": "Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
+          "link": "https://github.com/sirixdb/sirix",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T15:46:50Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "rg7cz6",
+          "title": "This industry is full of thieves. Stolen content example of Hang Xu's image.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ux8h2c/this_industry_is_full_of_thieves_stolen_content/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-15T15:05:30.000Z",
+          "summary": "Some people put the original image into AI to alter it a bit, or just change the visual outlook. We need a tool to automatically report copyright infringement to authorities. As it's a vibe-coding era, maybe someone has…",
+          "categories": [
+            "AI",
+            "Tool",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "sukd7c",
+          "title": "Design of automated systems must factor in human psychology – Knowable Magazine",
+          "link": "https://knowablemagazine.org/content/article/mind/2026/design-automated-systems-with-human-psychology-in-mind",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T14:37:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "17if2og",
+          "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+          "link": "https://github.com/bitjaru/styleseed",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T13:55:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1pxob5t",
+          "title": "Show HN: Agent's Design – Claude/Codex copy-paste templates that kill AI-slop UI",
+          "link": "https://agents-design.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T13:30:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1gffvdp",
+          "title": "CLAUDE.md vs DESIGN.md: What to Put in Each for Claude Code",
+          "link": "https://uxplanet.org/claude-md-vs-design-md-what-to-put-in-each-for-claude-code-53647d015bfd?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-15T13:29:33.000Z",
+          "summary": "CLAUDE.md and DESIGN.md are two markdown files that the product team often adds to a project context to make the most of Claude Code. Both… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1q8ocb7",
+          "title": "The UX Decisions Hiding in Your Code",
+          "link": "https://uxplanet.org/the-ux-decisions-hiding-in-your-code-52facc8cdb8b?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-15T12:02:28.000Z",
+          "summary": "A user opens your signup form. Name, email, password. Nothing complicated. Twelve seconds later they close the tab and never come back. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "104co9l",
+          "title": "I reverse-engineered the three biggest agent-memory tools",
+          "link": "https://news.ycombinator.com/item?id=48919162",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T11:23:02Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ilx1q8",
+          "title": "No, People Don’t Want More AI In Their Life",
+          "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-15T10:00:00.000Z",
+          "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces,…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 31,
+          "isHighlight": true
+        },
+        {
+          "id": "y7uw06",
+          "title": "Show HN: PixFinder – Free offline AI+OCR Image Search",
+          "link": "https://pixfinder.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-15T07:36:35Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "uozipe",
+          "title": "Designing with web standards: The playbook for this AI moment",
+          "link": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-15T07:33:17.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "xde5z4",
+          "title": "UX Conference October Announced (Oct 5 - Oct 16)",
+          "link": "https://www.nngroup.com/training/october/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-15T06:59:07.000Z",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. October 5- October 16, 2026.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "pqkv6",
+          "title": "Design Systems as Knowledge Graphs",
+          "link": "https://chsmc.org/2021/08/systems-as-knowledge-graphs/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T21:35:12Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1jd5bvn",
+          "title": "Your Agent Is Reading a Different Design System",
+          "link": "https://rachel.fyi/posts/your-agent-is-reading-a-different-design-system",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T17:57:04Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1cc97zn",
+          "title": "Figma to Claude Code: Why the Implementation Doesn’t Match Design in Figma",
+          "link": "https://uxplanet.org/figma-to-claude-code-why-the-implementation-doesnt-match-330c59a8b5bf?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-14T17:35:28.000Z",
+          "summary": "If you’re implementing Figma designs with Claude Code, you’ve likely noticed the gap between what you have in Figma and what Claude… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1tnepth",
+          "title": "Show HN: Dspack Studio – An agent builds UI, the design system gates what ships",
+          "link": "https://studio.aesthetic-function.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T15:40:35Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "tcqzab",
+          "title": "Show HN: NestForge, true-shape nesting in the browser, every layout re-verified",
+          "link": "https://nestforge.dauerschicht.com/app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T15:32:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1o9tf13",
+          "title": "Show HN: Cascade Chat – A Hackable IRCv3 Client for macOS, Windows, and Linux",
+          "link": "https://github.com/matt0x6F/irc-client",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T15:11:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1mwobet",
+          "title": "Show HN: Aireceipts, itemized cost receipts for AI coding agents",
+          "link": "https://github.com/anandgupta42/aireceipts",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T14:16:34Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "103r3uu",
+          "title": "Show HN: I can't seem to text properly on an iPhone, so I built my own keyboard",
+          "link": "https://news.ycombinator.com/item?id=48906844",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T13:49:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "103qhk8",
+          "title": "Show HN: Proton – A pure Go GUI library with zero CGO and API immunity",
+          "link": "https://news.ycombinator.com/item?id=48905922",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-14T12:41:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "fmamuq",
+          "title": "Play and design: in favour of the novel digital experience",
+          "link": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-14T11:02:36.000Z",
+          "summary": "Design used to let us wander; modernity replaced that wandering with efficiency — now, every product decides where you’ll end up before… Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "5d25gq",
+          "title": "What 32 design leaders do when told to move faster",
+          "link": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-14T11:00:41.000Z",
+          "summary": "The Greeks knew the answer to this problem, 2300 years ago Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1jxrf2q",
+          "title": "The One UX Decision That Makes Your App Feel 10x Faster Without Touching a Single Line of Backend…",
+          "link": "https://uxplanet.org/loading-states-ux-patterns-9e8d2d45fa3c?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-14T09:41:59.000Z",
+          "summary": "Every time your app loads something, your user feels something. Frustration. Confidence. Impatience. Relief. You don’t get to opt out of… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-14",
       "items": [
