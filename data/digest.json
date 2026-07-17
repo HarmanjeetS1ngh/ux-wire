@@ -1,6 +1,197 @@
 {
-  "updatedAt": "2026-07-16T07:52:48.600Z",
+  "updatedAt": "2026-07-17T07:50:03.445Z",
   "days": [
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "id": "pxwayb",
+          "title": "Leadership thinks design can be replaced by AI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uymmd5/leadership_thinks_design_can_be_replaced_by_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-17T02:11:58.000Z",
+          "summary": "I’m a product designer with about 3 years of experience. I already went through one layoff (it was extremely traumatic; I was very depressed at that time), and I finally got a new job last year. My concern is this: Our…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1ijmd3b",
+          "title": "New Demands on RF Interconnects–How 5G and AI Are Redefining RF Designs",
+          "link": "https://www.allaboutcircuits.com/news/new-demands-on-rf-interconnectshow-5g-and-ai-are-redefining-rf-designs/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T01:21:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1c6c5hc",
+          "title": "Contract-to-Hire Hurdles",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uykofl/contracttohire_hurdles/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-17T00:43:20.000Z",
+          "summary": "Hey everyone! I’ve had two contracts in the past 3 months that seemed designed to pressure rather then give a comfortable partnership. I’ve had many contracted roles - I’m sort of thinking this is just part of our…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1hcvonz",
+          "title": "From vibe to specs: reclaiming the design process with SAID framework",
+          "link": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-16T22:20:29.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1f4eeov",
+          "title": "Design system contracts: the component lives in neither Figma nor code",
+          "link": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-16T22:17:35.000Z",
+          "summary": "",
+          "categories": [
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "z4tza2",
+          "title": "Show HN: Vektorgeist- A platform for AI operators and their agent's",
+          "link": "https://vektorgeist.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T21:52:17Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jo5i51",
+          "title": "The 6 UX Principles That You Can Reduce User Frustration When Filling Out Forms",
+          "link": "https://uxplanet.org/form-ux-best-practices-e32379477553?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-16T19:21:46.000Z",
+          "summary": "Forms are one of the most frustrating parts of using any app or website. But they don’t have to be. A few small changes can completely… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "grmx5h",
+          "title": "Does anyone draw anymore?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uybqme/does_anyone_draw_anymore/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-16T18:51:32.000Z",
+          "summary": "I’m new to management and I’m asking my designers to sketch initial concepts. Boxes, stick figures, squiggles for text… nothing requiring talent. The box can look like a melting rectangle for all I care. I cannot get my…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1brtos9",
+          "title": "Feeling a bit lost as a mid-level Product Designer. Looking for honest advice from other designers.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uy6u3k/feeling_a_bit_lost_as_a_midlevel_product_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-16T15:55:34.000Z",
+          "summary": "I'm a Product Designer with about 5 years of experience, but I feel like my career isn't telling a coherent story, and I'm not sure how to move forward. My experience has been spread across startups, agencies, contract…",
+          "categories": [
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1cbdjxy",
+          "title": "Show HN: Open-source AI app builder you can embed into your own SaaS",
+          "link": "https://github.com/totalumlabs/ai-app-builder-open",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T15:52:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "81ex2b",
+          "title": "Why Claude Code Wastes Thousands of Tokens Before It Even Starts Working",
+          "link": "https://uxplanet.org/why-claude-code-wastes-thousands-of-tokens-before-it-even-starts-working-61e9277cbde6?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-16T15:49:55.000Z",
+          "summary": "When you start working with Claude Code, you likely notice one interesting behavior: no matter what task you complete with Claude Code… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "ptmly8",
+          "title": "The Day WhatsApp Goes Dark",
+          "link": "https://xn--gckvb8fzb.com/the-day-whatsapp-goes-dark/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T11:31:55Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "bkjw3r",
+          "title": "Show HN: My triathlon coach (not a human) now texts me on iMessage",
+          "link": "https://www.athletedata.health",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T10:39:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "105b9vz",
+          "title": "The Missed Reality: Code Review Wasn't Built for the AI Era",
+          "link": "https://news.ycombinator.com/item?id=48931713",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-16T08:22:39Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-16",
       "items": [
