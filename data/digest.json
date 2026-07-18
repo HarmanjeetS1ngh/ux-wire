@@ -1,6 +1,236 @@
 {
-  "updatedAt": "2026-07-17T07:50:03.445Z",
+  "updatedAt": "2026-07-18T07:24:57.082Z",
   "days": [
+    {
+      "date": "2026-07-18",
+      "items": [
+        {
+          "id": "1916bsy",
+          "title": "How do you handle outdated screens when your app evolves in Figma?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uzgqyz/how_do_you_handle_outdated_screens_when_your_app/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-18T00:16:09.000Z",
+          "summary": "I’m working on a mobile-first app, and we’re in the process of maturing and improving it (new versions and tools). Because of this, the flows and screens that come up for V1 end up making the previous ones obsolete. How…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1cbpu4b",
+          "title": "Figma for Email?",
+          "link": "https://www.hedwig-ai.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T23:52:00Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "16edrmz",
+          "title": "I just want to be sure I'm in the same reality as you are. Let's clarify.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uzdl8t/i_just_want_to_be_sure_im_in_the_same_reality_as/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-17T22:01:26.000Z",
+          "summary": "What I've been seeing lately (recent months). No tears, just general observation. Some might get luck, some don't, but: 1 No jobs below $150K+ (NY area). This one hurts the most. Somehow low-pay jobs just disappeared.…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1ddrpht",
+          "title": "Show HN: Learn hadware digital design online (VHDL, systemverilog)",
+          "link": "https://risingedge.pro",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T21:40:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "11wquap",
+          "title": "The “mocked, then loved” AirPods effect",
+          "link": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-17T21:22:37.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "y07akr",
+          "title": "Chai Discovery nabs $400M Series C as AI-designed antibodies reach Big Pharma",
+          "link": "https://siliconangle.com/2026/07/14/chai-discovery-nabs-400m-series-c-ai-designed-antibodies-reach-big-pharma/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T17:57:56Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "18zdvlv",
+          "title": "Does Your Form Really Need a Dropdown List?",
+          "link": "https://www.nngroup.com/articles/dropdown-list/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-17T17:00:00.000Z",
+          "summary": "Dropdown lists can be used in narrow, specific scenarios, but misuse can cause more harm than alternatives.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "1s2gcwy",
+          "title": "Don’t Outsource the Learning: Why Human-Led Research Still Matters in the Age of AI",
+          "link": "https://www.nngroup.com/articles/human-led-research-still-matters/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-17T17:00:00.000Z",
+          "summary": "Even if AI matches researcher-output quality, human-led research will remain essential — the team learning from observing users can't be outsourced.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "1c2kx1t",
+          "title": "Patterns from running UX audits on [40]+ B2B SaaS products - what surfaces every single time",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uyzric/patterns_from_running_ux_audits_on_40_b2b_saas/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-17T13:28:44.000Z",
+          "summary": "Agency-side designer here. After [40]+ audits I can predict about 70% of the findings before opening the product. The recurring ones, in order of frequency: Onboarding teaches the UI, not the outcome. Tooltip tours…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "zd3pn2",
+          "title": "Show HN: Unlimited Remove Background and AI Uplscale Image and Pdf Tool Kit",
+          "link": "https://pixoate.com/remove-background",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T12:48:47Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1wtgzit",
+          "title": "Dead Dead Dead!",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1uyykqe/dead_dead_dead/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-17T12:40:04.000Z",
+          "summary": "Is there anyone in this group who is actually happy, working peacefully, has no fears, and feels hopeful about the future? Are there any companies that aren't forcing AI onto their teams just for the sake of it and are…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "16nrwyi",
+          "title": "Google Stitch Just Got a Major Update",
+          "link": "https://uxplanet.org/google-stitch-just-got-a-major-update-1dae251f54e7?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-17T12:30:26.000Z",
+          "summary": "Google Stitch is a very nice UI design tool that uses the full power of AI to craft user interfaces for web and mobile apps. Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "16xm5e8",
+          "title": "How vibe coding a game made me design an AI agent protocol",
+          "link": "https://blog.carlid.dev/game-vibe-coding-to-protocol-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T12:02:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "180pzee",
+          "title": "AI just called design’s bluff",
+          "link": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-17T11:13:59.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "10o3qqv",
+          "title": "How OpenAI's Sol Learned Design Taste",
+          "link": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-17T10:12:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "oqj1ct",
+          "title": "When It Makes Sense To “Block” The Main Thread",
+          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-17T08:00:00.000Z",
+          "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "cbnujx",
+          "title": "How to Kiss a Cannibal",
+          "link": "https://uxdesign.cc/how-to-kiss-a-cannibal-d4ca10ee4606?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-17T07:39:54.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-17",
       "items": [
