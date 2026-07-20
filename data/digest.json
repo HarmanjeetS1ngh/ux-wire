@@ -1,6 +1,226 @@
 {
-  "updatedAt": "2026-07-18T07:24:57.082Z",
+  "updatedAt": "2026-07-20T08:35:56.829Z",
   "days": [
+    {
+      "date": "2026-07-20",
+      "items": [
+        {
+          "id": "n9g158",
+          "title": "Show HN: Fluxnation, the Fastest FLUX.1 Execution Kernel",
+          "link": "https://github.com/ULT7RA/FLUXNATION",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T07:34:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "3kut0l",
+          "title": "Why people use ux/ui to confuse more than to simplify?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v1d957/why_people_use_uxui_to_confuse_more_than_to/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-20T06:12:57.000Z",
+          "summary": "Some modern UX/UI feels like a burden just to read through. There isn’t a clear message about what the product is, what it does, or where to start. Instead of simplifying, it often adds unnecessary animations, visual…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "107k881",
+          "title": "Coding Skills Development Report",
+          "link": "https://news.ycombinator.com/item?id=48974093",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T03:39:42Z",
+          "summary": "",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "107jpmw",
+          "title": "Ask HN: What paid AI tools are worth it for creative tech projects?",
+          "link": "https://news.ycombinator.com/item?id=48973671",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T02:11:00Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "uji3s8",
+          "title": "\"Design\" skills for CLI tools?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v12jmw/design_skills_for_cli_tools/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-19T21:39:51.000Z",
+          "summary": "I'm a product/ design person and have been building CLI tools recently. There are so many design skill but couldn't find one specifically for creating engaging UIs/ flows/UX for in-terminal experiences. submitted by…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "szqpvj",
+          "title": "The weakest channel",
+          "link": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-19T20:47:00.000Z",
+          "summary": "Universality isn’t designed into things. It’s selected by surviving constraints — and often, people are the constraint. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "sh2mcp",
+          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
+          "link": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-19T19:02:31Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1g9dzc9",
+          "title": "Do you still need to make manual adjustments?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v0wsnj/do_you_still_need_to_make_manual_adjustments/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-19T17:36:49.000Z",
+          "summary": "When I used to design with AI, I felt the need for precise editing. However, with today’s models, it’s now easier to simply select an area and tell the AI to fix it. I just select an area, mark it, and wait for the AI…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1072zgi",
+          "title": "Narv - An autonomous agent that converged toward microkernel design principles",
+          "link": "https://news.ycombinator.com/item?id=48968044",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-19T13:26:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "hb2llx",
+          "title": "Amazon Builder's Library – An overlooked goldmine of System Design knowledge",
+          "link": "https://sumitgouthaman.com/posts/amazon-builders-library/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-19T12:41:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1yp59yj",
+          "title": "Feeling stuck after 4 years as a UI/UX designer. Need career advice.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v0lo1u/feeling_stuck_after_4_years_as_a_uiux_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-19T09:08:00.000Z",
+          "summary": "Hi everyone, I'm feeling really lost with my career right now and would appreciate some honest advice from people in the same profession. I graduated with a Software Engineering degree in 2021. I used to code and was…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "10717pj",
+          "title": "Prodigy – AI Workforce for professional teams",
+          "link": "https://news.ycombinator.com/item?id=48965750",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-19T07:34:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mvzr9v",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 07/19/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v0hdcq/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-19T05:00:42.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "jxu456",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 07/19/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v0hdcf/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-19T05:00:41.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "18gi01m",
+          "title": "Designing a programmable runtime for agent orchestration",
+          "link": "https://randomlabs.ai/blog/onyx",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-18T21:01:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "9j1wqy",
+          "title": "Show HN: Design Skills Directory – curated agent skills for UI taste and craft",
+          "link": "https://www.designskills.directory/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-18T13:34:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "items": [
