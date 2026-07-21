@@ -1,6 +1,294 @@
 {
-  "updatedAt": "2026-07-20T08:35:56.829Z",
+  "updatedAt": "2026-07-21T08:05:15.796Z",
   "days": [
+    {
+      "date": "2026-07-21",
+      "items": [
+        {
+          "id": "1pzdh5i",
+          "title": "Show HN: Take a photo of a menu, get a website",
+          "link": "https://www.eatfoodnow.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T05:47:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tynxve",
+          "title": "Trump's latest AI czar has resigned",
+          "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T05:21:03Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1btm9oe",
+          "title": "Eliminating Conda/CUDA dependency hell in computational biology pipelines",
+          "link": "https://github.com/evo-design/proto-tools",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T04:27:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1w69x70",
+          "title": "The Rise (and Fall?) Of Palantir [video]",
+          "link": "https://www.youtube.com/watch?v=SfGUzSYEqY0",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T01:18:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "rw8101",
+          "title": "How to deal with tough feedback?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v1zsio/how_to_deal_with_tough_feedback/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-20T22:14:56.000Z",
+          "summary": "I feel like since design is visible, It receives a lot of feedback from all ends. Obviously, as a young designer I can’t answer everything business related as I don’t have that much experience in the company or the…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "wreswq",
+          "title": "Research shouldn’t end in a deck",
+          "link": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-20T22:02:20.000Z",
+          "summary": "How I use Claude Code to challenge assumptions and turn research into a living artifact Continue reading on UX Collective »",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "124gvr2",
+          "title": "How to apply Nir Eyal’s Hook Model to AI products, safely",
+          "link": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-20T22:00:29.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "lqafud",
+          "title": "Show HN: Riace – a hands-free interval timer I built while getting back in shape",
+          "link": "https://apps.apple.com/it/app/riace/id6760669387",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T20:50:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "8zgzwp",
+          "title": "Show HN: Cognikernel- Local Memory for AI Coding Assistants",
+          "link": "https://github.com/KanishkNoir/cognikernel",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T20:20:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1to6fn7",
+          "title": "Head of US Commerce Dept.'s AI safety arm resigns",
+          "link": "https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T19:27:09Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "hrpk8y",
+          "title": "The head of the US AI safety agency has resigned",
+          "link": "https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T18:45:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ojlfvs",
+          "title": "Did the Operation Succeed? On End-to-End Arguments in System Design",
+          "link": "https://mohamed.computer/posts/the-message-arrived/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T18:35:36Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1cz5lhi",
+          "title": "Show HN: Neuron. Turn a SQL query history into a semantic layer",
+          "link": "https://www.momentaanalytics.com/free-trial",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T18:11:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ei5k7n",
+          "title": "Any Engine, Any Topology, Any Infrastructure: How We Designed Modelplane",
+          "link": "https://modelplane.ai/blog/how-we-designed-modelplane",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T17:35:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10824gf",
+          "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+          "link": "https://news.ycombinator.com/item?id=48981136",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-20T16:32:10Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1yr1pre",
+          "title": "Interview with Revolut",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v1momo/interview_with_revolut/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-20T14:11:08.000Z",
+          "summary": "This is the first time in over 10 years of my career that I’ve felt the need to write publicly about an interview experience. I recently interviewed with Revolut. I know they’re known for having a long hiring process…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "xf00nv",
+          "title": "When did intuitive start meaning everything has to look the same?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v1mhbv/when_did_intuitive_start_meaning_everything_has/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-20T14:03:28.000Z",
+          "summary": "(This is not a real app or something I plan to release. I made it purely as a UI experiment and showcase using Memphis design.) I feel like modern apps are becoming more and more similar. I understand why familiar…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "17ojj94",
+          "title": "How to Turn a CSV into Interactive Charts with Claude Code",
+          "link": "https://uxplanet.org/how-to-turn-a-csv-into-interactive-charts-with-claude-code-734c7821460c?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-20T13:38:48.000Z",
+          "summary": "CSV files are one of the simplest ways to store data, but they are not always the easiest way to explore it. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1y6wy9w",
+          "title": "Delegating taste, orchestration layer, AI workflows",
+          "link": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-20T11:14:00.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1adwqed",
+          "title": "Lonely at a lower latency",
+          "link": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-20T11:09:56.000Z",
+          "summary": "Everything got faster, closer, more certain. The person inside stayed the same. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1gbqjoo",
+          "title": "The brainstorm that couldn’t storm",
+          "link": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-20T11:09:21.000Z",
+          "summary": "On the small delay that makes a brainstorm actually storm Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "l8376u",
+          "title": "After reading same stories from this subreddit, it finally happened to me too",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v1gttn/after_reading_same_stories_from_this_subreddit_it/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-20T09:42:12.000Z",
+          "summary": "tl;dr: sales team vibe coded alternative UI and landing pages for our product while I, companys solo designer, was having a vacation. So yeah, I was on vacation while this everything happened. For long time sales team…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-20",
       "items": [
