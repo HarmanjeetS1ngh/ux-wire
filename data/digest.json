@@ -1,6 +1,480 @@
 {
-  "updatedAt": "2026-07-21T08:05:15.796Z",
+  "updatedAt": "2026-07-23T08:08:27.866Z",
   "days": [
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "id": "14eqyxn",
+          "title": "Show HN: Trangram – a free browser-based vector editor (illustrator + timeline)",
+          "link": "https://www.trangram.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T04:41:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18vwggv",
+          "title": "Entry level design roles",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v40sbu/entry_level_design_roles/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-23T02:23:02.000Z",
+          "summary": "I’m ready to exit this “Hello World”, one more time I see a job posting including new grads and entry level candidates in their pools then waste their effort and hope to hire someone with experience. I’m so done with…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "xjtcxo",
+          "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
+          "link": "https://ldbd.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T22:35:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "11e623",
+          "title": "Sanctions and Entity List designations are on the table for Chinese AI models",
+          "link": "https://twitter.com/SecScottBessent/status/2080008411790368895",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T22:21:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "nup6v0",
+          "title": "The screens are getting demoted",
+          "link": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-22T22:21:02.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1ry8von",
+          "title": "Reminder: 2 months of discovery saves you 6 months of rebuilding later",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v3u3ad/reminder_2_months_of_discovery_saves_you_6_months/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-22T21:40:35.000Z",
+          "summary": "Hey guys. Many so-called early-stage founders just dive straight into code because they want to ship something immediately, but then realize their product assumptions were way off. I was working on a discovery project…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "ovuvn9",
+          "title": "Capra, Cribl's Design System",
+          "link": "https://cribl.io/blog/introducing-capra-cribls-design-system/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T21:19:04Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "18dj26",
+          "title": "AI fatigue",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v3puwt/ai_fatigue/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-22T19:10:12.000Z",
+          "summary": "I’m not sure I’m not the only and this is probably a recurring topic, but how do you feel about AI in everything as a product/ux designer? I’ve been currently interviewing for new jobs as my contract with the previous…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "xr9wby",
+          "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+          "link": "https://github.com/cactus-compute/cactus-hybrid",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T17:56:29Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rzaomx",
+          "title": "Show HN: SimpleBLE 1.0, a cross-platform Bluetooth LE library",
+          "link": "https://github.com/simpleble/simpleble",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T17:01:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "g7aqbg",
+          "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+          "link": "https://unlayer.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T16:02:03Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "11k3sx7",
+          "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+          "link": "https://cruciblebench.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T15:39:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "rvbdpr",
+          "title": "Show HN: DataParade – generate dataflow diagrams from code for risk assessments",
+          "link": "https://github.com/DataParade-io/dataparade-cli",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T14:34:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1i1c35a",
+          "title": "DesignStudio: The AI-native code editor and computational design IDE",
+          "link": "https://www.spatialbound.com/ide",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T14:30:37Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "152fy2w",
+          "title": "Show HN: Agent in 9 Lines Python",
+          "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T13:52:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1w28i52",
+          "title": "Are Product Managers 'Owning' design?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v3fwy5/are_product_managers_owning_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-22T13:17:36.000Z",
+          "summary": "Interested on what people's takes are on this post I saw on linkedin from a fairly prominent product influencer. Now, I have always associated the double diamond to design and the description of the process of…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "9xshun",
+          "title": "Is Figma Losing the AI Race?",
+          "link": "https://uxplanet.org/is-figma-losing-the-ai-race-3ef52bcc33ca?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-22T12:05:34.000Z",
+          "summary": "By the late 2010s, Figma had become the industry-standard design tool for product teams. Most modern user interfaces were created in it… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "jkz27c",
+          "title": "The digital wall we built ourselves",
+          "link": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-22T11:17:21.000Z",
+          "summary": "Why 95.9% of the world’s top million sites still fail the people who need them most. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "106ua8f",
+          "title": "Show HN: Imagerry – client-side image customizer and converter (WASM / WebGPU)",
+          "link": "https://imagerry.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-22T09:33:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "bq69pu",
+          "title": "Show HN: Memsprout – share your AI context with teammates",
+          "link": "https://memsprout.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T23:54:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "14ux3ue",
+          "title": "I handed a UX review over to AI. Here’s what happened.",
+          "link": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-21T21:36:57.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "rrvp5w",
+          "title": "AI can fake your portfolio. It can’t fake the second question.",
+          "link": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-21T21:36:22.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "6oyyim",
+          "title": "The feature trap",
+          "link": "https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-21T21:35:59.000Z",
+          "summary": "How product teams confuse building with validating Continue reading on UX Collective »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1iibnf5",
+          "title": "YouTube System Design for Robotics Data Infrastructure",
+          "link": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T18:08:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18nxu5m",
+          "title": "Show HN: I left Figma to build a diffusion-based UI design tool",
+          "link": "https://diffui.ai/blog/show-hn",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T17:55:01Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "9ppdxm",
+          "title": "Claude Code Hooks: How to Automate Repetitive Tasks and Add Guardrails",
+          "link": "https://uxplanet.org/claude-code-hooks-how-to-automate-repetitive-tasks-and-add-guardrails-d08af32874ed?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-21T16:31:32.000Z",
+          "summary": "You can automate pretty much every task with Claude Code. All you need to do is write clear instructions. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "d1vmv3",
+          "title": "Show HN: Hale – A Concurrent Systems Language",
+          "link": "https://hale-lang.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T14:45:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1172nhs",
+          "title": "Show HN: Inflexa – open-source Intelligence for Biology",
+          "link": "https://github.com/inflexa-ai/inflexa",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T14:44:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "gvp046",
+          "title": "Show HN: Pinpoint – Visual feedback for AI coding agents",
+          "link": "https://pinpoint.maferland.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T13:12:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1lsckwj",
+          "title": "Design experiments are more important than ever, and they don’t require a lab",
+          "link": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-21T11:02:04.000Z",
+          "summary": "If design experiments scare you? Take a page from design leaders and call them bets. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1cdzi0o",
+          "title": "Software development is dead",
+          "link": "https://uxplanet.org/software-development-is-dead-4eae8651ac83?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-21T10:33:33.000Z",
+          "summary": "And it happened not because companies no longer need software. Quite the opposite: we are entering an era in which more software will be… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "m19n3",
+          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-21T10:00:00.000Z",
+          "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "1eqkte1",
+          "title": "The One Color Decision That Makes a UI Look Expensive",
+          "link": "https://uxplanet.org/color-decision-premium-ui-design-d6890efe11ba?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-21T09:14:36.000Z",
+          "summary": "Open any product that reads as \"premium.\" Linear. Stripe. Vercel. Raycast. Look past the brand color. Look at the backgrounds, the borders… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "8mmva5",
+          "title": "Good Design Lives in the Interweaving of Reason and Sensibility",
+          "link": "https://uxplanet.org/good-design-lives-in-the-interweaving-of-reason-and-sensibility-7b22f8e7d9da?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-21T09:14:13.000Z",
+          "summary": "The most enduring value designers can deliver in the AI era is bridging the object and the subject. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1rm5k75",
+          "title": "Show HN: Flag Buddy, a learning game for kids (who can't read yet)",
+          "link": "https://labs.davidbauer.ch/kindergames/flaggen-buddy/en/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T09:03:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "sk8fvu",
+          "title": "Figma Console MCP",
+          "link": "https://github.com/southleft/figma-console-mcp",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-21T08:08:16Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "items": [
