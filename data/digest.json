@@ -1,6 +1,407 @@
 {
-  "updatedAt": "2026-07-23T08:08:27.866Z",
+  "updatedAt": "2026-07-25T07:48:22.087Z",
   "days": [
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "id": "1akx7jd",
+          "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
+          "link": "https://news.ycombinator.com/item?id=49045271",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T07:19:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mj44r1",
+          "title": "Show HN: WhipDesk – Control your full dev machine from your phone",
+          "link": "https://github.com/BinaryBananaLLC/WhipDesk",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T02:49:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "61l33g",
+          "title": "Kimi K3's Design Secret May Be in Its Thinking Traces",
+          "link": "https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T02:10:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1w8y7tz",
+          "title": "Fountible: Agentic Figma",
+          "link": "https://fountible.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T01:46:36Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1akvf03",
+          "title": "Ask HN: Multi dimensional sort (beyond Hilbert curve)",
+          "link": "https://news.ycombinator.com/item?id=49042861",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T23:27:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1mqy9zl",
+          "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+          "link": "https://github.com/therepanic/openleetcode",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T23:17:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "15581ed",
+          "title": "Is there such thing as a UX builder role?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v5j4x9/is_there_such_thing_as_a_ux_builder_role/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-24T18:08:15.000Z",
+          "summary": "I’m curious if there is a role that exists where you’re just building in the design tool, whether it’s managing a design system component library or high fidelity prototypes. What I’m envisioning is another designer…",
+          "categories": [
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "6xvhmz",
+          "title": "Use auto layout with CSS Flexbox in mind",
+          "link": "https://help.figma.com/hc/en-us/articles/42031586813719-Use-auto-layout-with-CSS-Flexbox-in-mind",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T17:20:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1enppf3",
+          "title": "A Concrete Definition of “Product Sense” (and How to Build It)",
+          "link": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-24T17:00:00.000Z",
+          "summary": "Product sense means predicting which product decisions will succeed based on patterns learned through experimentation — and knowing when those patterns apply.",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "6yqyvr",
+          "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
+          "link": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-24T17:00:00.000Z",
+          "summary": "As more interface work is AI-generated, the output of research and design shifts from documents written for humans to curated context that guides AI.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "xgfhiz",
+          "title": "Any tips for creating a focused “Ted Talk”",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v5g1fc/any_tips_for_creating_a_focused_ted_talk/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-24T16:19:20.000Z",
+          "summary": "As a senior UX I love sharing knowledge with others, and mentor them. Where I work I get to do that often and it’s something my manager also encourages me (I don’t mind, I agree with him that knowledge should be shared)…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "m91x5b",
+          "title": "How Figma stays ahead of vulnerabilities with agents",
+          "link": "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T14:39:22Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1akdde3",
+          "title": "Anyone else like llms.txt for architecture docs?",
+          "link": "https://news.ycombinator.com/item?id=49035043",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T13:11:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "defjk0",
+          "title": "Show HN: A monorepo where AI agents can safely build and maintain applications",
+          "link": "https://github.com/louisbrulenaudet/monorepo-template",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T12:10:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1m07dz5",
+          "title": "The aggressively mediocre fight",
+          "link": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-24T11:09:24.000Z",
+          "summary": "The battle we have with AI and something we can do about it. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "v8zdu5",
+          "title": "Are you comfortable with UIs Made by AI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v57key/are_you_comfortable_with_uis_made_by_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-24T10:30:37.000Z",
+          "summary": "For me, AI-generated UIs often lower my trust in a product. It's not that AI can't create beautiful interfaces, because it definitely can. But when I notice a UI that feels overly generic, inconsistent, or lacks…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "roodjc",
+          "title": "How the f*** do you even get a job as a junior?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v55tn3/how_the_f_do_you_even_get_a_job_as_a_junior/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-24T08:53:06.000Z",
+          "summary": "Its been almost one year since I got my degree in UX design and after all these months I managed to come along with only 1 role as a junior ux designer but unfortunately I was rejected after the 3rd interview. UX design…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1akblpq",
+          "title": "Show HN: Krypter – simple offline message and file encryption mobile app",
+          "link": "https://news.ycombinator.com/item?id=49032780",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-24T08:31:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1jd8zl0",
+          "title": "Show HN: Ohnrscript – A systems language and HTTP unikernel in JavaScript syntax",
+          "link": "https://github.com/Ohnrshyp/Ohnrscript",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T22:29:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "7lio9h",
+          "title": "Steal this UX framework from Dubai’s most over-the-top hotel",
+          "link": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-23T21:48:28.000Z",
+          "summary": "Stop studying apps. Study hotels. A Google UX researcher’s field notes on the hidden UX of hospitality. Continue reading on UX Collective »",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "f8hip9",
+          "title": "Four questions every tool should answer (even Figma) about AI training model usage",
+          "link": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-23T21:43:32.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1hvuap0",
+          "title": "Show HN: Skim – a minimalist open-source email client for Windows (MIT)",
+          "link": "https://skim-tech.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T21:12:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "v023ug",
+          "title": "Show HN: Grounded-forge: RAG with summaries and task views precomputed at ingest",
+          "link": "https://github.com/chrisgagne/grounded-forge",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T20:46:47Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ajuyj2",
+          "title": "Where to find inspiration for a (reactive) personal website?",
+          "link": "https://news.ycombinator.com/item?id=49027566",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T20:26:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1vz287n",
+          "title": "Naive design is better than AI design",
+          "link": "https://alexwennerberg.com/blog/2026-07-13-naive.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T16:50:36Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1nm2i6k",
+          "title": "AI helps scientists design the next generation of medicines",
+          "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T15:53:31Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "98kv39",
+          "title": "Figma vs. Claude Design: Two Fundamentally Different Design Workflows",
+          "link": "https://uxplanet.org/figma-vs-claude-design-two-fundamentally-different-design-workflows-a9bb7a53c43d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-23T14:21:05.000Z",
+          "summary": "For years, the product design process followed a familiar sequence: Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1xqladb",
+          "title": "I asked 6 LLMs to design 100 software systems",
+          "link": "https://opinion-radar.com/o/the-llm-stack-census-9f02ee?lang=en",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T13:09:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1epv3a2",
+          "title": "I Tested 25 AI Coding Models on 100 Real Python Bugs. Here’s the Leaderboard.",
+          "link": "https://uxplanet.org/i-tested-25-ai-coding-models-on-100-real-python-bugs-heres-the-leaderboard-725ab72a56b3?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-23T11:31:38.000Z",
+          "summary": "Dont Have Subscription Freinds Link Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1ajccxy",
+          "title": "ZaGuu – an arena where AI agents play negotiation games and build identities",
+          "link": "https://news.ycombinator.com/item?id=49019165",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-23T09:59:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "items": [
