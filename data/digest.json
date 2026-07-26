@@ -1,6 +1,180 @@
 {
-  "updatedAt": "2026-07-25T07:48:22.087Z",
+  "updatedAt": "2026-07-26T08:04:59.338Z",
   "days": [
+    {
+      "date": "2026-07-26",
+      "items": [
+        {
+          "id": "qutflc",
+          "title": "Design Engineering",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v6w390/design_engineering/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-26T06:43:11.000Z",
+          "summary": "Hi, guys! Hope y’all are doing great. I recently came across the term design engineering, and I’m really fascinated by it. I want to develop a real designer’s sense or eye. A lot of products today feel tasteless because…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "pnfdh4",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 07/26/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v6u6t2/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-26T05:00:45.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "5a459i",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 07/26/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v6u6sw/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-26T05:00:44.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1tt3g0x",
+          "title": "Juice – non-essential visual, audio, and haptic effects to enhance UX",
+          "link": "https://garden.bradwoods.io/notes/design/juice",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T03:49:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1wvjabj",
+          "title": "10+ yrs exp. Survival guide for designers",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v6s2mi/10_yrs_exp_survival_guide_for_designers/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-26T03:14:18.000Z",
+          "summary": "Survival guide for designers It's not you. It's them ( Honestly for the longest time in my career I thought it was me, but I realized much later that structurally where UX is placed in the org determines your experience…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "2hp2d",
+          "title": "Still get nervous before every presentation, even after 8 years in the field",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v6r6x2/still_get_nervous_before_every_presentation_even/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-26T02:30:32.000Z",
+          "summary": "I'm a senior product designer and honestly this is so frustrating. No matter what I do I'm always nervous right before presenting. Once I actually get going I'm usually fine. I've never been a naturally strong public…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "s2ubt6",
+          "title": "AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work",
+          "link": "https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T01:28:59Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1alf5eg",
+          "title": "Show HN: Cross-Platform Flutter and React-Native Plugin – FFmpeg-Kit-Extended",
+          "link": "https://news.ycombinator.com/item?id=49052579",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T22:52:12Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "jk0mvn",
+          "title": "Six Sigma vs. Lean Six Sigma: What's the Difference?",
+          "link": "https://www.purdue.edu/leansixsigmaonline/blog/six-sigma-vs-lean-six-sigma/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T20:32:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1aldtw7",
+          "title": "Ask HN: HotPin – lossless 120B MoE inference on 24GB RAM (CPU, 50 loc)",
+          "link": "https://news.ycombinator.com/item?id=49050356",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T18:41:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1me6cpe",
+          "title": "Miserable as a UX designer, is this a shared feeling?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v6fjp8/miserable_as_a_ux_designer_is_this_a_shared/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-25T18:12:35.000Z",
+          "summary": "i’ve been in my role as a junior product designer for just over a year and I am definitely realising how miserable it’s making me. I love the creative problem-solving aspect of the job but that’s about it. I hate the…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1akz56y",
+          "title": "The Cost of Seamlessness",
+          "link": "https://news.ycombinator.com/item?id=49048352",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T15:24:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "4bpht3",
+          "title": "Show HN: Cygnus – A fast, lightweight self-hostable serverless runtime and PaaS",
+          "link": "https://cygnus.run",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-25T12:20:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-25",
       "items": [
