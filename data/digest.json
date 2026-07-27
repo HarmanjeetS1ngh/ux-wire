@@ -1,6 +1,203 @@
 {
-  "updatedAt": "2026-07-26T08:04:59.338Z",
+  "updatedAt": "2026-07-27T09:25:20.835Z",
   "days": [
+    {
+      "date": "2026-07-27",
+      "items": [
+        {
+          "id": "kha9n7",
+          "title": "My (The) stages of AI in tech and product design",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v7u9ea/my_the_stages_of_ai_in_tech_and_product_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-27T08:20:56.000Z",
+          "summary": "First of all, this is my personal experience and my personal opinion as someone who worked across Product Design, Lead Design, Principal Design, Systems Design, Product Strategy, Product Leadership and Team Leadership…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1p7vs11",
+          "title": "Les jeux vidéo résolvent des problèmes d'UX depuis 30 ans, il est temps d'en parler — j'ai fait un livre blanc dessus",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v7u4n9/les_jeux_vidéo_résolvent_des_problèmes_dux_depuis/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-27T08:13:04.000Z",
+          "summary": "Étudiante en UX design, j'ai remarqué un truc bizarre : on parle beaucoup de \"gamification\" en UX (points, badges, progression...) mais très peu de ce que le game design lui-même peut apprendre à l'UX au niveau des…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "5ef303",
+          "title": "Advice - Navigating my work as a Product Design intern at startup",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v7osjm/advice_navigating_my_work_as_a_product_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-27T03:24:15.000Z",
+          "summary": "Hi! I will soon start my role as a product design intern for a newly launched fintech app. As one of the first design hires, I am being tasked on improving the general user experience of the app--where it is up to my…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "1eqmem5",
+          "title": "The old-school way of keeping the summer heat out of your home",
+          "link": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T02:33:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1n0902n",
+          "title": "Signs of AI Design Slop",
+          "link": "https://github.com/febbhav/signs-of-ai-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T23:24:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "mh295u",
+          "title": "Information architecture is the foundation artificial intelligence is starving for",
+          "link": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-26T19:28:45.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1aly8q9",
+          "title": "We need to rethink tech stack",
+          "link": "https://news.ycombinator.com/item?id=49061251",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T19:01:47Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1aljp92",
+          "title": "Ask HN: Should I Combine Global Knowledge, Internet Search, and User RAG",
+          "link": "https://news.ycombinator.com/item?id=49059969",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T16:55:11Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1alj25x",
+          "title": "Ask HN: I spent personal money on game dev. How to turn stalled project around?",
+          "link": "https://news.ycombinator.com/item?id=49058923",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T15:10:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "jm6wsa",
+          "title": "Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
+          "link": "https://github.com/Nutlope/hallmark",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T14:25:17Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "k70hhe",
+          "title": "Your website is boring (but that might just set it free)",
+          "link": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-26T14:19:22.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "6xtt8a",
+          "title": "Show HN: Exercise snack reminders for iOS/Android, no server, one-time purchase",
+          "link": "https://getsnack.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T13:56:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1k6haob",
+          "title": "The seams are where the system lives",
+          "link": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-26T12:08:08.000Z",
+          "summary": "Partitioning a system into clean modules doesn’t remove complexity — it relocates it to the seams. Cities learned this by zoning. Software… Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "2rbl5y",
+          "title": "Show HN: Organic cell simulation with infinite zoom (100k cells, raw WebGL)",
+          "link": "https://philomatics.com/cell-game-source/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T12:04:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "4w3m5v",
+          "title": "Show HN: Termic – desktop app for running CLI coding agents (Claude Code, Codex)",
+          "link": "https://termic.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-26T09:36:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "items": [
