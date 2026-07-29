@@ -1,6 +1,329 @@
 {
-  "updatedAt": "2026-07-27T09:25:20.835Z",
+  "updatedAt": "2026-07-29T08:16:18.303Z",
   "days": [
+    {
+      "date": "2026-07-29",
+      "items": [
+        {
+          "id": "3mgcyf",
+          "title": "Anyone else feel like being a UX fresher is just a dead end right now?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v9otbq/anyone_else_feel_like_being_a_ux_fresher_is_just/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-29T07:16:23.000Z",
+          "summary": "I'm honestly so tired. I keep seeing \"entry-level\" UX roles asking for 2–3 years of experience, and when you finally do get an interview, your internship somehow doesn't count as \"real experience.\" During my internship,…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "qph4wv",
+          "title": "Who’s the best designer you’ve ever worked with?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v9lx8c/whos_the_best_designer_youve_ever_worked_with/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-29T04:43:44.000Z",
+          "summary": "What made them so good? What was their personality like? What became of their career? Looking for any stories to inspire myself to strive towards continuous self improvement. submitted by /u/No_Telephone_669 [link]…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1jqlwdd",
+          "title": "The MOS 6502: the people’s princess",
+          "link": "https://uxdesign.cc/the-mos-6502-the-peoples-princess-0a2f99409834?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-28T22:21:13.000Z",
+          "summary": "The impact of blending arcade game UI concepts with the power of affordable 1970s calculator chips Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "11y9ig5",
+          "title": "Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp",
+          "link": "https://github.com/mraza007/minute",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-28T19:31:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "gsqpzz",
+          "title": "Designing With AI on a budget as an engineer: Google+ChatGPT",
+          "link": "https://www.kcoleman.me/2026/06/11/designing-with-ai-indie.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-28T17:17:56Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "4f2ndw",
+          "title": "I quit UX mentally 1 year ago and I want to move away from this career",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v94akw/i_quit_ux_mentally_1_year_ago_and_i_want_to_move/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-28T16:58:54.000Z",
+          "summary": "I divorced my product designer role I think around 1 year ago without realizing. I have been in the industry for almost 4 years. I have studied this and I was SO exicted when I first started. My dream was to be a UI…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "191vyr3",
+          "title": "What's a UX pattern that looks bad on paper but actually works really well in production?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1v93gmd/whats_a_ux_pattern_that_looks_bad_on_paper_but/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-28T16:29:03.000Z",
+          "summary": "One that surprised me: adding friction to seller onboarding in a marketplace. Conventional wisdom says reduce friction everywhere. We tested a shorter seller signup (5 fields) vs a longer one (12 fields including…",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1g0kw1z",
+          "title": "Show HN: Countify – Collaborative No-code computer vision for labs",
+          "link": "https://www.countifybio.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-28T14:21:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "httslv",
+          "title": "Show HN: DynoTable – The DynamoDB GUI with real SQL and your AI agent",
+          "link": "https://dynotable.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-28T11:07:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "13plw6j",
+          "title": "Claude Design can craft 3D objects",
+          "link": "https://uxplanet.org/claude-design-can-craft-3d-objects-9a2c94808ca6?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-28T11:00:44.000Z",
+          "summary": "Many people use Claude Design to craft UI mocks, and while this use case remains the most popular, the tool offers a few interesting… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "qwdf5",
+          "title": "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+          "link": "https://tajd.github.io/projektor/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-28T10:33:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1p2i578",
+          "title": "Thinking Outside The Box: Digital Design In The AI Era",
+          "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-28T10:00:00.000Z",
+          "summary": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "3nuyb1",
+          "title": "From frictionless to meaningful",
+          "link": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-27T22:00:18.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "cr3hpc",
+          "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+          "link": "https://www.rise-reforming.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T19:58:22Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1amjgf1",
+          "title": "BMWs shows in-car ads for Spiderman",
+          "link": "https://news.ycombinator.com/item?id=49073924",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T18:42:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ye5zev",
+          "title": "MAI-Cyber-1-Flash inside MDASH",
+          "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T16:52:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1s1byqt",
+          "title": "Make AI stop hallucinating by changing system design, not the model",
+          "link": "https://blazephoenix.xyz/learn/invariant-driven-design-ai-hallucination/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T16:50:33Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ami6g4",
+          "title": "Decispher: We have added support for Grok CLI",
+          "link": "https://news.ycombinator.com/item?id=49071929",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T16:26:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1wlf65y",
+          "title": "Claude Opus 5 for Product Designers",
+          "link": "https://uxplanet.org/claude-opus-5-for-product-designers-a9c4579ea19b?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-27T13:11:36.000Z",
+          "summary": "Opus 5 is smart but slow and very expensive Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "h70vng",
+          "title": "Show HN: Browser CAD for stock-tube structures with generated 3D-printed joints",
+          "link": "https://app.trusslab.ai/#/frame/triangle-frame@v1?autoplay=1",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T12:04:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ew9d0o",
+          "title": "The consciousness mirage in AI design",
+          "link": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-27T11:20:13.000Z",
+          "summary": "We know it’s not human. We feel heard anyway. What mind attribution does to your users, and why it’s now a UX design dial. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "ptk57w",
+          "title": "AI can fake your portfolio, Lower latency, 5-to-9, Monochrome dataviz",
+          "link": "https://uxdesign.cc/ai-can-fake-your-portfolio-lower-latency-5-to-9-monochrome-dataviz-51af76de0552?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-27T11:17:20.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "b0wn94",
+          "title": "UX-Context Design: The future of UX design and user research?",
+          "link": "https://www.nngroup.com/articles/ux-context-design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T10:59:55Z",
+          "summary": "",
+          "categories": [
+            "Research",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1d0546t",
+          "title": "A preferred way to design tools for AI agents",
+          "link": "https://www.bolshchikov.com/p/your-agent-isnt-dumb-your-tools-are",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-27T10:32:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "items": [
