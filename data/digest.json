@@ -1,6 +1,270 @@
 {
-  "updatedAt": "2026-07-29T08:16:18.303Z",
+  "updatedAt": "2026-07-30T08:04:54.701Z",
   "days": [
+    {
+      "date": "2026-07-30",
+      "items": [
+        {
+          "id": "1l582w6",
+          "title": "Looking for UX Feedback on GItComet UI renewal",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vam5km/looking_for_ux_feedback_on_gitcomet_ui_renewal/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-30T07:01:01.000Z",
+          "summary": "Hi everyone, We're building GitComet, an open-source Git client, and one of the most common pieces of feedback we've received since launch is that the interface doesn't feel modern. The comments are often quite vague,…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "7c8hl0",
+          "title": "The accessibility paradox",
+          "link": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-30T05:24:35.000Z",
+          "summary": "",
+          "categories": [
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "oe63ba",
+          "title": "Job Getting Degraded Or…",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vaicub/job_getting_degraded_or/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-30T03:41:54.000Z",
+          "summary": "I was hired as a Product Designer for a small e-commerce company. After 1.5 years I was promoted and basically ran everything from adding product to Shopify, custom coding, organizing collections, UX and UI, and even…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1tqpnlz",
+          "title": "How do you actually get people to do user research interviews with you?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vahp7i/how_do_you_actually_get_people_to_do_user/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-30T03:10:05.000Z",
+          "summary": "Hi everyone! I'm currently a student pursuing a diploma in computer engineering (and hopefully a degree in cs in the future), but I also want to work on my user research and design skills, because I want my projects to…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1azrprc",
+          "title": "Show HN: How we use AI agents for support in an open-source project (Seafile)",
+          "link": "https://news.ycombinator.com/item?id=49105561",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T02:40:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "y4gf62",
+          "title": "Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop",
+          "link": "https://github.com/coderredlab/runNburn",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T01:30:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1azr1d1",
+          "title": "How to get more coding productivity with LLMs",
+          "link": "https://news.ycombinator.com/item?id=49104392",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T23:28:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1i75bqx",
+          "title": "TrustZone Intermezzo: Broken OP-Tee Memory Isolation on I.mx 8M",
+          "link": "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T22:34:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ma0ohn",
+          "title": "Agentic Design",
+          "link": "https://agentic-design.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T22:13:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1nauc4b",
+          "title": "Your people get AI. Get out of their way.",
+          "link": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-29T21:58:06.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1cvt6iv",
+          "title": "Battling AI fatigue as a designer and developer: a practical guide",
+          "link": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-29T21:57:29.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1tex80b",
+          "title": "The UX of Contrast: Lessons from Indika’s Game Design",
+          "link": "https://uxdesign.cc/the-ux-of-contrast-what-indika-taught-me-about-designing-intentional-contradiction-c880e9eaf084?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-29T21:57:08.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "olr2rx",
+          "title": "We NeEd To ReDuCe ClICkS",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1va26n5/we_need_to_reduce_clicks/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-29T17:02:42.000Z",
+          "summary": "lol, no. We want to make it clear what users need to focus on to complete their current task. Whenever an overly confident engineer says “we need to reduce clicks,” and you’re feeling like stirring the pot, calmly ask,…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "zopmsc",
+          "title": "Show HN: College application essay inspiration and brainstorm",
+          "link": "https://essaycompass.net/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T16:10:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1q6a9v2",
+          "title": "Show HN: Vostorq – I built the anti-Slack after working at a Slack-first company",
+          "link": "https://www.vostorq.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T14:45:42Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1kadrrg",
+          "title": "Show HN: FlipCloc for Mac out now. A gorgeous flip clock and screensaver",
+          "link": "https://flipcloc.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T14:36:42Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rbssx1",
+          "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+          "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-29T13:00:00.000Z",
+          "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "1p75yl1",
+          "title": "Claude Code Subagents: The Right Way to Delegate Work",
+          "link": "https://uxplanet.org/claude-code-subagents-the-right-way-to-delegate-work-730f12b1bc10?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-29T12:33:50.000Z",
+          "summary": "Claude Code can delegate work to specialized subagents. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "cnothj",
+          "title": "4 Design Tools That Can Make Your Website Look 10 Times More Expensive",
+          "link": "https://uxplanet.org/design-tools-make-website-look-expensive-7067aefbc01e?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-29T11:16:39.000Z",
+          "summary": "Your website has about three seconds to feel expensive or feel cheap. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "dzeush",
+          "title": "I Built an MCP Server in 30 Minutes. Claude and Cursor Could Use My API Immediately.",
+          "link": "https://uxplanet.org/i-built-an-mcp-server-in-30-minutes-claude-and-cursor-could-use-my-api-immediately-f0592dcec24e?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-29T11:16:03.000Z",
+          "summary": "I had one API. It had three endpoints, an API key header, and pagination on the list endpoint. Nothing fancy, but not a toy either. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "items": [
