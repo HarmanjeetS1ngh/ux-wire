@@ -1,6 +1,334 @@
 {
-  "updatedAt": "2026-07-30T08:04:54.701Z",
+  "updatedAt": "2026-07-31T08:30:43.135Z",
   "days": [
+    {
+      "date": "2026-07-31",
+      "items": [
+        {
+          "id": "1b0e3ot",
+          "title": "Show HN: One page personal calendar with hierarchy",
+          "link": "https://news.ycombinator.com/item?id=49119723",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T06:33:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "49falg",
+          "title": "UX Designers at Google - how are your orgs expecting you to integrate AI into your workflows?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vbcaed/ux_designers_at_google_how_are_your_orgs/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-31T01:14:11.000Z",
+          "summary": "I might be returning to work at Google, and things have changed since I've been there. Org level priorities apparently in Core to have designers 'fluent in AI'. Just curious in what ways AI is being integrated into team…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "15nbxqh",
+          "title": "Show HN: Pomi – standalone voice agent running on the Rabbit R1",
+          "link": "https://github.com/sidmohan0/pomi",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T22:49:03Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "joelzo",
+          "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+          "link": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-30T22:36:31.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "umdnj7",
+          "title": "Rethinking friction in an AI world",
+          "link": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-07-30T22:33:38.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "td2mnr",
+          "title": "After failing hidden test cases, I built a systematic checklist for",
+          "link": "https://leetcopilot.dev/blog/how-to-design-test-cases-for-leetcode-problems",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T19:18:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18ly3dx",
+          "title": "I'm starting to lose my love for product design. Is it the industry, AI, or just me?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vb0ht9/im_starting_to_lose_my_love_for_product_design_is/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-30T17:38:08.000Z",
+          "summary": "Lately I've been questioning whether product design is still the right career for me. I'm not sure if it's because of the jobs I've had, the rise of AI, or whether I'm just not cut out for it anymore. Before becoming a…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1b09njq",
+          "title": "AI policies that don't suck",
+          "link": "https://news.ycombinator.com/item?id=49112835",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T17:13:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "38y6tk",
+          "title": "Can Gamma Replace PowerPoint and Figma for Product Presentations?",
+          "link": "https://uxplanet.org/can-gamma-replace-powerpoint-and-figma-for-product-presentations-1c11308040b2?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-30T16:23:40.000Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "17gkarf",
+          "title": "Show HN: Drug Boat, Strike",
+          "link": "https://drugboatstrike.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T15:59:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "gyrtnz",
+          "title": "Squares – Browser-based quantum circuit designer, simulator, and AI assistant",
+          "link": "https://squaresquant.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T15:45:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "15k63r4",
+          "title": "Designing Docs for AI Agents",
+          "link": "https://www.jamdesk.com/blog/designing-docs-for-ai-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T15:42:44Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "y8lhi6",
+          "title": "Information architecture is the foundation AI is starving for",
+          "link": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T14:53:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1hcb520",
+          "title": "How we secure Figma's internal systems with agents",
+          "link": "https://www.figma.com/blog/how-we-secure-figmas-internal-systems-with-agents/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T14:51:23Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1iissfy",
+          "title": "Show HN: Figranium – Open-source visual Playwright control plane (Docker, API)",
+          "link": "https://figranium.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T14:00:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "164z008",
+          "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+          "link": "https://prized.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T13:29:03Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1ki7jfo",
+          "title": "How Claude remembers your project",
+          "link": "https://uxplanet.org/how-claude-remembers-your-project-b44fc53ba93a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-30T12:37:20.000Z",
+          "summary": "No matter what task Claude Code performs for you, creating context is by far the most important step in this process. When AI has a proper… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "rtqxko",
+          "title": "Show HN: Memsprout – share AI context with your teammates",
+          "link": "https://memsprout.com/docs",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T12:29:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jmsnaj",
+          "title": "Design and simulate 16×2 or 20×4 Arduino displays in seconds",
+          "link": "https://www.pockeng.com/tools/lcd.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T11:16:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1c6yuv7",
+          "title": "Beyond UI Design: 3 Things You Can Create with Claude Design",
+          "link": "https://uxplanet.org/beyond-ui-design-3-things-you-can-create-with-claude-design-d298573203c8?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-30T10:01:50.000Z",
+          "summary": "I’m continuing my experiments with Claude Design, and the more I use this tool, the more I think that Anthropic created a pretty amazing… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1azt1xq",
+          "title": "Ventora Expands Its AI Business Builder to Help Solo Founders",
+          "link": "https://news.ycombinator.com/item?id=49107855",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T09:54:05Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1adtzsy",
+          "title": "Can we stop the development of using e-mail codes, preventing users from user passwords and password managers?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vap41b/can_we_stop_the_development_of_using_email_codes/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-30T09:52:28.000Z",
+          "summary": "Honestly, I can't describe how much this infuriates me. I don't want to open my e-mail, I just want to log in with my password. Half the websites that implement a code-to-email method, block passwords nowadays. I also…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "hd8bsj",
+          "title": "Show HN: A Dark Cave – minimalist survival/settlement building game",
+          "link": "https://a-dark-cave.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T08:53:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "20lit3",
+          "title": "The company calls us Figma designers. Rather than UX Designer 🥲",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1van5ab/the_company_calls_us_figma_designers_rather_than/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-07-30T07:58:06.000Z",
+          "summary": "As a user experience designer, I work for a mid-range product firm. No one recognizes us as ux designers, let alone ui designers, and we are always referred to as Figma designers. Because of their expertise, we use…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "items": [
