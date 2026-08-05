@@ -1,6 +1,695 @@
 {
-  "updatedAt": "2026-07-31T08:30:43.135Z",
+  "updatedAt": "2026-08-05T08:13:42.013Z",
   "days": [
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "id": "1l06pyw",
+          "title": "The future of work belongs to the knowledge DJs",
+          "link": "https://uxdesign.cc/the-future-of-work-belongs-to-the-knowledge-djs-7cc596be1f77?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-05T07:36:54.000Z",
+          "summary": "",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "33cfp9",
+          "title": "Why do I feel like I am stuck as a junior even after 7 years of exp?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vg09md/why_do_i_feel_like_i_am_stuck_as_a_junior_even/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-05T07:20:44.000Z",
+          "summary": "I feel stuck in my current job at this point. I have been in UX for almost 7+ years now with a total of 9 years exp but I still feel like I am still a junior designer even at this point. I connect with devs, PM, PO…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "sebzue",
+          "title": "Show HN: GuidedReview, a Chrome extension that helps review AI generated PRs",
+          "link": "https://guidedreview.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T07:09:39Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1vow64c",
+          "title": "Am I the asshole for just being honest when people ask if their AI slop is good?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vfvdjm/am_i_the_asshole_for_just_being_honest_when/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-05T03:03:36.000Z",
+          "summary": "So I’m at my breaking point with this. Lately, people keep coming up to me, shoving their phones or screens in my face, and asking for \"honest feedback\" on things they've generated with AI. The catch? When I actually…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "hgtqv4",
+          "title": "Designing a Query System",
+          "link": "https://bal-e.org/speed/krabby/2026/query-system-design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T03:01:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "k5ql1",
+          "title": "Show HN: Memcode launches a new terminal coding agent",
+          "link": "https://www.memcode.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T02:44:07Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "3a8y35",
+          "title": "Hiring managers: before the interview, how do you gauge complexity if most portfolios focus on storytelling instead?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vfulzv/hiring_managers_before_the_interview_how_do_you/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-05T02:28:27.000Z",
+          "summary": "too much detail. not enough detail. focus on storytelling. I want to see your thinking. I don’t have time to read all of that. Hiring managers: how do you determine who to interview out of 1000s of candidates, some of…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1b3mt1w",
+          "title": "Show HN: AI product evaluation methodoloy at huby",
+          "link": "https://news.ycombinator.com/item?id=49176006",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T22:18:52Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "9lqcl5",
+          "title": "What Star Trek got right about AI",
+          "link": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-04T21:10:21.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "1tqu7h4",
+          "title": "What your AI co-designer can’t infer from your hex values",
+          "link": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-04T21:09:48.000Z",
+          "summary": "Context files I create every time I start a new client project, to onboard Claude and maximise the output quality Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "1t71o6s",
+          "title": "Show HN: Hyperlane – A IDE and ADE merging agent worktrees with native tooling",
+          "link": "https://hyperlaneide.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T20:31:07Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "13wmy9c",
+          "title": "AI-generated websites converge on each other more than human designs do",
+          "link": "https://ai-design-convergence.vercel.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T19:11:34Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "13mx5vi",
+          "title": "Hiring a mid-weight designer: reflections from the other side",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vfj42c/hiring_a_midweight_designer_reflections_from_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-04T18:42:58.000Z",
+          "summary": "I'm a senior designer hiring a mid-weight designer. The advert's been up for five days and the applications so far have been poor. Some observations from the other side of the process — partly a vent, partly sharing in…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "t9s4ea",
+          "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+          "link": "https://edotenv.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T18:36:02Z",
+          "summary": "",
+          "categories": [
+            "Tool",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "kk7tje",
+          "title": "Show HN: My journey into game development with AI",
+          "link": "https://playdowntime.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T13:19:54Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1l6bnuq",
+          "title": "A Systems Design View of Why Voter ID Is Irrelevant",
+          "link": "https://sharpermind.substack.com/p/voter-id-isnt-necessary-from-a-systems",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T13:11:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "b4gupb",
+          "title": "You’re Using Claude Design Wrong",
+          "link": "https://uxplanet.org/youre-using-claude-design-wrong-7a4c3b78a6d7?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-04T13:07:22.000Z",
+          "summary": "Common comments that I receive every time I post a new article about Claude Design are “Oh, this tool generates a pretty average design”… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "n61i0j",
+          "title": "How AI Can Make Design Work Appear Prematurely Resolved",
+          "link": "https://commonedge.org/how-ai-can-make-design-work-appear-prematurely-resolved/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T12:20:50Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1b3350w",
+          "title": "Ask HN: Has anyone solved P2P routing at 100B+ nodes without DHT degradation?",
+          "link": "https://news.ycombinator.com/item?id=49166652",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T10:33:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1v3gygi",
+          "title": "How Korea & Japan turned ordering food into a UX masterclass",
+          "link": "https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-masterclass-f64c31bd4c98?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-04T09:25:56.000Z",
+          "summary": "A study of self-ordering kiosks & tablets in Asia Continue reading on UX Collective »",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "pwhx35",
+          "title": "Show HN: AI Presentaions, Posters, and All Visual Designs",
+          "link": "https://starrykit.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-04T08:51:59Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1b71ean",
+          "title": "UX Conference October Announced (Oct 26 - Oct 29)",
+          "link": "https://www.nngroup.com/training/october-eu/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-04T08:43:32.000Z",
+          "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. October 26 - October 29, 2026.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "1kfxp1d",
+          "title": "Why 10,000 experiments work better than 10,000 hours for designers",
+          "link": "https://uxdesign.cc/why-10-000-experiments-work-better-than-10-000-hours-for-designers-1a07aa35df7f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-04T07:34:49.000Z",
+          "summary": "Airbnb threw out twenty years of optimization to grow. You might need that as well. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "e05up7",
+          "title": "Own the room, or leave it",
+          "link": "https://uxdesign.cc/own-the-room-or-leave-it-39436e89a256?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-04T07:33:45.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "e9qb2z",
+          "title": "ASML's hold over the future of chipmaking is weakening",
+          "link": "https://www.ft.com/content/af959faa-115d-4073-b9a2-68d11018d05b",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-03T23:15:30Z",
+          "summary": "",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1b2z8za",
+          "title": "Ask HN: Which OSS projects are accepting PR for UI Design contributions",
+          "link": "https://news.ycombinator.com/item?id=49160399",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-03T19:36:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "feucb4",
+          "title": "Code, craft, and the making of nested folders",
+          "link": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-03T18:43:20Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "71ksor",
+          "title": "I Ran the Same Product Research in Claude Code and Claude Design",
+          "link": "https://uxplanet.org/i-ran-the-same-product-research-in-claude-code-and-claude-design-df62dba14803?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-03T17:50:33.000Z",
+          "summary": "The Results Were Surprising Continue reading on UX Planet »",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "11ovb72",
+          "title": "Show HN: Choreo A free visual design tool for UI behavior and micro-interactions",
+          "link": "https://www.choreomotion.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-03T16:28:55Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1hi0o1r",
+          "title": "Show HN: Zizq is a fast, single-binary job queue that fits into any stack",
+          "link": "https://zizq.io",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-03T03:28:12Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1b2fj4w",
+          "title": "Ask HN: What Is Stripe Today?",
+          "link": "https://news.ycombinator.com/item?id=49150707",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-03T02:55:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1wicp3z",
+          "title": "Show HN: TFStudio – open-source design and optimization for optical thin films",
+          "link": "https://github.com/aai2k/TFStudio",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-02T16:27:32Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1an8w77",
+          "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "link": "https://sprocket-demo.spikonado.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-02T16:26:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ec0wn8",
+          "title": "Show HN: Adept – convert any YouTube playlist into a Udemy-like course",
+          "link": "https://withadept.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-02T15:57:20Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1w8smmu",
+          "title": "Show HN: I spent 2.5 years developing my 3D portfolio website, all under 5 MB",
+          "link": "https://shees.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-02T15:38:22Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "14m31qs",
+          "title": "Show HN: Fuse – statically typed functional programming language",
+          "link": "https://fuselang.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-02T11:23:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "6gqlga",
+          "title": "Show HN: Vein, a minimalist open-source resource management game",
+          "link": "https://d2ykijtrvb890q.cloudfront.net/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-02T09:44:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "2crmpo",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 08/02/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vd8uxh/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-02T05:00:39.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "34xoae",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 08/02/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vd8uxb/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-02T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1d6hpef",
+          "title": "Job Opening: People & Culture Generalist (Remote, US Based)",
+          "link": "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-01T19:25:00.000Z",
+          "summary": "NN/G is hiring a People & Culture Generalist. This is a fully remote, permanent role running the day-to-day of our People function. Three to five years of People Operations or HR generalist experience. Applications…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "murx1i",
+          "title": "TokenIgnite – Runtime Figma-to-code validation for AI workflows",
+          "link": "https://tokenignite.live",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T09:24:32Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1b0xwem",
+          "title": "Is Stripe the Internet?",
+          "link": "https://news.ycombinator.com/item?id=49129778",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T23:47:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18it2r2",
+          "title": "Show HN: Penca – branchable, versioned OLTP+OLAP on one open copy of your data",
+          "link": "https://github.com/penca-io/penca",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T21:11:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ydtsff",
+          "title": "Ineffective by Design",
+          "link": "https://dsa-observatory.eu/2026/07/30/ineffective-by-design-bits-of-freedom-vs-meta-at-the-forefront-of-enforcing-user-control-for-recommender-systems-under-the-dsa/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T18:20:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "cf9nb6",
+          "title": "Why You Need Mentorship and How to Get It Right",
+          "link": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-31T17:00:00.000Z",
+          "summary": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "cm06ur",
+          "title": "No New Name Has Replaced “UX”",
+          "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-07-31T17:00:00.000Z",
+          "summary": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1b0uls5",
+          "title": "The Mistake That Cost Me a Year",
+          "link": "https://news.ycombinator.com/item?id=49124280",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T15:23:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1e9k9qy",
+          "title": "I Tried Logo Design with Claude Design and It’s Amazing",
+          "link": "https://uxplanet.org/logo-design-with-claude-design-is-simply-amazing-947ced9915b2?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-07-31T14:45:10.000Z",
+          "summary": "Claude Design is quickly becoming my favorite tool for design ideation. The great thing about this tool is that it can be used for various… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1t2ptwa",
+          "title": "Show HN: A notebook for prototyping with your agent",
+          "link": "https://nawc.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T13:26:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "sr55rq",
+          "title": "Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin",
+          "link": "https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-31T13:16:07Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1umgdlx",
+          "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-07-31T08:00:00.000Z",
+          "summary": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-07-31",
       "items": [
