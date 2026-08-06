@@ -1,6 +1,235 @@
 {
-  "updatedAt": "2026-08-05T08:13:42.013Z",
+  "updatedAt": "2026-08-06T08:12:39.389Z",
   "days": [
+    {
+      "date": "2026-08-06",
+      "items": [
+        {
+          "id": "1pzs8hd",
+          "title": "Serious need of help with career - mod please don't delete",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vgy0wn/serious_need_of_help_with_career_mod_please_dont/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-06T08:09:15.000Z",
+          "summary": "My name is David. I'm developing my UI UX design skills with the goal of specialising in consumer productivity and self improvement apps, specifically reducing cognitive overload and early user abandonment. But I don't…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1b4nyrd",
+          "title": "Ask HN: Which model is best for pair-programming?",
+          "link": "https://news.ycombinator.com/item?id=49192610",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T04:55:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1iwis6r",
+          "title": "50 interviews, 6 finals and 0 offers. Anyone keep failing at the last round?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vgsg3a/50_interviews_6_finals_and_0_offers_anyone_keep/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-06T03:07:38.000Z",
+          "summary": "I'm a mid level designer who moved to the UK from the US. I’ve done something like 50 interview processes at this point. Six made it to a final round across the US and the UK. All include a design challenge, ofc…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1dj99op",
+          "title": "Pushback on a last-minute 4-6hr take-home for a final round — reasonable or not?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vgsfbh/pushback_on_a_lastminute_46hr_takehome_for_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-06T03:06:32.000Z",
+          "summary": "TLDR: Company switched my final-round ask last minute — from presenting past work to a 4-6hr unpaid case study on their actual product. Feels like too much. Thinking of pushing back with an alternative. Thoughts? Quick…",
+          "categories": [
+            "Research"
+          ],
+          "level": "Advanced",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "ym4qk0",
+          "title": "Defining ethical design for machines",
+          "link": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-06T02:06:36.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "17k6i67",
+          "title": "Management wants a forced redirect",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vgmgrc/management_wants_a_forced_redirect/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-05T22:41:24.000Z",
+          "summary": "When users sign up for our product, they can choose from a drop down list of available data centers. We have a new one coming in a few months, and SLT has asked me to design the following: User fills out form to create…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1i19q2w",
+          "title": "Bottle your judgment and make it outlive you",
+          "link": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-05T20:55:03.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1frxrs8",
+          "title": "Show HN: Command Code GOAT, $10/month for $70 of credits across 30 models",
+          "link": "https://twitter.com/CommandCodeAI/status/2085039006203711649",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T20:35:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tiiqrz",
+          "title": "Show HN: HomeCat – Turn a phone video into permit-ready building plans",
+          "link": "https://myhomecat.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T19:46:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1b47axh",
+          "title": "Ask HN: Developers–How Did You Get Your First Paying Customers?",
+          "link": "https://news.ycombinator.com/item?id=49187337",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T18:58:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1b4639z",
+          "title": "Show HN: I was wrong about scrollytelling landing pages",
+          "link": "https://news.ycombinator.com/item?id=49185678",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T17:05:29Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16pxd11",
+          "title": "Show HN: I made alchemical-cosmological PCB badges",
+          "link": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T16:15:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1ll96x9",
+          "title": "Show HN: AppScout – App Store downloads, revenue and widgets",
+          "link": "https://apps.apple.com/us/app/appscout-app-metrics/id6770866569",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T16:09:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "vy3w80",
+          "title": "Show HN: Everfree -AI cowriter note app on GitHub backend & Evernote migration",
+          "link": "https://everfree.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T16:02:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1d5qp7b",
+          "title": "Show HN: SlickFast Deterministic Chart/Dash Renderer, No Browser(JSON → SVG/PNG)",
+          "link": "https://slickfast.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T15:01:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1s1737x",
+          "title": "Show HN: I built one of the most advanced web-based drum/beat sequencers",
+          "link": "https://maximecb.github.io/groovie/#a_96_bar_berlin_techno_arrangement/FdAnck8QxEjUoejHv1EvwfEK6CeBmwopEcII9JpEroPEWkq1BNYCSCCGuJfjJXg-IlIsCRaIxHSJy3kypqJbIWInFCJnoAKRACYV6k66nWHiLAkKcUOiNHoJYx8spdj6AiiApQ4MYQYiORhGkyyR7YlJspwJJsWUzW0gmxi1h5BQCgiABSWcUtGvoirKXQx6x8gkTVroJyQDVpJIPpIGD0lvoyQHMeHgCKIFK8SfJ5dlnnng",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T13:50:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "150exay",
+          "title": "Show HN: Create tweet-style and text-first social posts",
+          "link": "https://www.postsfromtemplates.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T11:56:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "15ani08",
+          "title": "Why the Best Software Engineers Focus on System Design",
+          "link": "https://www.youtube.com/watch?v=LeUUxLRdvho",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-05T11:19:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "items": [
