@@ -1,6 +1,484 @@
 {
-  "updatedAt": "2026-08-06T08:12:39.389Z",
+  "updatedAt": "2026-08-09T06:35:54.503Z",
   "days": [
+    {
+      "date": "2026-08-09",
+      "items": [
+        {
+          "id": "1wog4jh",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 08/09/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vjgtw0/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-09T05:00:39.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "18vq9c2",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 08/09/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vjgtvv/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-09T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "fq9ppj",
+          "title": "Cataloged ~60 UX patterns with real citations (WCAG, Apple HIG, Material, GOV.UK) instead of generic best-practice lists",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vjcsaz/cataloged_60_ux_patterns_with_real_citations_wcag/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-09T01:29:33.000Z",
+          "summary": "Title: Cataloged ~60 UX patterns with real citations (WCAG, Apple HIG, Material, GOV.UK) instead of generic best-practice lists Got tired of \"best practice\" checklists that don't point to an actual source, so I put…",
+          "categories": [
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "18e1tni",
+          "title": "Leadership to Junior IC",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vj7j5y/leadership_to_junior_ic/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-08T21:25:52.000Z",
+          "summary": "I’m a senior UX manager and have been thinking pretty seriously about moving back into an IC role, even if it means taking a much lower title. I’m burned out on management and miss actually doing the work. I also feel…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1df77ne",
+          "title": "what to do when people straight up copy your case studies?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vj65v1/what_to_do_when_people_straight_up_copy_your_case/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-08T20:26:25.000Z",
+          "summary": "undergrad ux student here. was browsing LinkedIn and checked out a couple of peers' portfolios out of curiosity, as one does. two people i've worked with on projects either closely mirrored my case study structure…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1pm4smx",
+          "title": "Benchmarking LLMs on File System Design and Implementation",
+          "link": "https://arxiv.org/abs/2608.00280",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-08T19:19:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1xtbz8t",
+          "title": "Designers who left UX for a lower-paying career, was it worth it?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1viy6aa/designers_who_left_ux_for_a_lowerpaying_career/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-08T14:59:38.000Z",
+          "summary": "’ve felt increasingly like where the industry is going with AI—and my own values—no longer align with UX. With my first child on the way, it feels like this could be the right time to pivot. I’ve been considering it for…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "15uctjv",
+          "title": "Safety fears as scientists make first viruses designed by AI",
+          "link": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-08T11:42:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "13i7rmx",
+          "title": "Show HN: I updated my unofficial Substack Posting API",
+          "link": "https://apisubstack.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-08T08:12:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "mg1y8r",
+          "title": "Show HN: Tape Music Hub, local music library manager with a P2P phone companion",
+          "link": "https://tape-music-hub.gordo.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T20:34:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bhbvii",
+          "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+          "link": "https://news.ycombinator.com/item?id=49213660",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T17:29:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1mqigry",
+          "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
+          "link": "https://mergeoa.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T17:20:53Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "z8aaon",
+          "title": "Dogfooding vs. QA vs. User Research",
+          "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-07T17:00:00.000Z",
+          "summary": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1gbsdkg",
+          "title": "How to Decide When an AI Tool Is Worth Keeping",
+          "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-07T17:00:00.000Z",
+          "summary": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "Beginner",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "42e6v6",
+          "title": "I Turned a Product Photo Into a 3D Object Using Claude Design",
+          "link": "https://uxplanet.org/i-turned-a-product-photo-into-a-3d-object-using-claude-design-03806a7533fb?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-07T16:25:12.000Z",
+          "summary": "Claude Design can help you generate pretty much all types of design assets, including 3D objects. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "xt271y",
+          "title": "Show HN: Back end Engineer – Visual guides for system design and cloud infra",
+          "link": "https://www.backendengineer.in",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T16:00:57Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "y41sas",
+          "title": "Show HN: Mermaid flowcharts you don't have to redraw in a diagram editor",
+          "link": "https://line9.ai/diagram",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T15:50:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "3e9o8z",
+          "title": "Show HN: LettersPractice – Teach your child to read with a modified SRS engine",
+          "link": "https://letterspractice.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T14:51:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "m9mci6",
+          "title": "How Baseline Can Help You Ship Less JavaScript",
+          "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-08-07T13:00:00.000Z",
+          "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "1p4ktzz",
+          "title": "Design Systems in the Age of AI: Five Working Hypotheses",
+          "link": "https://uxdesignresearch.org/en/5-hypotheses/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T11:43:24Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "p81ifs",
+          "title": "UX Design Research – reflections on the role of UX design in the age of AI",
+          "link": "https://uxdesignresearch.org/en/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T11:33:15Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1igsnwv",
+          "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+          "link": "https://github.com/schroedinger-Hat/certo",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T09:10:30Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "13vvhoi",
+          "title": "Show HN: Remembrane – agent memory in one SQLite file, zero dependencies",
+          "link": "https://github.com/satyasairay/remembrane",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T07:51:05Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "flx00b",
+          "title": "Show HN: Open-source pixel art editor with animation and auto-tiling tilesets",
+          "link": "https://simplepixelart.com/editor",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-07T02:31:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1fnaubv",
+          "title": "What Star Trek got wrong about AI (so far)",
+          "link": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-07T00:20:56.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "ifbilr",
+          "title": "Design @ ACME",
+          "link": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-07T00:20:24.000Z",
+          "summary": "Learning from Coyote’s mishaps, misfortunes, and sidesplitting calamities Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "18b6l7w",
+          "title": "The cybernetic application",
+          "link": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-07T00:16:56.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "cks0ua",
+          "title": "Show HN: Learn System Design, one campaign at a time",
+          "link": "https://scalequest.io/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T21:55:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "nzhper",
+          "title": "Anthropic will design its own hardware to power Claude",
+          "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T20:39:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "160lo7r",
+          "title": "AI designs a novel E. coli killer (first publicly announced AI-designed virus)",
+          "link": "https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T19:33:26Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1txmdd7",
+          "title": "Show HN: Physicsbase.ai Validated Physics for AI",
+          "link": "https://www.physicsbase.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T17:45:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "z2zw0q",
+          "title": "API Is Not Your MCP Tool",
+          "link": "https://ro14nd.de/mcp-tool-design-patterns/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T16:37:33Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1npnry0",
+          "title": "Show HN: Stop Animated Images from Autoplaying",
+          "link": "https://neonglow.studio/gif-control/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T16:01:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tindrk",
+          "title": "Show HN: React Candlesticks – JSX composable Canvas charts for financial UIs",
+          "link": "https://reactcandlesticks.com/demo/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-06T13:48:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "25cvg3",
+          "title": "The Hidden Compliance Challenge in Global Payroll UX",
+          "link": "https://uxplanet.org/the-hidden-compliance-challenge-in-global-payroll-ux-2f6b6e10af0a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-06T12:34:04.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "8ynymx",
+          "title": "7 DESIGN.md Mistakes That Make AI-Generated UI Worse",
+          "link": "https://uxplanet.org/7-design-md-mistakes-that-make-ai-generated-ui-worse-9ec2dfcc44cd?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-06T10:33:27.000Z",
+          "summary": "A DESIGN.md file is a dedicated file that is supposed to help AI understand how your product should look and behave. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "items": [
