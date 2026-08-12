@@ -1,6 +1,455 @@
 {
-  "updatedAt": "2026-08-09T06:35:54.503Z",
+  "updatedAt": "2026-08-12T07:05:08.727Z",
   "days": [
+    {
+      "date": "2026-08-12",
+      "items": [
+        {
+          "id": "nmj1z9",
+          "title": "Some thoughts on forced AI use and skill loss concerns",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vm5a2q/some_thoughts_on_forced_ai_use_and_skill_loss/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T05:36:47.000Z",
+          "summary": "I've been volun-told to use AI in my work. This is the first time I've been using AI as a designer, ive been designing for 7 years without it and im nearly at the end of delivering a project with AI I found it made…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1mat74c",
+          "title": "In what order do I do them?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vm4y7p/in_what_order_do_i_do_them/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T05:18:25.000Z",
+          "summary": "I've started with my UX project and I know the design process (research, define, ideate, prototype, test), but I'm not sure what actually goes inside each process. How do you guys decide what to do in each stage? Do you…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "i3bz4a",
+          "title": "How do you follow design process in “AI native design” world?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vm4drt/how_do_you_follow_design_process_in_ai_native/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T04:47:53.000Z",
+          "summary": "Hi folks, Im exploring different ways to execute AI native design & would love to interact with folks who are already doing it or have tried it. I would like to understand different perspective, challenges around it? we…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "bz4d05",
+          "title": "Suzanne: AI tool for designing and manufacturing physical products",
+          "link": "https://www.suzanne3d.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T21:28:26Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "15cn2x",
+          "title": "What Star Wars got right about AI",
+          "link": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-11T21:06:50.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1i67ygc",
+          "title": "Designing Connection Authentication for C1 Bridge",
+          "link": "https://www.c1.ai/engineering/designing-connection-authentication-for-c1-bridge",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T18:58:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "11tqdce",
+          "title": "Imprint – Fine-tune MoE LLMs bigger than your RAM",
+          "link": "https://github.com/sigma0101111/imprint",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T18:11:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1kqzd80",
+          "title": "a letter to junior designers",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vlp7sr/a_letter_to_junior_designers/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-11T18:11:08.000Z",
+          "summary": "dear junior designer, please fuck around and find out. no one will hire you for your skills anymore. it’s not because you don't need them. or because they are useless. but because your ability to learn new ones is even…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "19dtg67",
+          "title": "TRMNL ePaper Design System",
+          "link": "https://github.com/usetrmnl/trmnl-framework",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T17:46:21Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "lnlnb7",
+          "title": "Show HN: Chain – A Python-like language with native inline C++",
+          "link": "https://github.com/Nebania/chain-lang",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T15:18:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1qrrch6",
+          "title": "Show HN: Remarc – Your feedback layer for AI collaboration",
+          "link": "https://github.com/metedata/Remarc",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T15:16:15Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "os78fy",
+          "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+          "link": "https://www.trykeet.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T14:48:37Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "11ybmz",
+          "title": "Show HN: An open-source video editor built for coding agents",
+          "link": "https://github.com/diffusionstudio/editor",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T13:19:55Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ps7nbw",
+          "title": "Design Systems Are About to Become Executable",
+          "link": "https://uxplanet.org/design-systems-are-about-to-become-executable-f125a94fe4ad?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-11T12:43:55.000Z",
+          "summary": "For years, a design system has essentially been a library of decisions. Continue reading on UX Planet »",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "enjxmd",
+          "title": "Show HN: Overlay – Design with your React components and CSS tokens in your IDE",
+          "link": "https://www.overlay.studio/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T11:06:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bjke0n",
+          "title": "Ask HN: Are we automating with AI instead of analysing then designing?",
+          "link": "https://news.ycombinator.com/item?id=49255935",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T10:28:00Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1t0qamv",
+          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-08-11T10:00:00.000Z",
+          "summary": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital…",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "1n9ckvl",
+          "title": "Show HN: Backpressure – a load simulator for system design and LLM serving",
+          "link": "https://backpressure.systems",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T06:57:29Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1lp8re0",
+          "title": "Show HN: Airship – Figma-Like Visual Editor for Claude Code, Codex and OpenCode",
+          "link": "https://github.com/0xnyn/airship",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-11T01:09:14Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "6y55k8",
+          "title": "Show HN: Pyrig – A tool that automates project setup and maintenance",
+          "link": "https://github.com/Winipedia/pyrig",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-10T22:34:55Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zr07sb",
+          "title": "Control and complexity: tension in systems design",
+          "link": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-10T22:15:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bj2bmy",
+          "title": "Why are we choosing AI for just repetitive jobs?",
+          "link": "https://news.ycombinator.com/item?id=49248002",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-10T18:51:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "14f5es7",
+          "title": "Scoping and curating AI eval datasets",
+          "link": "https://langfuse.com/academy/datasets/designing-great-datasets",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-10T18:48:13Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "8mm1ow",
+          "title": "Show HN: Bio Tools – install drug design tools easily",
+          "link": "https://github.com/David-OConnor/bio_tools",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-10T15:55:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19x4sfr",
+          "title": "PochiOto Step Sequencer",
+          "link": "https://amix-design.com/tl/tool-s-pochioto/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-10T14:49:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1f4flnx",
+          "title": "Gamma Tips & Tricks for Product Designers",
+          "link": "https://uxplanet.org/gamma-tips-tricks-for-product-designers-591582d01588?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-10T13:24:00.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1k7tc03",
+          "title": "7 DESIGN.md Tips for Better, More Consistent AI-Generated UI",
+          "link": "https://uxplanet.org/7-design-md-tips-for-better-more-consistent-ai-generated-ui-b01736d07748?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-10T12:27:26.000Z",
+          "summary": "DESIGN.md is a Markdown file that acts as a portable design system for AI coding tools like Claude Code. It helps AI tools craft design… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "dtmw1s",
+          "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
+          "link": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-10T11:11:29.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1788aez",
+          "title": "Why your clients aren’t buying and how to change that",
+          "link": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-10T11:08:31.000Z",
+          "summary": "You know it’s the right thing to do. The data screams it. Yet they still say no. Here’s the playbook that actually works. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "m8lr3y",
+          "title": "The side of the egg",
+          "link": "https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-10T11:08:08.000Z",
+          "summary": "On the next hack for our humanity, in the age of AI Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1nh6lbg",
+          "title": "The loom that raised its hand",
+          "link": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-09T20:51:26.000Z",
+          "summary": "90 years of loom engineering went into teaching machines to catch their mistakes. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "lm657k",
+          "title": "Thinking outside the box (literally)",
+          "link": "https://uxdesign.cc/thinking-outside-the-box-2c2054ea6017?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-09T18:25:26.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1cpc78r",
+          "title": "Show HN: Ember – Redshift safe color palettes",
+          "link": "https://github.com/carpdiem/ember",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-09T16:26:37Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "181vm9e",
+          "title": "PALcode for Alpha Microprocessors System Design Guide (1996) [pdf]",
+          "link": "https://download.majix.org/dec/palcode_dsgn_gde.pdf",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-09T15:30:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "items": [
