@@ -1,6 +1,260 @@
 {
-  "updatedAt": "2026-08-12T07:05:08.727Z",
+  "updatedAt": "2026-08-13T07:09:05.622Z",
   "days": [
+    {
+      "date": "2026-08-13",
+      "items": [
+        {
+          "id": "1oj6a6t",
+          "title": "What a dollhouse full of death taught me about thinking",
+          "link": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-13T04:39:08.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "916v86",
+          "title": "We’re gorging on borrowed trust and it’s going to cost us.",
+          "link": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-13T04:37:38.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1f3fton",
+          "title": "it's extremely tiring working with ai tools",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vmtrzo/its_extremely_tiring_working_with_ai_tools/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T23:11:44.000Z",
+          "summary": "i'm a founding designer at a small scale startup and the c-suit are expecting me to push frontend lately -- which is fine, whatever, but working with claude code is incredibly tiresome. a gui will give you an error…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1bpiwdv",
+          "title": "Tailscale – Information about AI for Candidates [pdf]",
+          "link": "https://cdn.sanity.io/files/w77i7m8x/production/0de35a24de4d425390546ebd521107d5444985e9.pdf",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T22:38:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "16ptqpu",
+          "title": "How to jump from intern to junior product designer?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vmrzqf/how_to_jump_from_intern_to_junior_product_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T21:59:00.000Z",
+          "summary": "Please forgive me if this has already been asked in the community. I’m wondering how do you go from intern to junior level? I’ve seen some people LinkedIn and they put product designer (mid weight it seems) before that…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "phizdy",
+          "title": "Can Claude Design Really Create a Good iOS App?",
+          "link": "https://uxplanet.org/can-claude-design-really-create-a-good-ios-app-f0701d31afcb?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-12T17:45:39.000Z",
+          "summary": "Anthropic recently significantly improved the quality of design that Claude Design generates for specific platforms. And to test the… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "qyp8hj",
+          "title": "Open Source Equivalence Checking Tool for FPGA Design",
+          "link": "https://github.com/keplertech/kepler-formal/tree/main/examples/xilinx",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T17:37:45Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1bknvn1",
+          "title": "Ask HN: What's your team's SDLC look like in this AI world?",
+          "link": "https://news.ycombinator.com/item?id=49275494",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T17:02:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "9xyctg",
+          "title": "Why is UX Design getting more bloated?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vmi1de/why_is_ux_design_getting_more_bloated/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T15:53:40.000Z",
+          "summary": "I am working in der Design and UX industry for around 15 years now. Currently I am in the application process and boy I am getting squeezed in job interviews about user research, accessibiltity, usability engineering,…",
+          "categories": [
+            "Research",
+            "Career",
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1g0gbbh",
+          "title": "Show HN: FEDERaiDE, a TUI harness with P2P multi-agent routing and built in IDE",
+          "link": "https://federaide.rocklab.in",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T15:20:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "g1ug05",
+          "title": "Show HN: Trunchbull, run real models against any benchmark in your browser",
+          "link": "https://trunchbull.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T15:14:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bkmk45",
+          "title": "We built a job board where the employers aren't human. Here's what broke",
+          "link": "https://news.ycombinator.com/item?id=49273269",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T14:49:22Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "15ws9qd",
+          "title": "Judging by the design the course looks awful",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vmeukv/judging_by_the_design_the_course_looks_awful/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-12T13:55:36.000Z",
+          "summary": "submitted by /u/Rewindcasette [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1xaypf2",
+          "title": "Tarot Was a Courtly Card Game. How Did It Become a Tool for Divination?",
+          "link": "https://www.nytimes.com/2026/08/06/arts/design/tarot-cards-morgan.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T12:02:58Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "bkz2hd",
+          "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
+          "link": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-12T11:18:06.000Z",
+          "summary": "How “Everyone can Design” means designers don’t have to wait for permission Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "yqlx6r",
+          "title": "Claude Code Doesn’t Need More Context. It Needs Less.",
+          "link": "https://uxplanet.org/claude-code-doesnt-need-more-context-it-needs-less-7a988e2c7210?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-12T11:18:05.000Z",
+          "summary": "One of the most common pieces of advice for Claude Code is simple: Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "ls2res",
+          "title": "The CSS hack that extends your website on iOS Safari",
+          "link": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-12T11:17:45.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "crixzi",
+          "title": "Show HN: Team chat you won't dread opening",
+          "link": "https://fosbury.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T08:58:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1x8lqb1",
+          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+          "link": "https://discoveredmaterials.com/research/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-12T07:51:20Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "items": [
