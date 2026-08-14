@@ -1,6 +1,291 @@
 {
-  "updatedAt": "2026-08-13T07:09:05.622Z",
+  "updatedAt": "2026-08-14T07:05:14.858Z",
   "days": [
+    {
+      "date": "2026-08-14",
+      "items": [
+        {
+          "id": "1donxyw",
+          "title": "Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch",
+          "link": "https://github.com/FWKMultiverse/WinCore",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T06:26:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ycdy8",
+          "title": "Framework: The first ePaper design system",
+          "link": "https://trmnl.com/blog/framework-design-system",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T05:43:34Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "2j3hxn",
+          "title": "Looking for a UX designer, what should I expect?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vnwiys/looking_for_a_ux_designer_what_should_i_expect/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-14T03:52:44.000Z",
+          "summary": "I'm currently building a social app and I'm struggling hard with the UI/UX design for the app. I have a budget of $1-1.5k for the initial design but I've never hired a UI/UX designer before so I don't know what to…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "ujhd03",
+          "title": "Show HN: Inplan – Before Start Coding",
+          "link": "https://github.com/melly-lgtm/inplan",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T00:29:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1jen01i",
+          "title": "Rosenfeld on the decline of UX and rethinking the work",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vns8eb/rosenfeld_on_the_decline_of_ux_and_rethinking_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-14T00:29:13.000Z",
+          "summary": "Louis just posted this. Sure it's in promotion of his Shift UX conference (which is fine - it's a great service for us, along with his book series), but I thought the sentiment was certainly worth bringing here for…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "kv7yv7",
+          "title": "AI Can Now Design Functional Viruses",
+          "link": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T23:54:31Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "5iyi3z",
+          "title": "Rethinking design leadership with swarms and flocks",
+          "link": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-13T22:18:13.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "16oqeim",
+          "title": "What Star Wars got wrong about AI (so far)",
+          "link": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-13T22:17:13.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "xwnjw9",
+          "title": "Framer is killing the marketplace… or are they?",
+          "link": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-13T22:16:40.000Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1blpgon",
+          "title": "Show HN: Hearth – a shared family workspace where an agent can build apps",
+          "link": "https://news.ycombinator.com/item?id=49292004",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T21:18:38Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fh8un6",
+          "title": "Question for hiring managers",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vnkoz6/question_for_hiring_managers/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-13T19:27:14.000Z",
+          "summary": "Hiring managers: what’s the craziest thing you’ve seen from candidates lately? This is mainly a question for hiring managers / design leads who’ve been involved in hiring UX/UI or Product Designers. With AI making it…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "15qj2gz",
+          "title": "Show HN: LymeScribe – one computer on your network transcribes for the rest",
+          "link": "https://transcribe.lymestack.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T18:18:42Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "v26qug",
+          "title": "Top 5 Claude Design Tips & Tricks for Product Designers",
+          "link": "https://uxplanet.org/top-5-claude-design-tips-tricks-for-product-designers-1f565d1a36a6?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-13T17:03:46.000Z",
+          "summary": "Claude Design is quickly becoming my favorite tool for rapid prototyping. In this article, I want to share a collection of my favorite… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "epit",
+          "title": "Show HN: Remarc – comment on anything on your screen and send it to your agent",
+          "link": "https://remarc.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T15:39:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "dwxbth",
+          "title": "Show HN: A Rosetta Stone for UI component libraries",
+          "link": "https://www.frontfamily.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T15:35:08Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1bl8y26",
+          "title": "Design with a Soul: How to make your Vibe-coded site not look like AI Slop",
+          "link": "https://news.ycombinator.com/item?id=49287430",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T15:25:00Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1bl8ac2",
+          "title": "Ask HN: Small team devs – how do you collab with UI/UX designers in the AI era?",
+          "link": "https://news.ycombinator.com/item?id=49286334",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T14:16:30Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "hrq2h0",
+          "title": "Show HN: Diffusion PDF – A Diffusion Image Model Embedded Entirely in a PDF File",
+          "link": "https://diffusion.alexvd.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T13:15:12Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18m631v",
+          "title": "Show HN: Read it easy – Read-only code editor with an improved Go to Definition",
+          "link": "https://www.readiteasy.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-13T12:30:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1b21rzq",
+          "title": "What made you think a designer was not as good as you thought they should be?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vn6suv/what_made_you_think_a_designer_was_not_as_good_as/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-13T10:21:03.000Z",
+          "summary": "I read a sentence here once: \"I work at FAANG, and yeah, we have our share of shit designers.\" Wondered how many of you judged negatively a designer you worked with and what did they do that made you think that?…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "pozixc",
+          "title": "New EU Guidelines For AI Labelling",
+          "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-08-13T10:00:00.000Z",
+          "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 31,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "items": [
