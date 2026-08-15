@@ -1,6 +1,170 @@
 {
-  "updatedAt": "2026-08-14T07:05:14.858Z",
+  "updatedAt": "2026-08-15T06:17:57.036Z",
   "days": [
+    {
+      "date": "2026-08-15",
+      "items": [
+        {
+          "id": "1n9egsn",
+          "title": "Show HN: I asked Claude to turn 20 years of my research into a game",
+          "link": "https://playhyperbubble.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T22:01:06Z",
+          "summary": "",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "9bkp3z",
+          "title": "Does this Content tree seem intuitive and smooth to you?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vohv1m/does_this_content_tree_seem_intuitive_and_smooth/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-14T20:01:15.000Z",
+          "summary": "I made this content tree to organise content on a website for an editor. I am trying to make it as intuitive as possible, so it's easy to organise everything. Currently there are the items itself, folders and…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "f6i54h",
+          "title": "Do you know how much your company is earning from the work you do?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vohj3m/do_you_know_how_much_your_company_is_earning_from/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-14T19:48:56.000Z",
+          "summary": "I recently read about Eleven labs startup, and they said, they expect from their sales people to bring 20x their salary (a person earning $100k/year is expected to bring $2mln for the company) or they are fired. Which…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "giufjg",
+          "title": "Getting started is not getting it right",
+          "link": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-14T19:26:57.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1b8blnm",
+          "title": "Show HN: Captain, AI Travel Agent",
+          "link": "https://www.moonlight.ng/captain/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T18:25:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1uaasqk",
+          "title": "why is standard fuzzy search still so garbage ?(the empty text box problem)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1voe99f/why_is_standard_fuzzy_search_still_so_garbage_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-14T17:50:10.000Z",
+          "summary": "im building a custom ecom setup and losing my mind over user search behavior. we threw algolia at the catalog thinking it'd be plug and play, but the bounce rate on the search bar is absurd. users literally dont know…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "sxtpey",
+          "title": "One AI Output Is an Example, Not an Evaluation",
+          "link": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-14T17:00:00.000Z",
+          "summary": "One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "erquli",
+          "title": "Psychological Ownership: Own the Right Things",
+          "link": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-14T17:00:00.000Z",
+          "summary": "Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "9n8ffy",
+          "title": "3 Types of Agentic Workflows in Claude Code: Safe, Risky, and Dangerous",
+          "link": "https://uxplanet.org/3-types-of-agentic-workflows-in-claude-code-safe-risky-and-dangerous-6bcf401a2fb5?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-14T15:12:54.000Z",
+          "summary": "AI agents are becoming more and more popular in many organizations. People tend to use agents in various scenarios, but this can cause a… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "ag7v8k",
+          "title": "Our job is safe.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vo50xb/our_job_is_safe/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-14T11:47:47.000Z",
+          "summary": "Sometimes I'm scared about losing my job to AI. And then I see how devs explain things, how stakeholders explain things, and I don't think even AI could make sense of it and find a middle ground for them. A big part of…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "hgn5ao",
+          "title": "Gary Kildall's Design of Knowledge Retrieval Systems for PC",
+          "link": "https://www.programmersatwork.net/blog/gary-kildalls-design-of-knowledge-retrieval-systems-for-pc",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T07:35:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1blrhf9",
+          "title": "Noviz AI is a architecture and sourcecode for ERP AI agents",
+          "link": "https://news.ycombinator.com/item?id=49295533",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T07:08:29Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "items": [
