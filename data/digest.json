@@ -1,6 +1,135 @@
 {
-  "updatedAt": "2026-08-15T06:17:57.036Z",
+  "updatedAt": "2026-08-16T06:19:55.369Z",
   "days": [
+    {
+      "date": "2026-08-16",
+      "items": [
+        {
+          "id": "o2tcwr",
+          "title": "The top three basic things for UX flow.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vpoljc/the_top_three_basic_things_for_ux_flow/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T05:35:20.000Z",
+          "summary": "I am trying to understand, while creating a user experience journey, what are the top three we should consider before even thinking of creating the UX journey? submitted by /u/NareshJanagam [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1j7nfx",
+          "title": "Do you think UX can sit between the crossover and intersection between web development, design and education, in combination with other things?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vpo9df/do_you_think_ux_can_sit_between_the_crossover_and/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T05:16:32.000Z",
+          "summary": "Title. submitted by /u/AcadiaLow9013 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "adrfzo",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 08/16/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vpnyom/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T05:00:42.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "18bctzj",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 08/16/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vpnyo8/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T05:00:41.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "16cr36f",
+          "title": "After 4 years of researching UX, I’m reconsidering getting a design degree because of the job market. Am I being realistic?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vpjv4d/after_4_years_of_researching_ux_im_reconsidering/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T01:29:34.000Z",
+          "summary": "I’m 17 and supposed to start my first year of a Bachelor of Design program this September. My original plan was to focus heavily on UX/UI, interaction design and technology because I genuinely love design and tech. This…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "6ptdrk",
+          "title": "Show HN: Open-Source Framer Alternative",
+          "link": "https://revyme.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-15T17:16:58Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1mur1u7",
+          "title": "UX designers: do you still use pen & paper?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vp75hz/ux_designers_do_you_still_use_pen_paper/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-15T16:25:46.000Z",
+          "summary": "I'm curious how UX/UI designers approach the very early stages of a project — before opening Figma or another digital tool. Do you still reach for a pencil and paper when starting a new project? If yes, what do you…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "uwfuza",
+          "title": "How to become an AI Designer",
+          "link": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-15T13:16:28.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1mxmhum",
+          "title": "Who gets the meter?",
+          "link": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-15T13:15:07.000Z",
+          "summary": "We’ve spent 180 years trying not to feel the cost of the machine. AI just turned the meter back on. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "items": [
