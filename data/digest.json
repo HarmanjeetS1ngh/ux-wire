@@ -1,6 +1,236 @@
 {
-  "updatedAt": "2026-08-16T06:19:55.369Z",
+  "updatedAt": "2026-08-17T06:30:09.829Z",
   "days": [
+    {
+      "date": "2026-08-17",
+      "items": [
+        {
+          "id": "3cyvep",
+          "title": "Design of the HTTPS Layer for AI Governance",
+          "link": "https://zenodo.org/records/21967859",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-17T03:06:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "11n5kuh",
+          "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+          "link": "https://continuum-app.xyz/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-17T00:58:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1e1hvgh",
+          "title": "I’m building a visual editor where editable fields' blue borders become more visible as the cursor gets closer. Does this feel intuitive?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vqd8rv/im_building_a_visual_editor_where_editable_fields/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-17T00:25:44.000Z",
+          "summary": "submitted by /u/TheBanq [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1koj7mo",
+          "title": "Working with people who struggle",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vqayst/working_with_people_who_struggle/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T22:43:37.000Z",
+          "summary": "I have many customers who have dementia or struggle in some other way. I want to be useful to them. But I feel like I’m failing them. My grandmother had dementia and she died. Worst day of my life. But that’s another…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "yy3a6m",
+          "title": "YouTube channel to learn good UX",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vq9brk/youtube_channel_to_learn_good_ux/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T21:34:02.000Z",
+          "summary": "I’m trying to improve my UX skills. It’s a constant complaint that comes up. Anyone know a good YouTube channel on good UX? Please dont say Claude design. Thanks Focus is on android and iOS UI skills for mobile app.…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "gshhld",
+          "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+          "link": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-16T17:13:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1i3pu3y",
+          "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+          "link": "https://huggingface.co/blog/FINAL-Bench/open-discovery-challenge",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-16T16:08:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1byv949",
+          "title": "Show HN: Always responsive UI for a coding agent",
+          "link": "https://news.ycombinator.com/item?id=49320073",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-16T13:50:54Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "af5j24",
+          "title": "System design rules I always come back to",
+          "link": "https://www.thetrueengineer.com/p/10-system-design-rules-i-always-come",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-16T13:27:11Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1lkfuur",
+          "title": "The state of Design Leaders",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vptivn/the_state_of_design_leaders/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-16T10:26:40.000Z",
+          "summary": "Hey, wanted to check what are your Design Leads like? Are there a lot of leads/directors that focus too much on visuals, not as much on solving customer problems or is that just a noise I see online? Share your story…",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "4e8b4d",
+          "title": "You already know how to make it accessible",
+          "link": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-16T10:08:38.000Z",
+          "summary": "",
+          "categories": [
+            "Accessibility"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "dmbp84",
+          "title": "generative user research tools in 2026, which ones survived real studies?",
+          "link": "https://www.reddit.com/r/userexperience/comments/1voj3eu/generative_user_research_tools_in_2026_which_ones/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-08-14T20:48:42.000Z",
+          "summary": "A lot of the AI research tools that were everywhere a couple years ago seem dead or pivoted now… Maze added AI everywhere, Dovetail keeps shipping, Marvin has its fans, and BuildBetter has been covering the synthesis…",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "xq689w",
+          "title": "Building a design review tool, stuck on the part that decides what is worth showing",
+          "link": "https://www.reddit.com/r/userexperience/comments/1vn0w1k/building_a_design_review_tool_stuck_on_the_part/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-08-13T04:43:05.000Z",
+          "summary": "I’m building a tool around a simple problem: teams are shipping faster than ever, but it’s getting harder to catch experience problems before they reach users. The idea isn’t to generate another generic “your button…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1og21b3",
+          "title": "the best interfaces are the ones you completely forget you’re using. why is zero friction UX so rare now?",
+          "link": "https://www.reddit.com/r/userexperience/comments/1vkbw2e/the_best_interfaces_are_the_ones_you_completely/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-08-10T05:23:30.000Z",
+          "summary": "been thinking a lot about cognitive load in everyday interactions lately. the products i genuinely love are the ones where the interface just dissolves into the background. compare that to 90% of modern apps/web…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "4vijpm",
+          "title": "best call recording setup for user research in 2026?",
+          "link": "https://www.reddit.com/r/userexperience/comments/1vis044/best_call_recording_setup_for_user_research_in/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-08-08T09:58:52.000Z",
+          "summary": "Knee-deep in user research calls lately and the recording side is handled, but the synthesis layer is where it falls apart. Grain and tldv are good for clips, Dovetail wants everything manually tagged before it's…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "132jt8w",
+          "title": "Portfolio & Design Critique — August 2026",
+          "link": "https://www.reddit.com/r/userexperience/comments/1vccpvt/portfolio_design_critique_august_2026/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-08-01T04:00:11.000Z",
+          "summary": "Post your portfolio or something else you've designed to receive a critique. Generally, users who include additional context and explanations receive more (and better) feedback. Critiquers: Feedback should be supported…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "10lfwzj",
+          "title": "Career Questions — August 2026",
+          "link": "https://www.reddit.com/r/userexperience/comments/1vccpvk/career_questions_august_2026/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-08-01T04:00:10.000Z",
+          "summary": "Are you beginning your UX career and have questions? Post your questions below and we hope that our experienced members will help you get them answered! Posting Tips Keep in mind that readers only have so much time…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-16",
       "items": [
