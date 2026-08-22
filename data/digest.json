@@ -1,6 +1,208 @@
 {
-  "updatedAt": "2026-08-21T06:24:45.039Z",
+  "updatedAt": "2026-08-22T06:19:36.522Z",
   "days": [
+    {
+      "date": "2026-08-22",
+      "items": [
+        {
+          "id": "j3oh0o",
+          "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+          "link": "https://krishna-modi12.github.io/frontend-design-pro/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-22T05:52:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "pqqw27",
+          "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+          "link": "https://ozbrain.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T23:09:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1wbir68",
+          "title": "Hosting my own test website while I learn?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vut2l8/hosting_my_own_test_website_while_i_learn/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-21T21:22:08.000Z",
+          "summary": "I would like to learn UX Design as something to do on the side for a little extra cash here and there , maybe full time if I can manage to actually get good enough at it. My question is, though. Is it feasible for me to…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1qtjfi1",
+          "title": "What were the worst ideas you had to execute on, and what were the results in user behavior?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vurmid/what_were_the_worst_ideas_you_had_to_execute_on/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-21T20:25:36.000Z",
+          "summary": "What was forced upon you to deliver? submitted by /u/What-Bloody-Hell-NOW [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "zq2lix",
+          "title": "Show HN: Zroar – Serialized Roaring Bitmaps in Zig",
+          "link": "https://github.com/manishrjain/zroar",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T20:18:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10bgait",
+          "title": "nothing makes me more anxious than this",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vuoy26/nothing_makes_me_more_anxious_than_this/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-21T18:45:29.000Z",
+          "summary": "thank you, apple submitted by /u/Alfakappa [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "vlusoi",
+          "title": "The Download: threats from space mirrors and credit for AI drugs",
+          "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T17:02:27Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "135qfdy",
+          "title": "Artificial Intelligence: Glossary",
+          "link": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-21T17:00:00.000Z",
+          "summary": "Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1ivzrpe",
+          "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+          "link": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-21T17:00:00.000Z",
+          "summary": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "w3fkhv",
+          "title": "Show HN: Caspian – Talk to Human Tool for AI Agents",
+          "link": "https://github.com/TryCaspian/caspian-sdk",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T16:17:58Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "114v351",
+          "title": "Claude Design for UX: How to Design Complete User Flows, Not Just UI Screens",
+          "link": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-21T13:40:13.000Z",
+          "summary": "Claude Design is a very nice tool for quick prototyping. It helps you turn your idea into an interactive prototype in no time. But you can… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "Beginner",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1nfu7r2",
+          "title": "With another addictive design trial underway, curious: How have the designers in industry changed their approach in engagement-driven UX?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vugat6/with_another_addictive_design_trial_underway/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-21T13:24:14.000Z",
+          "summary": "submitted by /u/ItsXplode [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1c29y5x",
+          "title": "Ask HN: Do teams really need to use GitHub?",
+          "link": "https://news.ycombinator.com/item?id=49386514",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T11:26:50Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10zndtm",
+          "title": "When AI designs a drug, who gets the credit?",
+          "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T11:02:05Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1vg8zm2",
+          "title": "Domain-Driven Design matters more when AI writes your code",
+          "link": "https://threedots.tech/post/ddd-and-ai-coding/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-21T07:11:39Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "items": [
