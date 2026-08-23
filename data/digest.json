@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-08-22T06:19:36.522Z",
+  "updatedAt": "2026-08-23T06:21:00.282Z",
   "days": [
+    {
+      "date": "2026-08-23",
+      "items": [
+        {
+          "id": "9iof56",
+          "title": "Current UX situation",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vvxytv/current_ux_situation/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-23T05:02:21.000Z",
+          "summary": "Recently, I joined an MNC as a Senior UX Designer after spending almost two years at a product-based startup, where I owned a lot of things end-to-end. On my first day, my manager told me, “Make sure you use Figma as…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "c09dpo",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 08/23/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vvxxgr/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-23T05:00:36.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "k9iz0o",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 08/23/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vvxxgn/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-23T05:00:36.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "1siciy3",
+          "title": "What are Your Success Stories?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vvok7n/what_are_your_success_stories/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-22T21:31:30.000Z",
+          "summary": "I qualify success as being able to sustain yourself at any level above drowning. So, what kind of come-ups did you all have to go through in order to actually start profiting in UI/UX Design? submitted by…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1opkdmh",
+          "title": "Does anyone still enjoy and want to be a UX Designer?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vvk6od/does_anyone_still_enjoy_and_want_to_be_a_ux/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-22T18:37:05.000Z",
+          "summary": "I’ve been hearing designers have negative experiences and wanting to quit the industry all together. But is there anyone who has a different take on this industry? Asking for myself because I am trying to stay positive…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1lg4nct",
+          "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+          "link": "https://marcua.net/minitools/figmimic/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-22T18:11:40Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1fwmv6h",
+          "title": "Anonymization isn't a property of data, it's a relationship",
+          "link": "https://medium.com/@contador-alencar/on-anonymizing-data-without-hiding-behind-the-law-799c8238fad1",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-22T16:32:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "tukfm0",
+          "title": "Five things make agent-built UI look generic. Each takes 30 seconds to check",
+          "link": "https://tailthemes.com/blog/ai-design-slop-quality-gate",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-22T11:07:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "6wyxmz",
+          "title": "Frontend design - the new role emerging at our org",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vv6puc/frontend_design_the_new_role_emerging_at_our_org/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-22T08:26:05.000Z",
+          "summary": "We had UX Design and Frontend engineering. What is starting to be apparent in our org is that designers are still far better at design than the front end engineers, now they can produce front end experiences, using AI…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-22",
       "items": [
