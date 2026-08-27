@@ -1,6 +1,571 @@
 {
-  "updatedAt": "2026-08-23T06:21:00.282Z",
+  "updatedAt": "2026-08-27T16:59:48.083Z",
   "days": [
+    {
+      "date": "2026-08-27",
+      "items": [
+        {
+          "id": "qxnmzd",
+          "title": "New book on System Design: is it any good?",
+          "link": "https://books.lextrem.com/system-design-1/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T16:59:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "hzk4ob",
+          "title": "An urgent plea to anyone making their Portfolio right now",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vzyuaz/an_urgent_plea_to_anyone_making_their_portfolio/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-27T16:29:24.000Z",
+          "summary": "A gentle reminder to all Product Designers, Frontend devs and general UI UX people making their portfolio: Please stop making these War & Peace-long, Game of Thrones-sized, Epic of Gilgamesh-ass looking case studies.…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1dqaf95",
+          "title": "Show HN: Kitewing marketing site, inspired by Braun industrial design ca. 1968",
+          "link": "https://www.kitewing.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T15:20:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1g9h03j",
+          "title": "How to Design AI Products Users Can Trust",
+          "link": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-27T14:34:09.000Z",
+          "summary": "Handling AI Uncertainty with Claude Design Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "7axixl",
+          "title": "Show HN: Open Session, the open-source cloud agent-orchestrator",
+          "link": "https://www.opensession.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T12:57:37Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dslovn",
+          "title": "Show HN: Invader – an indie iOS podcast player that never phones home",
+          "link": "https://invader.gg/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T12:34:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "o90o7a",
+          "title": "I updated the warped navigation concept based on your feedback. Is this version easier to read?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vzqbfe/i_updated_the_warped_navigation_concept_based_on/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-27T10:37:36.000Z",
+          "summary": "I posted an earlier version here a few days ago and got a lot of useful feedback, so this is the next iteration. The main change in this video is a direct on/off comparison of the warped view, making it easier to judge…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "apn3xz",
+          "title": "Show HN: I built an agent-first productivity bridge for all your agents",
+          "link": "https://www.taskshell.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T08:24:51Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1j8c7ya",
+          "title": "Stay the fuck away from a a private equity owned tech company!",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vzi146/stay_the_fuck_away_from_a_a_private_equity_owned/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-27T02:55:36.000Z",
+          "summary": "Like many I have had the misfortune of working for one and it has hands down been the worst piece of shit company I have ever worked for in my two decade long career. CAREER ADVICE 101: Why working for a Private Equity…",
+          "categories": [
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "16jjdg0",
+          "title": "How I design with AI as an engineer who is not a designer and hates slop",
+          "link": "https://ref.tools/blog/how-i-design-with-ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T01:36:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "wi8qw3",
+          "title": "Show HN: Visualize whether you run too many coding agents, or too few",
+          "link": "https://github.com/JerryZLiu/AgentPlayback",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T22:45:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "c0jez4",
+          "title": "AI has a hospitality problem money can’t fix",
+          "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-26T21:51:09.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1qacpee",
+          "title": "How I Design with AI",
+          "link": "https://twitter.com/reactiverobot/status/2092638003789439075",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T20:18:52Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "yewtng",
+          "title": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
+          "link": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T18:16:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "whkd9m",
+          "title": "AI makes everyone a designer/engineer, in the same way a camera makes you a photographer.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1vz4zsn/ai_makes_everyone_a_designerengineer_in_the_same/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-26T18:14:58.000Z",
+          "summary": "That's it. That's the post. I'm so over these sales dickheads and executives thinking they can do my job. It's insulting to say the least. submitted by /u/SleepingCod [link] [comments]",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "115r7c9",
+          "title": "Demaking Claude's Designs in Beekeeper Studio",
+          "link": "https://www.rathboma.com/2026/08/25/reverting-ai-designs-in-beekeeper-studio",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T18:09:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1avml25",
+          "title": "How well do agents use your design system?",
+          "link": "https://www.sanity.io/engineering/design-system-evals",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T17:51:57Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1on2tgg",
+          "title": "Show HN: Build your own theme park",
+          "link": "https://www.magicpatterns.com/theme-park",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T16:40:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1qi3zq4",
+          "title": "My Top 5 Favorite Ways of Using DESIGN.md in Claude Code",
+          "link": "https://uxplanet.org/my-top-5-favorite-ways-of-using-design-md-in-claude-code-d1b52fd49cea?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-26T15:46:48.000Z",
+          "summary": "I think that DESIGN.md is the second most important Markdown file for Claude Code context, right after CLAUDE.md Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "14p1o0n",
+          "title": "Show HN: Radian UI a copy-paste React components with a synced Figma kit",
+          "link": "https://radianui.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T15:44:33Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "bmob4m",
+          "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+          "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T15:22:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1lgaz2l",
+          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-08-26T13:00:00.000Z",
+          "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "146547n",
+          "title": "Show HN: Firmament is the Limit – a one-button iPhone flight game",
+          "link": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T09:59:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rnzrz1",
+          "title": "Show HN: Propose and Dual-Control for DNS Changes",
+          "link": "https://www.loom.com/share/16dff02ee5604b7daf3ebc7c9c93d8a4",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T05:06:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ch30oz",
+          "title": "Ask HN: How do you explain system design to engineers who weren't in the room?",
+          "link": "https://news.ycombinator.com/item?id=49444092",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T04:02:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "27ypjw",
+          "title": "Tooey: Figma for Terminal UI Design",
+          "link": "https://tooey.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-26T01:27:15Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jduhij",
+          "title": "The function — the role of software in society",
+          "link": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-25T22:13:04.000Z",
+          "summary": "A story of inputs, outputs, and the tools between. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "7urxvs",
+          "title": "Show HN: Ecdeos – P2P Web/Native Distributed OS on Entity Core Protocol",
+          "link": "https://ecdeos.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-25T21:20:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "urrl3y",
+          "title": "What Blade Runner got right about AI",
+          "link": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-25T17:12:03.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "qm7hk",
+          "title": "Show HN: Save Claude, codex, Grok and OpenCode sessions to an infinite canvas",
+          "link": "https://agentgrid.sh/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-25T15:54:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "15g0w4f",
+          "title": "The Best Way to Design a Product With Claude Design",
+          "link": "https://uxplanet.org/the-best-way-to-design-a-product-with-claude-design-82f83842c99d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-25T15:51:02.000Z",
+          "summary": "Ask Claude to design the user journey not the UI Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "nhest7",
+          "title": "When Fonts Fall",
+          "link": "https://www.figma.com/blog/when-fonts-fall/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-25T15:29:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1c3niyx",
+          "title": "Show HN: A hash-chained ledger for AI reasoning you can verify yourself",
+          "link": "https://www.sdi-protocol.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-25T15:09:35Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ogcgmu",
+          "title": "Claude Code’s New Concise Style Can Save You a Lot of Tokens",
+          "link": "https://uxplanet.org/claude-codes-new-concise-style-can-save-you-a-lot-of-tokens-5ef2bd0241fc?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-25T12:06:08.000Z",
+          "summary": "And it makes AI output more designer-friendly Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "5uchcs",
+          "title": "What luxury bags can teach designers about how to adapt to a changing deal",
+          "link": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-25T11:18:39.000Z",
+          "summary": "Design isn’t becoming lame. Your screens don’t vouch for you anymore. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "xk4kuu",
+          "title": "Researcher-in-the-loop",
+          "link": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-25T11:18:37.000Z",
+          "summary": "",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": false
+        },
+        {
+          "id": "ntgbn2",
+          "title": "Why Your Website Should Never Stop Changing",
+          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-08-25T08:00:00.000Z",
+          "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 33,
+          "isHighlight": true
+        },
+        {
+          "id": "hkb9fw",
+          "title": "Show HN: I built an AI music generator with some harnesses",
+          "link": "https://onlymusic.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-25T07:55:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1cg1gsw",
+          "title": "How Much to Charge-Freelance/Contracting – Web/UX/Dev/Marketing Any Niche (2026)",
+          "link": "https://news.ycombinator.com/item?id=49427649",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-25T00:27:14Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1n09nob",
+          "title": "You Can Now Design in Claude Code",
+          "link": "https://uxplanet.org/you-can-now-design-in-claude-code-2946d6088e4a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-24T12:58:35.000Z",
+          "summary": "Claude Code recently got a new skill /design that lets you craft designs right in Claude Code. When you use this skill, Claude creates a… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1e1favl",
+          "title": "No log off, How to become an AI Designer, vibe coded portfolios",
+          "link": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-24T11:15:25.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "14j6bii",
+          "title": "UX Conference November Announced (Nov 9 - Nov 13)",
+          "link": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-24T06:48:00.000Z",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. November 9 - 13, 2026.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "1cff6lq",
+          "title": "Centaur vs. Cyborg Being a Fisherman",
+          "link": "https://news.ycombinator.com/item?id=49413996",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-24T00:34:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "items": [
