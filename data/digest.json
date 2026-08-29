@@ -1,6 +1,249 @@
 {
-  "updatedAt": "2026-08-27T16:59:48.083Z",
+  "updatedAt": "2026-08-29T11:53:47.016Z",
   "days": [
+    {
+      "date": "2026-08-29",
+      "items": [
+        {
+          "id": "10nvith",
+          "title": "Breakscale: Distributed Systems Design Simulator",
+          "link": "https://github.com/xevrion/breakscale",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T08:57:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1cjbniu",
+          "title": "Ask HN: What BOYK AI client are you using?",
+          "link": "https://news.ycombinator.com/item?id=49486912",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T04:38:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1lygeps",
+          "title": "Show HN: SlideX – Open-source presentations with MDX",
+          "link": "https://www.slidexdeck.com/en/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T02:42:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1491btn",
+          "title": "Show HN: SQLite-diff-log – zero-dependency SQLite audit logging via triggers",
+          "link": "https://github.com/MigMarGil/sqlite-diff-log",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-28T22:25:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "9pj3ci",
+          "title": "SigmaPointPi, one financial system for startups and operators",
+          "link": "https://www.sigmapointpi.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-28T21:11:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1cja6um",
+          "title": "Is \"An agent with tools\" the only valid LLM application?",
+          "link": "https://news.ycombinator.com/item?id=49484000",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-28T20:41:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1onef6w",
+          "title": "Forced to use AI to keep up with deadlines",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w0zv8k/forced_to_use_ai_to_keep_up_with_deadlines/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-28T19:13:19.000Z",
+          "summary": "I’m a product/graphic designer copany where the processes are kind of a mess. I’m the only designer across 3 teams in a startup environment. Deadlines are constantly way shorter than the actual time the work should…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1bgzq2q",
+          "title": "What are some dumb things or big red flags you’ve seen in UX designers you’ve worked with?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w0weqp/what_are_some_dumb_things_or_big_red_flags_youve/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-28T17:07:16.000Z",
+          "summary": "I mean things that made you think they were not knowledgeable, not skilled enough, or just generally bad at the job. I’m curious about the kinds of things that make someone seem weak at the role, whether it’s poor…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "g9pgc7",
+          "title": "AI Can't Replace Real Research in Empathy Mapping",
+          "link": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-28T17:00:00.000Z",
+          "summary": "AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "y11byf",
+          "title": "The Custodial Era of UX: Cleaning Up After AI",
+          "link": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-08-28T17:00:00.000Z",
+          "summary": "AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1q1a0lu",
+          "title": "Punishing users is a choice",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w0scn7/punishing_users_is_a_choice/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-28T14:36:41.000Z",
+          "summary": "Just a reminder that much behavior we live with is a choice. Printers, even HP printers like my older laser here, used to give you options to keep working instead of deciding for you that it's time to change the…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1uic49d",
+          "title": "The Horrible State of AI-Powered Product Design in 2026",
+          "link": "https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-28T14:24:38.000Z",
+          "summary": "AI-powered product design process in 2026 is simultaneously incredible and deeply disappointing. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1mukr88",
+          "title": "Show HN: Coordination Layer for Coding Agents",
+          "link": "https://twing.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-28T14:08:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1l0xz03",
+          "title": "We made AI-readability a requirement for our design system. Here's what changed.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w0nazz/we_made_aireadability_a_requirement_for_our/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-28T10:56:41.000Z",
+          "summary": "I help lead design at an enterprise DevOps platform. Our designers and a growing number of PMs and engineers now build UI with Claude Code, Cursor, etc. About a year into that we noticed something frustrating: the…",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1cip5rr",
+          "title": "Show HN: Taste Library, a Spiritual Successor to Delicious Library",
+          "link": "https://news.ycombinator.com/item?id=49472206",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T22:39:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1gzzqlb",
+          "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+          "link": "https://github.com/experientiallabs/experiential",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T21:18:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "8q6lh9",
+          "title": "What Blade Runner got wrong about AI (so far)",
+          "link": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-27T20:22:49.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "5wwib4",
+          "title": "Reservoir: The Design System of the NYPL",
+          "link": "https://nypl.github.io/nypl-design-system/reservoir/v4/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-27T18:11:38Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "items": [
