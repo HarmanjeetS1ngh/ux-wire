@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-08-29T11:53:47.016Z",
+  "updatedAt": "2026-08-30T10:50:53.974Z",
   "days": [
+    {
+      "date": "2026-08-30",
+      "items": [
+        {
+          "id": "18tuzd4",
+          "title": "Interactive element to give control over the browser's chrome (the collapsing address and navigation bar)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w2djn8/interactive_element_to_give_control_over_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-30T10:04:12.000Z",
+          "summary": "I tried to build such an element for my website to be visible on mobile screens, but it's a pretty difficult task, especially since different browsers are executing the hiding and reappearing of the browser's chrome…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "10aubif",
+          "title": "\"What counts\" is a design decision, and a 2023 paper puts a number on what it costs the user",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w2bgab/what_counts_is_a_design_decision_and_a_2023_paper/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-30T08:02:54.000Z",
+          "summary": "Every progress display contains a decision that the user never sees: what counts. Not what they did, but which of the things they did the system is willing to record. A 2023 paper in the Journal of Consumer Research…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "8h3syy",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 08/30/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w286qe/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-30T05:00:56.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "nfu6ht",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 08/30/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w286q8/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-30T05:00:56.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "17itwf2",
+          "title": "How would you introduce a product mindset in a developer-driven software company?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w27nhb/how_would_you_introduce_a_product_mindset_in_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-30T04:32:42.000Z",
+          "summary": "(Written with some help from ChatGPT because I don’t want to make a fool of myself. English isn’t my first language 😅 Sorry for the long post!) Hi everyone, this is my first time posting on this sub. I’m a designer at…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1cjuove",
+          "title": "Tell HN: STOP making Vibe Slop websites that LAG on my MBP and workstation",
+          "link": "https://news.ycombinator.com/item?id=49495392",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-30T03:18:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1cjuopf",
+          "title": "Ask HN: Hard Mode for LLMs",
+          "link": "https://news.ycombinator.com/item?id=49495324",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-30T03:05:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1cjs7ru",
+          "title": "Ask HN: How to break Claude Code addiction?",
+          "link": "https://news.ycombinator.com/item?id=49491745",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T17:43:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "zlm9dt",
+          "title": "An appreciation post to all you incredible UX / UI designers",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w1lclx/an_appreciation_post_to_all_you_incredible_ux_ui/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-29T12:32:14.000Z",
+          "summary": "Thank you ❤️ In this age of AI with so many people generating the same similarly designed web app / mobile app has made me really appreciate the genius of UX / UI designers. Having been a software engineer for over 10…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "items": [
