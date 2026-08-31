@@ -1,6 +1,230 @@
 {
-  "updatedAt": "2026-08-30T10:50:53.974Z",
+  "updatedAt": "2026-08-31T12:01:45.187Z",
   "days": [
+    {
+      "date": "2026-08-31",
+      "items": [
+        {
+          "id": "1l426ht",
+          "title": "Blank pages, Researcher-in-the-loop, Design’s craft crisis",
+          "link": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-31T11:59:52.000Z",
+          "summary": "",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "pl8ofs",
+          "title": "Onboarding advice",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w3bflg/onboarding_advice/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-31T11:48:48.000Z",
+          "summary": "I’m in week 3 of a new product design role. I’m the sole product designer struggling to absorb and understand the subject matter to do my job. I feel bad constantly asking team members to explain things to me as they…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1pf98qy",
+          "title": "UX in 2027 may be less about interfaces and more about behavior",
+          "link": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-31T11:09:53.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1u5bnxs",
+          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-08-31T11:00:00.000Z",
+          "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "1mfgdoj",
+          "title": "The most annoying fights you had with the web design tool for your portfolio?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w39lz4/the_most_annoying_fights_you_had_with_the_web/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-31T10:19:05.000Z",
+          "summary": "What took longer than you wanted or forced you to learn far more stuff from the development side just to get it done? What kept breaking? What made you too angry to continue and you had to take a longer break? submitted…",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1ya2fq0",
+          "title": "Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
+          "link": "https://seenshot.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T09:56:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1103ysw",
+          "title": "We sped up the wireframe step and it didn't change the handoff at all. Now I'm not sure what the wireframes were doing.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w38bba/we_sped_up_the_wireframe_step_and_it_didnt_change/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-31T09:07:52.000Z",
+          "summary": "I plan and design at a small startup. One developer, one planner, me. My handoff has been the same for years PRD, screen list, wireframes, then a call for the parts the wireframes couldn't say. Recently we automated the…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "hxjl31",
+          "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
+          "link": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T09:04:32Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "v9c4lb",
+          "title": "Question for those involved in reviewing case studies or came from a company who dismissed UX",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w332dq/question_for_those_involved_in_reviewing_case/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-31T04:18:24.000Z",
+          "summary": "I feel my projects are poor due to the nature of the company I come from not valuing UX or allowing standard UX process or involvement. I have no hope in any work I have meaningfully done at a job I have unfortunatley…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1cvy3k4",
+          "title": "Ask HN: What do your job interviews look like? (August 2026)",
+          "link": "https://news.ycombinator.com/item?id=49505033",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T02:43:53Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "w0khn7",
+          "title": "Sitegeist – The ultimate design extraction toolkit",
+          "link": "https://chromewebstore.google.com/detail/sitegeist/npgjkgkkjcbbafihmojgodekkfgnjgdc",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T00:57:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1pnc92e",
+          "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
+          "link": "https://arxiv.org/abs/2608.26418",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T00:37:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "lp5nqc",
+          "title": "Neuroqueering design practice",
+          "link": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-30T21:46:34.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "19keeiw",
+          "title": "Rethinking success beyond the corporate stairs in the world of design",
+          "link": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-30T19:20:13.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "133nymo",
+          "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+          "link": "https://studio.cogram.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-30T18:49:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "dsln9t",
+          "title": "Show HN: Piqt (iOS) – on device photo and video curator",
+          "link": "https://piqt.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-30T15:52:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "llzw86",
+          "title": "Show HN: Snaketron – Competitive multiplayer Snake. Back after 14 years",
+          "link": "https://snaketron.io",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-30T15:23:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "items": [
