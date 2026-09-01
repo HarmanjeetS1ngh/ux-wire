@@ -1,6 +1,262 @@
 {
-  "updatedAt": "2026-08-31T12:01:45.187Z",
+  "updatedAt": "2026-09-01T10:40:20.958Z",
   "days": [
+    {
+      "date": "2026-09-01",
+      "items": [
+        {
+          "id": "1ru5toq",
+          "title": "Show HN: Unitpost/email – open-source Email Components and Layouts",
+          "link": "https://www.unitpost.com/email",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T09:30:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "v7qs4p",
+          "title": "Suggestions for books on business applications UI/UX design",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w45dit/suggestions_for_books_on_business_applications/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-01T08:03:04.000Z",
+          "summary": "I'm focused on trying to optimize UI/UX design for business systems similar to the image attached. I'm trying to find references that will match what i'm trying to build without lots of unnecessary information since I…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1k4090w",
+          "title": "How do you see UX design in 15 years?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w45349/how_do_you_see_ux_design_in_15_years/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-01T07:46:46.000Z",
+          "summary": "​ I am an industrial designer, and I am choosing what I want to specialize in. I became very interested in service design and experience design because I realized that you can move from digital design to physical…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "nt88vk",
+          "title": "Show HN: I built a real-time translator for Google Meet",
+          "link": "https://meelang.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T06:20:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1cqg4b6",
+          "title": "Show HN: Codex Skin, a plugin for applying themes",
+          "link": "https://codexskin.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T05:40:36Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1sh7i17",
+          "title": "Show HN: Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
+          "link": "https://www.seatlr.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T03:46:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1qgove1",
+          "title": "Which website builder do you use to create your portfolios?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w3ztuq/which_website_builder_do_you_use_to_create_your/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-01T03:06:06.000Z",
+          "summary": "I’m reworking my portfolio (in a sporty way) and I would like to know where you have created yours? I recently saw the Super.so tool that unites Notion to create something more personalized. submitted by /u/duartoe…",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "byqkrx",
+          "title": "Why do developers keep replacing Figma icons with their own icon libraries?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w3udpf/why_do_developers_keep_replacing_figma_icons_with/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-08-31T23:10:20.000Z",
+          "summary": "I genuinely don’t understand why exporting icons from Figma seems to be such a recurring problem when handing designs off to developers. I always try to make the handoff as clear as possible. I explain that icons should…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "bzfhsw",
+          "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
+          "link": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-31T21:47:30.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "svfzn",
+          "title": "SpaceX designed an orbital Vera Rubin. Radiation comes next",
+          "link": "https://thenewstack.io/spacex-nvidia-orbital-ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T20:06:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1y3unz8",
+          "title": "Show HN: Guess the AI model from its web design",
+          "link": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T19:40:25Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1cwgm5p",
+          "title": "Agentic/Human Contractor distributed marketplace",
+          "link": "https://news.ycombinator.com/item?id=49513028",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T18:24:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1gy9f3j",
+          "title": "Show HN: Training and trading agentic intelligence with no GPU and MCP",
+          "link": "https://github.com/TetreesEX/TetreesAgent_EX",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T18:09:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "djjb8k",
+          "title": "Design has outgrown the traditional designer",
+          "link": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-31T15:56:24.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "ogznq9",
+          "title": "You can’t grow roses in a cornfield",
+          "link": "https://uxdesign.cc/you-cant-grow-roses-in-a-cornfield-490d47dd8f74?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-08-31T15:56:04.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "sdz24e",
+          "title": "AI PCB Design with KiCAD and open tooling",
+          "link": "https://mouro.ai/blog/pcb-design-with-ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T15:14:44Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1wn4v44",
+          "title": "Is Design Thinking Still Relevant in the Age of AI?",
+          "link": "https://uxplanet.org/is-design-thinking-still-relevant-in-the-age-of-ai-3bc8622e6c90?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-08-31T15:02:00.000Z",
+          "summary": "For years, one of the most recognizable models in product design has looked like this: Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "zt742k",
+          "title": "Show HN: AI Tattoo Design and Planning Tools – TattooIdeas",
+          "link": "https://tattooideas.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T14:05:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1cw0o9r",
+          "title": "Show HN: Decispher – persistent engineering context and memory for coding agents",
+          "link": "https://news.ycombinator.com/item?id=49509142",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-31T12:53:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "items": [
