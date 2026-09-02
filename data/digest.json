@@ -1,6 +1,267 @@
 {
-  "updatedAt": "2026-09-01T10:40:20.958Z",
+  "updatedAt": "2026-09-02T10:05:59.212Z",
   "days": [
+    {
+      "date": "2026-09-02",
+      "items": [
+        {
+          "id": "d36f90",
+          "title": "Claude Code’s New Design Plugin Is a Big Deal for Product Designers",
+          "link": "https://uxplanet.org/claude-codes-new-design-plugin-is-a-big-deal-for-product-designers-445bf30cea9d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-02T09:30:01.000Z",
+          "summary": "Claude Code recently got a new plugin /design that lets you craft designs right in Claude Code. I’ve described the entire process of… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1cxjlsl",
+          "title": "What is your AI era PowerPoint alternative?",
+          "link": "https://news.ycombinator.com/item?id=49532209",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T05:44:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zgfmlw",
+          "title": "AI safety is designed in the West, and failing users everywhere",
+          "link": "https://restofworld.org/2026/ai-safety-bias/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T04:37:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "6vlx6n",
+          "title": "Problem with vague JDs",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w4whcr/problem_with_vague_jds/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-02T01:38:15.000Z",
+          "summary": "I skipped a beat thinking 'there goes another principle in design that I am not aware of'. When design portfolios are being criticized for 'not writing to the point' we also have JDs that have funny descriptions.…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1u4l9a1",
+          "title": "Was UX design ever meant to fit into agile? Do you prefer waterfall or agile?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w4uebz/was_ux_design_ever_meant_to_fit_into_agile_do_you/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-02T00:05:39.000Z",
+          "summary": "We hear a lot that waterfall is bad and agile is better. I am sure there’s a happy medium but often agile is used to justify no research or discovery phase, throwing crap at the wall and seeing what sticks. this feels…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1vr3z14",
+          "title": "What Minority Report got right about AI",
+          "link": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-01T22:16:54.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "18zrcls",
+          "title": "Struggling to find my place as a Visual Designer",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w4r9v6/struggling_to_find_my_place_as_a_visual_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-01T22:01:26.000Z",
+          "summary": "Hi everyone. I’m looking for perspectives from other designers, particularly those with a strong visual design background who may be experiencing something similar. I’m a UI/UX designer with almost 20 years of…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "m7ywvj",
+          "title": "UX Conference September Announced (Sep 14 - Sep 25)",
+          "link": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-01T20:37:45.000Z",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. September 14 - September 25, 2026.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "1cx3139",
+          "title": "Ask HN: AI Architecture Systems Design",
+          "link": "https://news.ycombinator.com/item?id=49527397",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T20:08:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "17bidmw",
+          "title": "Show HN: Shed – Git Repo Management for Terminal Agents",
+          "link": "https://github.com/AndrewHannigan/shed",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T15:47:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "3d870",
+          "title": "We Don’t Need AI-First Designers. We Need AI-First Managers.",
+          "link": "https://uxplanet.org/we-dont-need-ai-first-designers-we-need-ai-first-managers-acd3453310d1?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-01T15:08:21.000Z",
+          "summary": "Over the past two years, I see more and more designers add “AI-first” or “AI-native” to their role description in LinkedIn and X. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1cwzykt",
+          "title": "Show HN: Zero Shot – Energy Drink for You and Your AI Agents",
+          "link": "https://news.ycombinator.com/item?id=49522983",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T15:06:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "17boq9h",
+          "title": "You probably don't need Yocto, and that's fine",
+          "link": "https://sigma-star.at/blog/2026/05/you-probably-dont-need-yocto-and-thats-fine/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T14:56:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1uzxs0a",
+          "title": "I feel completely burned out",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w4d7db/i_feel_completely_burned_out/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-01T14:13:51.000Z",
+          "summary": "With the adoption of AI at my company, I have also ended up taking responsibility for managing and overseeing our AI environment, on top of my other responsibilities. The problem is that this is still such a new and…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "b1ye5k",
+          "title": "Show HN: Keeplea – photograph everything you want to remember",
+          "link": "https://keeplea.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T12:40:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "y9mhd2",
+          "title": "Show HN: A Proxy between LLMs and MCP servers with policy the model cannot reach",
+          "link": "https://github.com/SenteLabsAI/extensible-mcp",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-01T11:32:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "loq4ia",
+          "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
+          "link": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-01T11:29:44.000Z",
+          "summary": "How to design for advanced features nobody uses Continue reading on UX Collective »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "ib1pt3",
+          "title": "Users don’t see your design system",
+          "link": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-01T11:28:51.000Z",
+          "summary": "How Gestalt principles power any great design system Continue reading on UX Collective »",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "jxxhit",
+          "title": "Color scheming with Perplexity tetrads",
+          "link": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-01T11:28:18.000Z",
+          "summary": "A case study in GenAI accessible color palettes. Continue reading on UX Collective »",
+          "categories": [
+            "Research",
+            "Accessibility"
+          ],
+          "level": "Advanced",
+          "impactScore": 28,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "items": [
