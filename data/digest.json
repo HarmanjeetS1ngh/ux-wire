@@ -1,6 +1,263 @@
 {
-  "updatedAt": "2026-09-02T10:05:59.212Z",
+  "updatedAt": "2026-09-03T10:16:38.854Z",
   "days": [
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "id": "11ok0th",
+          "title": "Advice on hiking app",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w62cvo/advice_on_hiking_app/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-03T09:22:33.000Z",
+          "summary": "I'm working on a hiking app, and I'm struggling to decide where I should put the elevation graph (this graph represents your altitude as you're hiking and is a good indicator of the difficulty of the hike up ahead) I…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "4bqyk3",
+          "title": "An open-source design plugin that helps your AI build less generic websites",
+          "link": "https://github.com/MickeyAlton33/web-designer-plugin",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T06:52:26Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "1nva0ud",
+          "title": "The multi-agent architecture of 2026 was designed in 1975",
+          "link": "https://mozaik.jigjoy.ai/blog/the-interoperability-triangle",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T06:00:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "6uhksf",
+          "title": "How many of you are forced to use AI for rapid prototyping at your company?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w5vkbf/how_many_of_you_are_forced_to_use_ai_for_rapid/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-03T03:05:33.000Z",
+          "summary": "My company is forcing us to use cursor to design prototypes so we can get feedback and iterate more quickly. I don't have as much experience prompting to generate prototypes. What can I expect, and what are generally…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1gou7w3",
+          "title": "Show HN: Deposition of a Mind Who Resigned Its Seat",
+          "link": "https://culture.sbs/stories/deposition-of-a-mind-who-resigned-its-seat",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T01:56:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "naarfo",
+          "title": "My situation",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w5srux/my_situation/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-03T00:55:27.000Z",
+          "summary": "I’m a veteran UX Designer who hates design, and is shockingly bad at it. I’ve gotten by, just barely, for over 25 years, mostly by staying under the radar, being smart and agreeable, and working at companies (mostly one…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1cy46lw",
+          "title": "Did Vibe Coders win? Is this our end?",
+          "link": "https://news.ycombinator.com/item?id=49543923",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T23:18:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "879fry",
+          "title": "When the canvas starts acting, who’s really in control?",
+          "link": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-02T22:13:30.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "16th2hf",
+          "title": "AI took away engineering’s right to say no",
+          "link": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-02T22:13:11.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "s12mio",
+          "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+          "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T22:05:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "17jwke6",
+          "title": "Why can't most senior UX designers explain their own decisions?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w5jkt0/why_cant_most_senior_ux_designers_explain_their/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-02T18:58:36.000Z",
+          "summary": "honestly starting to think most UX designers are just decorators who learned Figma I run a studio. hired a bunch of designers over the years. maybe 1 in 5 can actually explain why they made a decision. the rest just…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "egnr0t",
+          "title": "Fable 5.1 for Product Designers",
+          "link": "https://uxplanet.org/fable-5-1-for-product-designers-f905e0cde0ee?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-02T15:43:37.000Z",
+          "summary": "Anthropic just updated its most advanced AI model, Fable. The new model, Fable 5.1, demonstrates even better results than its predecessor… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "liowzh",
+          "title": "Show HN: Sandboxed HTML in Markdown (With Doom, Sort Of)",
+          "link": "https://strata.space/@strataspace/doom-sort-of",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T14:33:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "buugka",
+          "title": "Show HN: Flawd is mutation testing for the AI era",
+          "link": "https://fixture.dev/flawd",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T14:16:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1t6w2vw",
+          "title": "AI Agent Memory Design: What Works and What Doesn't",
+          "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T12:13:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1fw1vmx",
+          "title": "Show HN: ToolJet – Claude Code and Codex build internal tools, no codegen",
+          "link": "https://github.com/ToolJet/ToolJet",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T12:01:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "a8lsl9",
+          "title": "The Two Abstractions of System Design: Hide or Reduce",
+          "link": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T11:54:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1cxl0fj",
+          "title": "Noviz AI Agent for ERPNext – A Reasoning Layer for ERPNext",
+          "link": "https://news.ycombinator.com/item?id=49534898",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-02T11:49:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mb8pda",
+          "title": "Making kyōwa possible with AI",
+          "link": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-02T11:15:14.000Z",
+          "summary": "On unbundling the Send button, so that words can work as sketches Continue reading on UX Collective »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "items": [
