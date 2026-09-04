@@ -1,6 +1,261 @@
 {
-  "updatedAt": "2026-09-03T10:16:38.854Z",
+  "updatedAt": "2026-09-04T10:09:43.942Z",
   "days": [
+    {
+      "date": "2026-09-04",
+      "items": [
+        {
+          "id": "wcaqvm",
+          "title": "My portfolio's a real pain for recruiters.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w6zrg8/my_portfolios_a_real_pain_for_recruiters/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-04T09:44:21.000Z",
+          "summary": "It’s kind of unfair to get rejected over someone else’s 'bad decision'. Here's my concept website which tests recruiters, and I know it is annoying, unfair, and completely without hints, just like their hiring…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "o8d4aa",
+          "title": "Toxicity",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w6wmq6/toxicity/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-04T06:41:43.000Z",
+          "summary": "I noticed there’s much more toxicity in this sub compared to other design related subs. - Passive aggressiveness - False AI accusations - Bias and opinions over actual insights - Stubbornness and close-mindedness -…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1k99zhn",
+          "title": "Handling product owners doing design",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w6st5l/handling_product_owners_doing_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-04T03:21:53.000Z",
+          "summary": "Due to dev going faster, product are desperate to go faster, resulting in product owners doing designs with LLMs and showing direct to stakeholders. POs are almost seeing these as a first draft and UX may evaluate and…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1mfdwmg",
+          "title": "Hold on or resign?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w6q67n/hold_on_or_resign/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-04T01:16:25.000Z",
+          "summary": "I’m a UX designer in title only and I find myself wondering if I can realistically continue on this career path due to my obvious skill gaps. I worked for a smallish company for 10+ years as a sort of basic UI designer,…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "4gkacb",
+          "title": "What Minority Report got wrong about AI (so far)",
+          "link": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-03T22:39:12.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "3ad3ys",
+          "title": "Show HN: DrawDB Pro – design database schemas for your team and agents",
+          "link": "https://www.drawdb.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T21:56:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "7jcsxr",
+          "title": "Tentmaker Systems – FPGA and ASIC Architecture and Design",
+          "link": "https://www.tentmakersystems.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T20:21:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "12qh0ty",
+          "title": "Show HN: Devbar – Point at what to change. Leave a comment. Your agent ships it",
+          "link": "https://devbar.sh",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T19:19:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "ieb22b",
+          "title": "Show HN: MesaOS – An operating system written from scratch in Rust",
+          "link": "https://github.com/crackanimad0r/MesaOS",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T17:56:50Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "futoc5",
+          "title": "Show HN: Open-source, Git-inspired versioning for hardware design – Cascadia PLM",
+          "link": "https://github.com/Cascadia-PLM/Cascadia-App",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T16:25:55Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1x8dqlc",
+          "title": "Show HN: Ardent, a code-first agent for non-engineering work",
+          "link": "https://ardent.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T15:01:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "134ahc2",
+          "title": "Show HN: Mu – an agent with actual command line experience",
+          "link": "https://github.com/ylxdzsw/mu",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T14:31:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "3icfi1",
+          "title": "Show HN: Litelink – local-first, embedded stream capture into Iceberg tables",
+          "link": "https://github.com/nhobin219/litelink",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T13:36:00Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1gbg723",
+          "title": "Show HN: Royalty free UI avatars for Figma/React",
+          "link": "https://radianui.com/resources/avatar",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T13:27:19Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "um7f0z",
+          "title": "How to Audit and Extend Your Figma Design System with Claude Code",
+          "link": "https://uxplanet.org/how-to-audit-and-extend-your-design-system-with-claude-code-28be5c059d49?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-03T13:20:56.000Z",
+          "summary": "Claude Code recently got a new plugin /design that lets you craft designs right in Claude Code. I’ve described the entire process of… Continue reading on UX Planet »",
+          "categories": [
+            "Tool",
+            "Design System"
+          ],
+          "level": "Beginner",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "1kqw2yz",
+          "title": "Show HN: Reactor Atlas",
+          "link": "https://reactoratlas.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T12:33:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "aasrt9",
+          "title": "Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)",
+          "link": "https://www.stillmade.shop",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T11:58:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1j7vvb3",
+          "title": "Show HN: Vocab.design – A visual dictionary of UI and design terms",
+          "link": "https://vocab.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-03T10:56:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "3poc0x",
+          "title": "UX Conference November Announced (Nov 16 - Nov 19)",
+          "link": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-03T04:50:49.000Z",
+          "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. Nov 16 - Nov 19, 2026 (Americas) | Nov 17…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "items": [
