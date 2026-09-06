@@ -1,6 +1,349 @@
 {
-  "updatedAt": "2026-09-04T10:09:43.942Z",
+  "updatedAt": "2026-09-06T09:49:51.009Z",
   "days": [
+    {
+      "date": "2026-09-06",
+      "items": [
+        {
+          "id": "15y856p",
+          "title": "A Figma clone built by GPT-6 Astra",
+          "link": "https://wieslawsoltes.github.io/Vellum/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-06T06:03:17Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1udf8yb",
+          "title": "Revise is the Figma of machine learning",
+          "link": "https://www.revise.live/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-06T05:15:59Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1xc2c3e",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 09/06/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w8mpsl/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-06T05:00:43.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "gej43c",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 09/06/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w8mpsf/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-06T05:00:43.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "prsy21",
+          "title": "Laid off Product Designer (7 YOE), 200+ apps and only 2 callbacks. Need a reality check on the Indian tech market and AI anxiety (CV attached)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w8kzvu/laid_off_product_designer_7_yoe_200_apps_and_only/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-06T03:32:24.000Z",
+          "summary": "TL;DR: Laid off 2 months ago. Product Designer with 7 YOE. Applied to 200+ roles with a tailored ATS resume, got only 2 callbacks. Questioning if the market is frozen, whether tech/design has a 5 to 8 year runway left…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "59hja7",
+          "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
+          "link": "https://arxiv.org/abs/2609.04058",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-06T03:07:07Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1owelis",
+          "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+          "link": "https://www.phntmcore.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-05T21:03:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "llsaqw",
+          "title": "Turn your AI into a world-class designer",
+          "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-05T14:20:30Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1cztds8",
+          "title": "Structure Around Intelligence – AI Native",
+          "link": "https://news.ycombinator.com/item?id=49576482",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-05T13:48:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1bs3rty",
+          "title": "What's the best portfolio you've ever seen?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w7x44f/whats_the_best_portfolio_youve_ever_seen/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-05T10:30:16.000Z",
+          "summary": "I'm looking for a new role as a senior product designer and need to do a portfolio refresh. Looking for some examples of really incredible portfolios for some inspiration. submitted by /u/fifth_horse [link] [comments]",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1yj6wf",
+          "title": "OpenROAD: Open-source toolchain for Chip Design",
+          "link": "https://openroad.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-05T07:22:32Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1hcw8wd",
+          "title": "How are people making those nice motion videos for their portfolios?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w7r5n8/how_are_people_making_those_nice_motion_videos/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-05T04:57:38.000Z",
+          "summary": "Embarking on the arduous journey of re-doing my portfolio. I've been looking at some other designers' portfolios and noticing a lot of marketing-worthy motion videos showing off UI. The type of video where it zooms in…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "nqxfnz",
+          "title": "How long until we merge Design, PM, and Engineering into a single role?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1w7qhfh/how_long_until_we_merge_design_pm_and_engineering/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-05T04:22:59.000Z",
+          "summary": "It seems clear that the industry direction is shifting toward having a general \"Product Staff\" manage software development. While these team members may specialize in specific areas, they are increasingly expected to…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1f6t9rm",
+          "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+          "link": "https://github.com/lovaxi/Rubato_Device",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-05T03:16:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "gyh6gn",
+          "title": "Show HN: Arena, the same design system in React and Angular from one contract",
+          "link": "https://arena.dravensoft.org/web-benches/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-05T02:16:36Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1m7as75",
+          "title": "Reading and writing are interfaces. And AI can reduce their friction.",
+          "link": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-05T00:21:17.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1p7aynq",
+          "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
+          "link": "https://timervana.net/browse",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T22:47:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1czq3wn",
+          "title": "Ask HN: Why isn't there a cursor for video games development",
+          "link": "https://news.ycombinator.com/item?id=49571091",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T22:45:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "cqg7s7",
+          "title": "Can AI design circuit boards yet?",
+          "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T19:48:29Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "u2rqe1",
+          "title": "Show HN: Visor – YouTube for kids, with channels approved by parents",
+          "link": "https://gotvisor.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T18:56:11Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1x8vxf0",
+          "title": "NetBird Made Figma for Remote Access",
+          "link": "https://netbird.io/knowledge-hub/control-center-draft-mode",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T18:30:15Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "op0wsc",
+          "title": "Using AI for UX Work: Study Guide",
+          "link": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-04T17:00:00.000Z",
+          "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "1qfse91",
+          "title": "Figma Design Critique Using Claude Code",
+          "link": "https://uxplanet.org/figma-design-critique-using-claude-code-d8f2ee54bf01?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-04T16:14:00.000Z",
+          "summary": "Claude Code recently got a new plugin /design that lets you craft designs right in Claude Code. But you can also use this plugin to… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "zey8v3",
+          "title": "US urged to consider military strikes to stop China achieving AGI first",
+          "link": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T15:07:50Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "aem6sx",
+          "title": "Show HN: Learn/Practice Sudoku strategies web app",
+          "link": "https://sw-fun.github.io/sudoku/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-04T14:35:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-04",
       "items": [
