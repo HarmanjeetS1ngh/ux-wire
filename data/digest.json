@@ -1,6 +1,413 @@
 {
-  "updatedAt": "2026-09-06T09:49:51.009Z",
+  "updatedAt": "2026-09-09T10:17:24.548Z",
   "days": [
+    {
+      "date": "2026-09-09",
+      "items": [
+        {
+          "id": "12pfjrn",
+          "title": "I am concerned about the Future of Product design",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wbh7fq/i_am_concerned_about_the_future_of_product_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-09T09:57:36.000Z",
+          "summary": "Are we slowly walking into the death of our own careers? With AI advancing every day, Astra making good UI, and product designers increasingly turning into design engineers, I am having second thoughts about my future…",
+          "categories": [
+            "AI",
+            "Career",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1sy49au",
+          "title": "Beware of the New Dribbble Fishing Scam",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wbfmc0/beware_of_the_new_dribbble_fishing_scam/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-09T08:25:10.000Z",
+          "summary": "A couple of dudes replied to me in Project Briefs and sent me links to their MVP / Git Repo projects for me to review. One of them was brave enough to schedule a video call, he wanted me to open my terminal and to pull…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1c6ey53",
+          "title": "Show HN: AER – A subjectless protocol anchored in TPM 2.0 and WASM receipts",
+          "link": "https://medium.com/@team-sequence/designing-a-subjectless-distributed-protocol-for-autonomous-machines-and-ai-agents-aer-autonomous-33a81e77e784",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T07:48:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rmevzd",
+          "title": "Show HN: Booley – open-source IDE for agentic chip design",
+          "link": "https://github.com/boldaxolotl/booley",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T07:34:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "16dqftn",
+          "title": "We Designed Muse",
+          "link": "https://introducing.muse.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T06:27:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1wgxx6e",
+          "title": "Best desktop for designers on a budget?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wbafix/best_desktop_for_designers_on_a_budget/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-09T03:41:06.000Z",
+          "summary": "Hello! I’m currently a masters student for UX research and design, but operate on a pretty strict budget. Ive been making it work on my (5+ year old) laptop for as long as I can, but I fear it is just not feasible with…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1mp1w20",
+          "title": "Show HN: Glossy Button Creator – visually design buttons, copy the HTML/CSS/SVG",
+          "link": "https://algolassi.online/developer-tools/css-button-editor/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T03:33:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zptukv",
+          "title": "Most AI problems are really human problems",
+          "link": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-08T20:37:28.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "pymalp",
+          "title": "Persistent lessons in human-centered automation",
+          "link": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-08T20:34:18.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "16rs48v",
+          "title": "I'm Not Reading Your AI-Generated Design Doc",
+          "link": "https://substack.wasteman.codes/p/im-not-reading-your-ai-generated",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T18:38:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ddicya",
+          "title": "Weekly · Open-Source AI · week 37, 2026",
+          "link": "https://news.ycombinator.com/item?id=49613606",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T17:34:02Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "dkq82t",
+          "title": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+          "link": "https://sparrow2.tavuslabs.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T16:16:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1jx76u4",
+          "title": "3 ways to adapt a table for mobile devices",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1waou1e/3_ways_to_adapt_a_table_for_mobile_devices/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-08T13:44:56.000Z",
+          "summary": "In the first two variations, you have to scroll back and forth through the table to find the information. What other ways are there to adapt the table? submitted by /u/Worldly-Ant-5832 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1dd2ft2",
+          "title": "Why human syntax breaks LLMs (and how to fix agentic coding)",
+          "link": "https://news.ycombinator.com/item?id=49609821",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T13:04:18Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "db08ao",
+          "title": "GPT-6 Astra vs Opus 5: Which one is better for product design?",
+          "link": "https://uxplanet.org/gpt-6-astra-vs-opus-5-which-one-is-better-for-product-design-009f772846fb?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-08T11:56:03.000Z",
+          "summary": "“Which AI model should I use for product design?” is the question I get asked most often right now. With so many AI models available, it’s… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "yacvdr",
+          "title": "Show HN: Fraise: a memory database for AI agents",
+          "link": "https://docs.getfraise.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T11:49:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "19aaru0",
+          "title": "If you can externalize your design process, you can win back your time",
+          "link": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-08T11:13:56.000Z",
+          "summary": "How Skill.MD helps you spell out the depth of your work for your team and organization Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1dd1qlk",
+          "title": "Playing \"Taboo\" with AI Watermarking",
+          "link": "https://news.ycombinator.com/item?id=49608525",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T10:50:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "149cpaz",
+          "title": "Web Import Master: rebuild a live web page as a Figma design with auto layout",
+          "link": "https://www.figma.com/community/plugin/1630132577257927426",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T05:51:57Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1c6kr03",
+          "title": "Show HN: Caveat, a self-hosted publishing and newsletter tool",
+          "link": "https://github.com/CaveatJS",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-08T02:28:23Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jes463",
+          "title": "Tetris had to cheat to feel random",
+          "link": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-07T22:27:53.000Z",
+          "summary": "Nobody can see a probability distribution. You only ever see a sequence, and sequences are where human intuition falls apart. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1ponwey",
+          "title": "The model is behaving impeccably. Your information architecture isn’t.",
+          "link": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-07T22:27:32.000Z",
+          "summary": "What a 1960 study of city maps explains about AI context. Continue reading on UX Collective »",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "Advanced",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "ly3cg",
+          "title": "The sycophancy trap: what happens when feelings become the metric",
+          "link": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-07T22:27:01.000Z",
+          "summary": "A framework for emotional design that survives contact with an engagement dashboard Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "gd103p",
+          "title": "I put my Electron app on my landing page, no screenshots (React/CodeMirror/Waku)",
+          "link": "https://www.devas.life/how-i-designed-my-saas-landing-page-with-ai-tools/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-07T20:45:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "pn8snp",
+          "title": "Sysdraw – System design diagrams, sketched in the browser",
+          "link": "https://sysdraw.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-07T17:34:47Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "mhmsgl",
+          "title": "Strata – A design system that records decisions, not components",
+          "link": "https://github.com/Prometheus-000/strata",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-07T14:25:59Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "16vaj27",
+          "title": "GPT-6 Astra for UI Design",
+          "link": "https://uxplanet.org/gpt-6-astra-for-ui-design-5cff47b4c765?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-07T13:02:14.000Z",
+          "summary": "GPT-6 Astra is the latest and most powerful AI model from OpenAI. The model has already received a lot of praise for its capabilities. In… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1d0wfn5",
+          "title": "Ask HN: How do you keep AI coding agents in sync with a changing Figma file?",
+          "link": "https://news.ycombinator.com/item?id=49595961",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-07T09:17:00Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "8y4371",
+          "title": "Show HN: Layerz – Build native iOS apps with no code, run them instantly",
+          "link": "https://www.layerz.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-06T16:56:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1d0edzl",
+          "title": "Ask HN: How to prepare for coding/system design interviews on a mobile phone",
+          "link": "https://news.ycombinator.com/item?id=49588129",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-06T16:31:11Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "items": [
