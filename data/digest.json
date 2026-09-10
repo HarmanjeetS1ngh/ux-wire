@@ -1,6 +1,206 @@
 {
-  "updatedAt": "2026-09-09T10:17:24.548Z",
+  "updatedAt": "2026-09-10T10:10:56.523Z",
   "days": [
+    {
+      "date": "2026-09-10",
+      "items": [
+        {
+          "id": "vs6kqc",
+          "title": "Show HN: Sindlish, a programming language for Sindhi speakers",
+          "link": "https://sindlish.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T07:33:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ymxmyn",
+          "title": "Has anyone taken an AI/UX course that actually stuck?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wcbb72/has_anyone_taken_an_aiux_course_that_actually/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-10T06:43:17.000Z",
+          "summary": "I've spent a while going through the AI courses aimed at designers (Maven, NN/g, Designlab, IxDF, IDEO U, the Coursera stuff). Took a few, ruled out plenty. What I keep noticing: nearly all of them teach workflow,…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1fgngkh",
+          "title": "Leaving my job after 5 years with no backup, looking for advice on what to do next",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wca2xb/leaving_my_job_after_5_years_with_no_backup/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-10T05:36:25.000Z",
+          "summary": "I’m a UX/Product Designer with ~14 years of work experience, and I’ve been with the same organisation for the last 5 years. I’ve decided to resign without another job lined up. I know that’s financially risky, but my…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "uhphjr",
+          "title": "Show HN: Rayrun – one MCP gateway for the whole company",
+          "link": "https://ray.run/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T00:30:57Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1a6g0c1",
+          "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
+          "link": "https://www.coinbase.com/blog/how-coinbase-design-systems-are-powering-the-ai-prototyping-era",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T00:13:16Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "1w1lw1l",
+          "title": "What Shakespeare got right about AI",
+          "link": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-09T23:04:39.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "bu4ssj",
+          "title": "The origins — the birth, lonely childhood, and adoption of software",
+          "link": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-09T23:04:27.000Z",
+          "summary": "Side A, meaning is irrelevant to the problem Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "30z6jl",
+          "title": "Struggling to adjust in the new UX market.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wc11ww/struggling_to_adjust_in_the_new_ux_market/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-09T22:48:55.000Z",
+          "summary": "For some reason, I'm feeling like I'm not capable of learning the new tech that's coming in. It feels foreign in the sense that earlier my process was to ask questions to stakeholders, sketch/ make rough notes, and then…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "70fpon",
+          "title": "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+          "link": "https://twitter.com/ParkerThayer/status/2097759699626328575",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T20:08:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "14h9zwm",
+          "title": "Can we talk about this?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wbuqdu/can_we_talk_about_this/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-09T18:58:24.000Z",
+          "summary": "I really do wander what the community thinks about the their choose(where do start mistakenly touch) submitted by /u/oguzotto [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "4lroz6",
+          "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+          "link": "https://github.com/OtoDock/oto-dock",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T17:57:55Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "qlpmvc",
+          "title": "From UX to AX: How AI Agents Change Application Design",
+          "link": "https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T14:49:13Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "19g7485",
+          "title": "Breakscale: Live System Design Simulator",
+          "link": "https://breakscale.tech/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-09T14:22:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ocilby",
+          "title": "GPT-6 Astra for Web Design",
+          "link": "https://uxplanet.org/gpt-6-astra-for-web-design-d273a818ca78?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-09T14:17:00.000Z",
+          "summary": "In this article, I’ll share the 4-step process I follow to craft a new web project with GPT-6. I’ll show you how to design a landing page… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "149yxpd",
+          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-09-09T10:00:00.000Z",
+          "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "items": [
