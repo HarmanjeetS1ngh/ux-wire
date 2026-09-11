@@ -1,6 +1,335 @@
 {
-  "updatedAt": "2026-09-10T10:10:56.523Z",
+  "updatedAt": "2026-09-11T10:08:18.006Z",
   "days": [
+    {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "id": "175tdbt",
+          "title": "Job market for lead/staff/principal level roles",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wd1kal/job_market_for_leadstaffprincipal_level_roles/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-11T01:01:34.000Z",
+          "summary": "I’m a staff product designer, and I’ve noticed what feels like an uptick in open roles at this level compared to when I was looking last year. Curious to hear from other lead+ designers who are currently searching — Is…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "zgu0ok",
+          "title": "Show HN: Reviving my $15,000 browser arcade with Astra",
+          "link": "https://eggverse.co/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T23:43:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "a6suul",
+          "title": "8 voice AIUX patterns",
+          "link": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-10T22:40:55.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "rfoapw",
+          "title": "How authentication friction frustrates users — and how to stop it",
+          "link": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-10T22:39:57.000Z",
+          "summary": "We’ve been doing authentication all wrong. Here’s how to fix it. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "153dwtl",
+          "title": "Death of the iPod?",
+          "link": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-10T22:38:24.000Z",
+          "summary": "The hacks that made chip-derived sound a standard feature of digital interaction Continue reading on UX Collective »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "62f6au",
+          "title": "Five eras of UX design and the lessons to keep in the AI era",
+          "link": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-10T22:38:12.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "16ntima",
+          "title": "Show HN: I created a list of projects with embeds",
+          "link": "https://embedcatalog.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T20:22:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "hzx2he",
+          "title": "An AI-Safety Resignation, Read from the Security Chair",
+          "link": "https://simonroses.com/2026/09/systems-that-can-hack-anything-an-ai-safety-resignation-read-from-the-security-chair/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T19:41:13Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ge7hyw",
+          "title": "Show HN: Rocky Surf – Open-source control plane for coding-agent cloud VMs",
+          "link": "https://www.rockysurf.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T19:07:05Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ei4aun",
+          "title": "Show HN: Fashionguessr – A Daily Fashion Trivia Game",
+          "link": "https://www.fashionguessr.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T19:05:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "5sfbsv",
+          "title": "Show HN: I built a directory for discovering startups shared on X",
+          "link": "https://www.startupsonx.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T17:36:00Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1c91bd1",
+          "title": "Saw Apple's version and immediately thought the battery should be a ring around the hole punch camera. Your thoughts?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wcpolb/saw_apples_version_and_immediately_thought_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-10T17:25:42.000Z",
+          "summary": "submitted by /u/Donghoon [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "tr68uc",
+          "title": "Designing Tests for Agentic AI Tools",
+          "link": "https://automatedteach.com/p/designing-tests-for-agentic-ai-tools",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T17:11:12Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "wbe8s0",
+          "title": "Show HN: Open-source simulation testing infra for voice agents",
+          "link": "https://github.com/egma-ai/egma",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T17:01:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "28fakz",
+          "title": "One resignation turned the embers of AI fear into a wildfire",
+          "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T16:09:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "m3qt3q",
+          "title": "A short history of logos made of data",
+          "link": "https://uxdesign.cc/a-short-history-of-logos-made-of-data-bd6a89e732ce?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-10T15:57:51.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1ppek9s",
+          "title": "Your first draft now has a log",
+          "link": "https://uxdesign.cc/your-first-draft-now-has-a-log-ee378eb7b3e9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-10T15:57:17.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "17vm8yg",
+          "title": "Incredible (un)fold screen transition on the iPhone Duo",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wcmer4/incredible_unfold_screen_transition_on_the_iphone/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-10T15:28:04.000Z",
+          "summary": "What impressed me the most of the Duo announcement yesterday was the screen transition when folding and unfolding the device. The screens always behaves like a connected flat surface. When opening, the front panel…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "jo96k",
+          "title": "Show HN: Give Agents your design system to build artifacts you're proud of",
+          "link": "https://www.valet.dev/blog/work-that-looks-like-yours",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T14:57:41Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1hd3xlh",
+          "title": "Can GPT-6 Actually Do UX Design?",
+          "link": "https://uxplanet.org/can-gpt-6-actually-do-ux-design-1fe818e91794?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-10T14:43:34.000Z",
+          "summary": "GPT-6 Astra can create impressive prototypes. I’ve tested this AI model for creating mobile layouts: Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1r53dk2",
+          "title": "Quantum Black Design System: an open source release by McKinsey",
+          "link": "https://medium.com/quantumblack/announcing-quantumblack-design-system-opensourcing-7dfaf3f8e207",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T14:22:41Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1df5pgq",
+          "title": "Show HN: JavaScript grid and pivot library built for coding agents",
+          "link": "https://news.ycombinator.com/item?id=49643496",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T13:35:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1kv64up",
+          "title": "Grafista: Graphic design platform fighting AI slop",
+          "link": "https://grafista.io/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T13:35:31Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "12kybja",
+          "title": "Does anybody else disillusioned about working in UX/Tech?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wcj8su/does_anybody_else_disillusioned_about_working_in/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-10T13:28:52.000Z",
+          "summary": "I'm not sure where to start with this post. I transitioned into UX during the pandemic and studied remotely for 5/6 months through a bootcamp before landing a role as a junior and then making my way up to mid level.…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "f3o9ub",
+          "title": "Show HN: Listpro – Turn product screenshots into launch assets",
+          "link": "https://listpro.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-10T12:04:07Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "items": [
