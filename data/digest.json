@@ -1,6 +1,222 @@
 {
-  "updatedAt": "2026-09-11T10:08:18.006Z",
+  "updatedAt": "2026-09-12T09:42:51.106Z",
   "days": [
+    {
+      "date": "2026-09-12",
+      "items": [
+        {
+          "id": "do5gl",
+          "title": "Company wants a figma alternative",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1we3kzt/company_wants_a_figma_alternative/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-12T05:19:17.000Z",
+          "summary": "Facing near constant scrutiny about why we need figma. After so many presentations, meetings, debates, etc. I am at a loss. I use figma primarily these days to quickly iterate on canvas while using claude…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "lxb1dg",
+          "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
+          "link": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-12T00:53:26Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1i09bcq",
+          "title": "You’re not behind. The feed is built to make you feel that way.",
+          "link": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-11T21:04:03.000Z",
+          "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "4ww5v",
+          "title": "The State of AI Antibody Design",
+          "link": "https://www.science.org/content/blog-post/state-ai-antibody-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-11T20:06:33Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1xlm4kb",
+          "title": "Show HN: SystemFaarDenge – a puzzle game and simulation for system designing",
+          "link": "https://systemfaardenge.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-11T18:52:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "lfe3pr",
+          "title": "What other careers/jobs are you all thinking?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wdowcw/what_other_careersjobs_are_you_all_thinking/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-11T18:44:37.000Z",
+          "summary": "I'm a senior product designer still employed but like many others have been thinking about other careers/jobs to look into given the job market, AI, changes in the job role, etc etc. Part of me thinks the most natural…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "san7c",
+          "title": "Test Complex Interactions Earlier with AI Prototyping",
+          "link": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-11T17:00:00.000Z",
+          "summary": "AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them with users earlier in the design process.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "na8nvf",
+          "title": "AI Can Help Write an Article, but It Can’t Stand Behind It",
+          "link": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-11T17:00:00.000Z",
+          "summary": "NN/G uses AI for clarity, formatting, and critique, but humans retain editorial judgment and responsibility for every article.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1zp19k",
+          "title": "WHO APPROVED THIS??",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wdhtj3/who_approved_this/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-11T14:26:26.000Z",
+          "summary": "Im studying UX design…this is WhatsApp btw (An app from Meta) Am I correct by saying this Is this a bad UX Design? Why would you put a button the same color as the button to send a message when you have for years…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "hbjj7c",
+          "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
+          "link": "https://github.com/pixel-point/toolcraft",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-11T14:11:09Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "l8lsmn",
+          "title": "“Sandra Bullock gives solid user feedback” is a sentence I never thought I’d ever be saying",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wdgakz/sandra_bullock_gives_solid_user_feedback_is_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-11T13:27:07.000Z",
+          "summary": "Old video going viral again: “Sandra Bullock Was the First Person to Buy a Movie Ticket Online in 1995” Dear Mods: No idea what to flair this or if I can even post this here, so forgive me! submitted by…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "3bjnsn",
+          "title": "Show HN: A Modern C++ course with videos and interactive GitHub homeworks",
+          "link": "https://github.com/cpp-for-yourself",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-11T13:18:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19rh1zp",
+          "title": "Show HN: SOS – Project state between coding agent sessions",
+          "link": "https://github.com/sigmastratum/sigma-operator-stack",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-11T13:16:15Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dfs4vd",
+          "title": "Ask HN: Can we please limit the AI news flood?",
+          "link": "https://news.ycombinator.com/item?id=49657850",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-11T13:11:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1qfesrf",
+          "title": "Building A UX ROI Case That Survives The Boardroom",
+          "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-09-11T13:00:00.000Z",
+          "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "136dq01",
+          "title": "Design Critique with Claude Code",
+          "link": "https://uxplanet.org/design-critique-with-claude-code-7628e74f95a1?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-11T10:11:50.000Z",
+          "summary": "Claude Code can be used not only to create product prototypes but also to critique design. In this article, I will share everything you… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "items": [
