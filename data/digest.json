@@ -1,6 +1,180 @@
 {
-  "updatedAt": "2026-09-12T09:42:51.106Z",
+  "updatedAt": "2026-09-13T10:44:31.770Z",
   "days": [
+    {
+      "date": "2026-09-13",
+      "items": [
+        {
+          "id": "17k4ima",
+          "title": "I skipped Figma entirely, fed 30 markdown files to Claude, and got thoroughly humbled. (OOUX + LLM build report)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wf41xy/i_skipped_figma_entirely_fed_30_markdown_files_to/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-13T10:27:59.000Z",
+          "summary": "OOUX Artifacts First, a confession: I have an unhealthy obsession with Object-Oriented UX. Give me a basic grocery list, and my brain will instinctively try to map its existential relationships, attributes, and nested…",
+          "categories": [
+            "AI",
+            "Tool",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "luo13k",
+          "title": "What are some specializations/pivots that are not talked about enough in ux",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wf09ei/what_are_some_specializationspivots_that_are_not/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-13T06:45:21.000Z",
+          "summary": "I keep seeing the same options pop up like product designer, developer and consultant. I am wanting to seek out some inspo for my own career projection and see what underrated specializations exist in UX. submitted by…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "ouls69",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 09/13/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1weydv3/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-13T05:00:50.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1wu9yfx",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 09/13/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1weydux/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-13T05:00:50.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1wksdn4",
+          "title": "AgentsDock: An IDE designed for agentic AI research",
+          "link": "https://agentsdock.net/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-12T23:45:58Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "zhs6nr",
+          "title": "The UX Research Methodology subway map trap",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wercj5/the_ux_research_methodology_subway_map_trap/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-12T23:17:09.000Z",
+          "summary": "When I saw the UX Research Tools Map 2026 by User Interviews for the first time (I think 2025 was a fantasy map of some sort, a lot of effort spent on it for sure), something that I predicted when I saw the Subway Map…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1s5aum3",
+          "title": "AI permissioned coworker framework and designs",
+          "link": "https://eisenzopf.github.io/Thelve-coworkers/demo/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-12T22:36:38Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "iz6p0r",
+          "title": "The real reason everyone hates the viral AI food slop images",
+          "link": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-12T21:40:38.000Z",
+          "summary": "We’ve always made food look better than it is. So why does it feel different when AI does it? Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1dgv32m",
+          "title": "Ask HN: If AI writes the code, what matters?",
+          "link": "https://news.ycombinator.com/item?id=49676852",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-12T20:28:44Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "y2fob7",
+          "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
+          "link": "https://github.com/eremes81/game-design-ai-practice-en",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-12T11:44:34Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "tmc2im",
+          "title": "Dashboards are fool's gold.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wea9e3/dashboards_are_fools_gold/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-12T11:35:07.000Z",
+          "summary": "Dashboards are my nemesis. There is so much time and effort and back and forth that never turns out well because of differing opinions about what is and what is not getting accomplished on a dashboard. Then there's the…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "nl6xce",
+          "title": "Show HN: Objo Studio. A modern visual RAD IDE for desktop and web",
+          "link": "https://objo.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-12T10:45:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "items": [
