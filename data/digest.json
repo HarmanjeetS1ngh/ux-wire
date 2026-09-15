@@ -1,6 +1,348 @@
 {
-  "updatedAt": "2026-09-13T10:44:31.770Z",
+  "updatedAt": "2026-09-15T10:36:58.133Z",
   "days": [
+    {
+      "date": "2026-09-15",
+      "items": [
+        {
+          "id": "2wpyzz",
+          "title": "Being laid off before I completed a project",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wgwhc2/being_laid_off_before_i_completed_a_project/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-15T10:24:30.000Z",
+          "summary": "I’m being made redundant. The project I was working on up until now was a redesign of the companies website. It was a complete transformation to reflect our new brand and I was proud. It was my first time experimenting…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "11854gm",
+          "title": "Show HN: Back Me Up – Find papers that back your argument",
+          "link": "https://backmeup.loomlabs.au",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T08:57:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ogwa1m",
+          "title": "UX should just be called Experience Design",
+          "link": "https://www.leadinginproduct.com/p/eexperience-design-is-a-better-term",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T08:01:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "pa9u5a",
+          "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
+          "link": "https://pazvanti.github.io/Chronicle/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T05:23:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "bq7pci",
+          "title": "The death of the deliverable",
+          "link": "https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-15T05:04:14.000Z",
+          "summary": "AI didn’t kill the wireframe; it exposed that the wireframe was never really the point Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1isld28",
+          "title": "Senior+ case study format in 2026",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wghsw7/senior_case_study_format_in_2026/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-14T22:10:30.000Z",
+          "summary": "Currently rebuilding my portfolio and want to nail down a new format for my case studies. For those who have 8-10+ YoE - how are you doing this/how have you done this in 2026? I still see so much tension between the…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "khf34b",
+          "title": "Show HN: Build2me – Prove2Me for software agent swarms build code",
+          "link": "https://github.com/shitianfang/build2me",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T19:49:56Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "sxfcsy",
+          "title": "[PLEASE ADVISE] Making a subway style navigation",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wgd5t8/please_advise_making_a_subway_style_navigation/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-14T19:18:58.000Z",
+          "summary": "Hi, I'm a product designer, I'm very much into transport interaction design and wanted to explore a new style of navigation where it's a subway system map instead of boring old buttons. I don't have a lot of animation…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1fbtyrc",
+          "title": "SwiftCrossUI – A cross-platform declarative UI framework, inspired by SwiftUI",
+          "link": "https://swiftcrossui.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T19:12:03Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10a9cns",
+          "title": "Show HN: Kario – AI Native Motion Graphics Editor",
+          "link": "https://www.karioai.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T18:54:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "qkmfmp",
+          "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+          "link": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-14T18:52:50.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1n8v1g4",
+          "title": "OpenSwiftUI – open-source implementation of Apple's SwiftUI",
+          "link": "https://github.com/OpenSwiftUIProject/OpenSwiftUI",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T18:42:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "12f9k10",
+          "title": "Has anyone else noticed users do the exact opposite of what they say in interviews?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wgb202/has_anyone_else_noticed_users_do_the_exact/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-14T18:05:45.000Z",
+          "summary": "Did 6 user interviews last week. Every single person said they want fewer steps in checkout. \"Make it simpler. Less clicks.\" Watched the same 6 people use the product. They all skipped the quick checkout and went to the…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "eh2swt",
+          "title": "For the Designless",
+          "link": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-14T13:59:28.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "10g7pks",
+          "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+          "link": "https://triangllabs.ai/otis",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T12:58:32Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "en60pu",
+          "title": "Show HN: I built an infinite canvas for game masters",
+          "link": "https://overseer.studio",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T12:40:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "188plno",
+          "title": "I Tried to Make Claude Code Stop Producing AI Slop",
+          "link": "https://uxplanet.org/i-tried-to-make-claude-code-stop-producing-ai-slop-fa594f6b5981?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-14T12:30:52.000Z",
+          "summary": "AI can generate a polished interface in seconds. But the problem is that most of the time, you can easily tell that AI generated it. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1ueurhs",
+          "title": "Show HN: AI-Native dependency upgrades through codemods",
+          "link": "https://apiweiser-cli-fe.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T11:42:35Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dih798",
+          "title": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
+          "link": "https://stemjson.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T11:26:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "17jkgi4",
+          "title": "Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns",
+          "link": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-14T11:26:18.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "k8fdlx",
+          "title": "How to say no when a friend asks for a discount",
+          "link": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-14T11:20:16.000Z",
+          "summary": "How thinking about price can connect to much bigger things. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "qvwbco",
+          "title": "Show HN: Replay – Audit silent prompt cache misses in AI agent transcripts",
+          "link": "https://replay.doctor/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-14T02:38:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1d3hld2",
+          "title": "The LattePanda Sigma",
+          "link": "https://taoofmac.com/space/reviews/2026/09/13/1700",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-13T20:23:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1dhdmd0",
+          "title": "Ask HN: What do AI improvements at these labs look like?",
+          "link": "https://news.ycombinator.com/item?id=49684921",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-13T15:14:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1iayqj",
+          "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
+          "link": "https://www.analystidx.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-13T11:50:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1dhccdx",
+          "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
+          "link": "https://news.ycombinator.com/item?id=49682920",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-13T11:47:23Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "items": [
