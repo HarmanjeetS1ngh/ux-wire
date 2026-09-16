@@ -1,6 +1,228 @@
 {
-  "updatedAt": "2026-09-15T10:36:58.133Z",
+  "updatedAt": "2026-09-16T10:25:20.198Z",
   "days": [
+    {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "id": "16ap45u",
+          "title": "Show HN: I built a digital wrap tool for Tesla owners",
+          "link": "https://teslawrap.studio",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-16T09:58:41Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1nyv2cs",
+          "title": "Courses for UX and AI",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1whskep/courses_for_ux_and_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-16T09:41:58.000Z",
+          "summary": "Since my company is pushing claude certification for its developers to get the partnership, i do not see any use of that for me as a UX designer. But i want to use the budget for something that will be worth for my…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "reaoq4",
+          "title": "Don’t let AI build a Winchester Mystery House",
+          "link": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-16T07:27:23.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1dv1xch",
+          "title": "A mnemonic-free wallet where the private key never leaves the phone's TEE",
+          "link": "https://news.ycombinator.com/item?id=49720965",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-16T01:07:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1dv1re6",
+          "title": "Ask HN: Why serialize documents to disk instead of memory-mapping runtime state?",
+          "link": "https://news.ycombinator.com/item?id=49720159",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T23:16:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "y8jj05",
+          "title": "Replaced by AI today. They had me build the design system they’re using to replace me",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1whg4ah/replaced_by_ai_today_they_had_me_build_the_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-15T23:14:19.000Z",
+          "summary": "Today I got laid off after 2 years with my company and I feel completely let down. Over the past few months my daily work turned into just generating screens with Claude. Even when I presented proper design work backed…",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "mtxuoi",
+          "title": "Glad to see this job is working well for somebody",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1whd0gc/glad_to_see_this_job_is_working_well_for_somebody/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-15T21:09:51.000Z",
+          "summary": "submitted by /u/Conscious-Forever-82 [link] [comments]",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "lmpb1f",
+          "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+          "link": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T20:11:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "ycb5le",
+          "title": "I told a hiring manager who passed on me they should stop using design take home exercises after I didn’t pass theirs",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wh8czj/i_told_a_hiring_manager_who_passed_on_me_they/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-15T18:21:02.000Z",
+          "summary": "Posting all this to add to the list of threads that echo a similar message, as something like what I’m writing below would have helped me. Went through an interview loop for a higher level IC role I didn’t pass. First…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1rv5kq2",
+          "title": "Show HN: Kobra – a Shadcn alternative focused on design quality",
+          "link": "https://kobra.systems/components/input-otp",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T17:23:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1dul78h",
+          "title": "Ask HN: Where is all of the AI coded software?",
+          "link": "https://news.ycombinator.com/item?id=49715361",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T16:55:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "xfljwz",
+          "title": "Cartesian – AI 3D Modeling for Design",
+          "link": "https://www.formas.ai/cartesian",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:26:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "m4lhwk",
+          "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+          "link": "https://withcapsule.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T13:31:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "lg42s4",
+          "title": "Claude Design vs Figma AI: I Designed the Same Web Page With Both",
+          "link": "https://uxplanet.org/claude-design-vs-figma-ai-i-designed-the-same-web-page-with-both-bf2a3712f980?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-15T12:16:49.000Z",
+          "summary": "AI design tools are starting to look increasingly similar: you describe what you want in natural language, AI generates an interface, and… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "v4gjq0",
+          "title": "The hidden culture layer in AI",
+          "link": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-15T11:13:46.000Z",
+          "summary": "Why AI gravitates toward certain cultural defaults — and what that means for the future of UX. Continue reading on UX Collective »",
+          "categories": [
+            "AI",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1f7x7jj",
+          "title": "The users were confident, but wrong. Here’s how to design for that.",
+          "link": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-15T11:13:17.000Z",
+          "summary": "How to design around confusing terminology, and users who feel confident about it Continue reading on UX Collective »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "items": [
