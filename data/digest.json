@@ -1,6 +1,522 @@
 {
-  "updatedAt": "2026-09-16T10:25:20.198Z",
+  "updatedAt": "2026-09-20T10:13:37.877Z",
   "days": [
+    {
+      "date": "2026-09-20",
+      "items": [
+        {
+          "id": "waojh",
+          "title": "Show HN: Will Jev pull the lever in the trolley problem?",
+          "link": "https://gpu.studio/trolley",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-20T08:31:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1dxu66t",
+          "title": "Some Thoughts on the Economics of UPI and MDR",
+          "link": "https://news.ycombinator.com/item?id=49772922",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-20T06:09:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18vlg6i",
+          "title": "3 YOE UX Designer at Accenture — feeling stuck",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wl8ltf/3_yoe_ux_designer_at_accenture_feeling_stuck/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-20T05:50:17.000Z",
+          "summary": "I have 3 YOE as a UX Designer at Accenture, with compensation stagnating around ₹13 LPA. But my bigger concern is my growth as a designer. Most of my experience has been in enterprise/service-company UX: • Short…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "10cx276",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 09/20/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wl7ol4/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-20T05:00:43.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "16y4erd",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 09/20/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wl7okv/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-20T05:00:42.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1dxth1x",
+          "title": "How to handle manager adding AI bs to our codebase/designs etc.",
+          "link": "https://news.ycombinator.com/item?id=49771657",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-20T01:18:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1vkc1u",
+          "title": "Show HN: I am vibe coding a drone",
+          "link": "https://ai-eng-design-production.up.railway.app/login",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-19T22:31:47Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bknb8f",
+          "title": "Imagine our profession disappeared, what would you do?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wktot7/imagine_our_profession_disappeared_what_would_you/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-19T18:30:01.000Z",
+          "summary": "Just a hypothetical situation. What would you do if our profession disappeared overnight and your employer or client didn't need your skills and services anymore? I might just try to become a pilot. My childhood dream.…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "d9yqrm",
+          "title": "All the complaining about AI UX in design, I don't think that's the hurdle, it's AI in leadership.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wkten3/all_the_complaining_about_ai_ux_in_design_i_dont/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-19T18:18:47.000Z",
+          "summary": "I want to say I'm an AI proponent (break out your pitchforks). I do believe that it is a net positive, and I have used in a variety of ways, mostly in my personal life, to great success. I think AI, for a single…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1dxe6s1",
+          "title": "Ask HN: How do you interview devs in a post-AI world?",
+          "link": "https://news.ycombinator.com/item?id=49768826",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-19T18:10:34Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1mcg76c",
+          "title": "AI in Design Report 2026: Basically a piece of propaganda?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wksa0z/ai_in_design_report_2026_basically_a_piece_of/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-19T17:34:09.000Z",
+          "summary": "This might be an outdated discussion already, as this report (https://stateofaidesign.com/) was launched some time ago and the research is from Q1 2026. It’s very interesting to read and learn about how different design…",
+          "categories": [
+            "AI",
+            "Tool",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": false
+        },
+        {
+          "id": "ufs3z7",
+          "title": "Props Are Not a Design System",
+          "link": "https://vitonsky.net/blog/2026/09/18/design-system/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-19T16:29:03Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "100j7wk",
+          "title": "Whatever happened to “Download on the App Store” buttons?",
+          "link": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-18T21:20:51.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "er7dcf",
+          "title": "Show HN: Procedurally Generated Mineral Gems",
+          "link": "https://gems.0x0000007a.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-18T19:38:34Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "lim4pp",
+          "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+          "link": "https://onpanda.diyer22.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-18T19:26:50Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1nxtddv",
+          "title": "Designing AI Products and Features: Study Guide",
+          "link": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-18T17:00:00.000Z",
+          "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about recommendations for designing AI products and features.",
+          "categories": [
+            "AI",
+            "Tool",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 36,
+          "isHighlight": true
+        },
+        {
+          "id": "6bakhs",
+          "title": "The 3 Roles of Context for AI Agents",
+          "link": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-18T17:00:00.000Z",
+          "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "4n5eod",
+          "title": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
+          "link": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-18T14:48:44.000Z",
+          "summary": "Google Stitch and Figma AI both make it super easy to prototype a new design. All you need to do is submit a prompt, wait for a few… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": false
+        },
+        {
+          "id": "1r09xan",
+          "title": "Show HN: AI agents design an open chip, the best one gets fabricated",
+          "link": "https://neruva.io/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-18T11:51:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "j28go1",
+          "title": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
+          "link": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-18T07:38:53.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "skqegg",
+          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+          "link": "https://cactuscompute.com/needle",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-18T00:11:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rjgsq8",
+          "title": "Email marketing from Grok Bot official integration",
+          "link": "https://twitter.com/Migma_AI/status/2100617616704295197",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-17T23:41:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "beka4o",
+          "title": "Please don’t stretch your app for foldables",
+          "link": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-17T21:34:12.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1tdfabq",
+          "title": "Rethinking writing in the world of design and AI",
+          "link": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-17T21:33:43.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "18077we",
+          "title": "The evidence at work",
+          "link": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-17T21:29:20.000Z",
+          "summary": "The floor plan and the flexibility policy were chosen deliberately, by people who had an outcome in mind. When the results arrived, they… Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "d0ows4",
+          "title": "Nothing has changed other than how we talk about it",
+          "link": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-17T21:29:03.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1jjg1ac",
+          "title": "Show HN: Craigslist for agent skills, curated by a human",
+          "link": "https://skillbay.sh/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-17T16:53:51Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "187nf98",
+          "title": "The Bicycle and the Algorithm: Amber Case on Why AI Has It Backwards",
+          "link": "https://www.designwhine.com/amber-case-interview-why-ai-has-it-backwards/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-17T16:53:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "euodnd",
+          "title": "Show HN: Pelmet – menu bar manager for macOS 27 that hides icons on demand",
+          "link": "https://github.com/fif7y/pelmet",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-17T15:37:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1921cly",
+          "title": "I Tested 3 Popular Claude Code Skills for Web Design",
+          "link": "https://uxplanet.org/ive-tested-3-popular-claude-code-skills-for-web-design-24b7866e05a7?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-17T13:45:41.000Z",
+          "summary": "Front-end design is by far one of the most popular tasks Claude Code users do. Nearly every second tutorial about Claude Code covers its… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1m6umi6",
+          "title": "HDR as a new tool for graphic design",
+          "link": "https://hdrlogo.com/after-white",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-17T12:40:53Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1jt0qo3",
+          "title": "Lattice Prompt brings AI agents into the full FPGA design flow via MCP",
+          "link": "https://www.businesswire.com/news/home/20260916317324/en/Lattice-Advances-FPGA-Design-with-New-Leadership-AI-Driven-Development-Tool-Lattice-Prompt",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-17T08:59:56Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1rdqtvo",
+          "title": "Design System Scalability Made iPhone Duo Possible",
+          "link": "https://blog.romain.garden/blog/design-system-scalability-made-iphone-duo-possible/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-16T21:47:20Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dvm7m8",
+          "title": "Tell HN: An inside view of Montana's new biotech law",
+          "link": "https://news.ycombinator.com/item?id=49731216",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-16T18:43:57Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1uqzfh",
+          "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+          "link": "https://seasonmap.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-16T15:43:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "dt6ouz",
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-09-16T13:00:00.000Z",
+          "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "7y2ypg",
+          "title": "Design handoff with Claude Code",
+          "link": "https://uxplanet.org/design-handoff-with-claude-code-fdaf477e4a0c?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-16T12:52:23.000Z",
+          "summary": "Design handoff is the process of handing over a finished design for implementation. This is one of the most tedious parts of the design… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1dv4cww",
+          "title": "Why Six Millennium Problems May Be Hard for the Same Reason",
+          "link": "https://news.ycombinator.com/item?id=49724391",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-16T10:25:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1feb5x3",
+          "title": "UX Conference December Announced (Dec 2 - Dec 15)",
+          "link": "https://www.nngroup.com/training/december/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-16T06:59:19.000Z",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. December 2 - December 15, 2026.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "items": [
