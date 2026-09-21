@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-09-20T10:13:37.877Z",
+  "updatedAt": "2026-09-21T11:18:17.125Z",
   "days": [
+    {
+      "date": "2026-09-21",
+      "items": [
+        {
+          "id": "nttqug",
+          "title": "Which App icon do you like more for a productivity app?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wm8jim/which_app_icon_do_you_like_more_for_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-21T10:04:48.000Z",
+          "summary": "If we go with the mascot one then we will use the mascot in the app in multipel places for the other one we will just keep it clean. submitted by /u/startup-pizza [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "neylm2",
+          "title": "Show HN: Boxy – Design System and Agent Skill for interfaces with square corners",
+          "link": "http://github.avestura.dev/boxy-design-skill/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-21T07:40:28Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "tez9qy",
+          "title": "From product design to creative director?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wm39il/from_product_design_to_creative_director/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-21T05:00:38.000Z",
+          "summary": "Hello. I am curious, have any of you switched roles from product design /ux to creative director roles or related fields? If do, how are you? Do you like what you are doing? Is creative director still a thing? submitted…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "r2s01m",
+          "title": "I think I'm addicted to the iPhone Duo possibilities",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wm2acl/i_think_im_addicted_to_the_iphone_duo/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-21T04:09:15.000Z",
+          "summary": "Hey everyone, I've been redesigning my dog activity app, Zoomie, for the upcoming iPhone Duo, and I'd love some feedback from people who think about layout for a living. The problem: on the big inside screen, the app…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": true
+        },
+        {
+          "id": "19k6c83",
+          "title": "Do hiring managers actually want the typical “Hi 👋, I’m [insert name] a UX designer who…” portfolio homepage?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wlyeux/do_hiring_managers_actually_want_the_typical_hi/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-21T01:01:04.000Z",
+          "summary": "I’m curious how hiring managers and design leads feel about the typical UX/product design portfolio landing page/ homepage. You know the format: “Hi 👋, I'm [insert name here] I’m a product designer who uses design…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "1muaz8t",
+          "title": "Agents are replacing pull requests, Playwright, and chip design tools",
+          "link": "https://fromtheterminal.substack.com/p/the-land-grab-isnt-for-your-code-its-for-everything-around-it",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-20T18:56:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1fvjf20",
+          "title": "system design in depth – 200 topics, 118 diagrams, interactive demos",
+          "link": "https://system-design-in-depth.pages.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-20T14:01:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1pl6h4a",
+          "title": "AI nutrition facts",
+          "link": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-20T12:36:44.000Z",
+          "summary": "Designing an interface between writers, readers, and AI Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "items": [
