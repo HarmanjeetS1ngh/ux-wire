@@ -1,6 +1,416 @@
 {
-  "updatedAt": "2026-09-21T11:18:17.125Z",
+  "updatedAt": "2026-09-23T10:24:07.916Z",
   "days": [
+    {
+      "date": "2026-09-23",
+      "items": [
+        {
+          "id": "1ucuh1u",
+          "title": "And it hit me as well: I got kicked out after I finished and proofed my ai-framework",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wnz1vb/and_it_hit_me_as_well_i_got_kicked_out_after_i/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-23T07:20:53.000Z",
+          "summary": "Hey there, the last year I got the project to come up with a workflow for other roles as being a designer to generate artefacts thats close to our products. With time and new models, it got better and better. I was able…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1ebkwqp",
+          "title": "Ask HN: Engineers on highly polished products, how are you using agentic coding?",
+          "link": "https://news.ycombinator.com/item?id=49812392",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-23T06:25:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1qfkg0c",
+          "title": "Senior Product Designer completely burnt out — is this just what the industry has become?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wnxqsm/senior_product_designer_completely_burnt_out_is/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-23T06:04:56.000Z",
+          "summary": "I think I'm completely burnt out by product design. What did you do after leaving design? I've been working in UX/Product Design for years and reached senior level. I used to genuinely enjoy what I did, but lately I've…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1l2a78m",
+          "title": "Why the best resume may be the wrong resume for a design team",
+          "link": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-23T04:06:17.000Z",
+          "summary": "What design leadership gets wrong about experience, expertise, and innovation on a team. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1szfs9t",
+          "title": "The origins, side B — birth of the un-cool",
+          "link": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-23T04:04:28.000Z",
+          "summary": "Software adoption followed crises of complexity… and then it kept growing Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "c3r25a",
+          "title": "RepoDocs – turn your repo's Markdown/*.md into a Figma-like board you can edit",
+          "link": "https://github.com/alecerca/repoDocs",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-23T00:57:16Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1eb5onb",
+          "title": "Reflections on object oriented design patterns (2026)",
+          "link": "https://news.ycombinator.com/item?id=49809846",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T23:52:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "g3peqt",
+          "title": "Show HN: Palette, a Figma plugin that turns one color into a whole UI system",
+          "link": "https://www.figma.com/community/plugin/1682163756621093164",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T22:53:01Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1t371y2",
+          "title": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
+          "link": "https://jade.email/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T21:46:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ak5upl",
+          "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
+          "link": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-22T21:27:21.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "h8mmzr",
+          "title": "Update: I got fired 5 days after posting this",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wnljb1/update_i_got_fired_5_days_after_posting_this/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-22T20:48:04.000Z",
+          "summary": "Five days after posting this on reddit I got fired... I asked the Head of Product for the reason & he said the real reason is that you are challenging the CEO and that the HR will tell me something else (Financial)…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1djpi83",
+          "title": "I think we’ll have jobs for awhile.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wnldcz/i_think_well_have_jobs_for_awhile/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-22T20:42:05.000Z",
+          "summary": "I work in a large org. Solo designer for numerous product teams, but not all have design requirements all the time, so busy but manageable. We have a small team that was put together in the org to experiment with “AI…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "12du3as",
+          "title": "Show HN: Lightdrift / Image search for AI agents through API and MCP",
+          "link": "https://lightdrift.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T18:50:54Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ga6c5t",
+          "title": "AI design tool from GitLab founder",
+          "link": "https://pixelcrew.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T17:44:22Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1btkuj8",
+          "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+          "link": "https://www.coveragecat.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T17:26:36Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "30rjyy",
+          "title": "Show HN: Nomoreda – Browser EDA, MCP-Friendly, KiCad/Altium-Compatible",
+          "link": "https://nomoreda.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T17:24:57Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "7vcnew",
+          "title": "Show HN: Design 3D printable containers that fit any drawer perfectly",
+          "link": "https://containercad.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T15:05:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1eb143s",
+          "title": "Show HN: CircuitPilot – We built a physics engine to auto-route PCBs using LLMs",
+          "link": "https://news.ycombinator.com/item?id=49802378",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T14:55:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "exavxh",
+          "title": "Show HN: Brayer – Create product mockups locally in the browser",
+          "link": "https://usebrayer.com/studio",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T14:34:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ehen2u",
+          "title": "Figma vs. Claude Design: From UI Screenshot to Functional Prototype",
+          "link": "https://uxplanet.org/figma-vs-claude-design-from-ui-screenshot-to-functional-prototype-82e00fb924bc?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-22T13:52:21.000Z",
+          "summary": "Both Figma and Claude Design allow you to go from a design idea to a fully functional prototype. And the cool thing is that you can feed… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1il4wpl",
+          "title": "Show HN: Warble – Share voice notes in your social media feeds",
+          "link": "https://www.getwarble.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T12:33:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "prcp4x",
+          "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
+          "link": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-22T11:23:11.000Z",
+          "summary": "If screens don’t work as a unit of measurement, what does instead? Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1vq151k",
+          "title": "The variance problem in AI products",
+          "link": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-22T11:22:49.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "fxdvbp",
+          "title": "What is a screen made of?",
+          "link": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-22T11:22:00.000Z",
+          "summary": "Flat design was right that the screen isn’t leather. Then it assumed that meant nothing. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "6sxcl9",
+          "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
+          "link": "https://atlas-sysdes.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T10:54:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1slin30",
+          "title": "How we use dopamine to get you to spend less time on your phone",
+          "link": "https://getisland.app/blog/fire-with-fire/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T02:58:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1dyznna",
+          "title": "Ask HN: Ceremonious Architecture in Times of AI",
+          "link": "https://news.ycombinator.com/item?id=49795847",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-22T01:44:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "o6jora",
+          "title": "Skills for AI agents to remove or prevent slop in UI design and written content",
+          "link": "https://github.com/kmaida/deslop-skills",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-21T14:48:40Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "9ym5zx",
+          "title": "Show HN: OpenDecision – a 400M zero-shot model makes local decisions, plays Doom",
+          "link": "https://deepanwadhwa.github.io/OpenDecision/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-21T14:00:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "79o46",
+          "title": "Can AI follow a real design system?",
+          "link": "https://uxplanet.org/can-ai-follow-a-real-design-system-c30330ad6dd1?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-21T13:48:36.000Z",
+          "summary": "I Gave Claude Design My Design System and Here’s What Happened Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "pmz3u0",
+          "title": "CSE 452: Google's Introduction to Distributed System Design",
+          "link": "https://courses.cs.washington.edu/courses/cse452/23wi/papers/yegge-platform-rant.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-21T11:57:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "items": [
