@@ -1,6 +1,326 @@
 {
-  "updatedAt": "2026-09-23T10:24:07.916Z",
+  "updatedAt": "2026-09-25T10:44:08.496Z",
   "days": [
+    {
+      "date": "2026-09-25",
+      "items": [
+        {
+          "id": "m80g8e",
+          "title": "Made a free sample of my design tokens ebook. No signup needed, just here to see if it's useful",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wpsj2x/made_a_free_sample_of_my_design_tokens_ebook_no/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-25T10:14:23.000Z",
+          "summary": "I wrote a longer guide on building enterprise-grade design token systems and cut a small sample out of it so people can actually judge before checking out anything. It covers why tokens beat raw variables, the…",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "zyvdoi",
+          "title": "Show HN: Proxima Forma – Designs that my AI agents understand",
+          "link": "https://proximaforma.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-25T09:22:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "18glup5",
+          "title": "My design workflow has changed a lot this year: references first, then AI",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wprb9z/my_design_workflow_has_changed_a_lot_this_year/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-25T08:59:14.000Z",
+          "summary": "I've been designing with AI tools (Claude, Cursor, Codex) for most of this year. And It was just generating slop. Being a design myself, I would spend so much tokens just fixing the design. Then I realised the problem…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "fe470g",
+          "title": "Show HN: Foveon Lab – Compare Sigma Photo Pro Presets on Foveon X3F Files",
+          "link": "https://github.com/biopoetic/foveon-lab",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-25T07:48:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "xyputm",
+          "title": "After thinking about leaving for almost a year, I finally decided to move on.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wpnh65/after_thinking_about_leaving_for_almost_a_year_i/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-25T04:58:20.000Z",
+          "summary": "​ I joined here as a fresher, and the next thing I knew, I was working on several projects and mentoring others. I’ve been working as a UI/UX designer for around 3 years at the same company. Over time, my…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "2qgj6",
+          "title": "What the Bible got right about AI",
+          "link": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-24T22:03:16.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1es98i8",
+          "title": "Show HN: PipeFitter – Quick, Browser-Based, Parametric Pipe Connectors",
+          "link": "https://mankyd.github.io/pipefitter/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T21:02:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "qgmro2",
+          "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]",
+          "link": "https://siliscale.com/papers/tiny-vedas.pdf",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T19:44:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1xa1er8",
+          "title": "Easy PDF Export with Links",
+          "link": "https://www.figma.com/community/plugin/1637200885821233245/easy-pdf-export-with-links",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T18:45:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1xbwseq",
+          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+          "link": "https://github.com/devdotfast/whiteboard",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T17:21:36Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "hlsvuc",
+          "title": "Towards a future space-based, highly scalable AI infrastructure system design",
+          "link": "https://arxiv.org/abs/2511.19468",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T15:23:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ecnwz9",
+          "title": "Ask HN: How do you read, sign off, verify, manage the volume of generated slop?",
+          "link": "https://news.ycombinator.com/item?id=49831618",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T15:03:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "abzacd",
+          "title": "Show HN: Maxxmod – The browser extension built for YouTube power users",
+          "link": "https://maxxmod.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T12:41:36Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ye01e",
+          "title": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
+          "link": "https://uxplanet.org/gpt-6-astra-vs-opus-5-5-which-one-is-better-for-product-design-ea66a6ff4527?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-24T12:26:11.000Z",
+          "summary": "Anthropic recently updated its flagship AI model, Opus. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "198qokt",
+          "title": "Phyll, a UX review for apps built with AI that keeps the design",
+          "link": "https://github.com/carlosphyll/phyll",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T07:54:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "w09s0e",
+          "title": "Show HN: CubeLV – AI that designs your automation before building it",
+          "link": "https://app.cubelv.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T07:39:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1c695qs",
+          "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+          "link": "https://cms-sfx-demo.apeleg.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T07:22:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "bahxas",
+          "title": "Show HN: A modern favicon generator designed for clean UI and quality icon set",
+          "link": "https://favicon.kumardeepak.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T07:02:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "66fems",
+          "title": "Me replying to people in Facebook groups trying to fix their ai website",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1woqezb/me_replying_to_people_in_facebook_groups_trying/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-24T03:07:02.000Z",
+          "summary": "submitted by /u/thomas_unise [link] [comments]",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "9i50vc",
+          "title": "Holistic design systems for the AI coding era",
+          "link": "https://numeric.substack.com/p/design-systems-at-numeric",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-24T00:21:16Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "11sbvgy",
+          "title": "Show HN: Hosted JayBase – An append-only data store for safe AI agent writes",
+          "link": "https://jaybase.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-23T22:59:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1gqf8hk",
+          "title": "Show HN: A San Francisco cable car ride as a procedural risograph film",
+          "link": "https://cable-car-ride.vercel.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-23T15:10:36Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "im4ecb",
+          "title": "Show HN: Pomodoro.in – A local first aesthetic timer. No Signup. No Ads",
+          "link": "https://pomodoro.in",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-23T12:46:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "n0mf8w",
+          "title": "Claude Opus 5.5 for Product Designers",
+          "link": "https://uxplanet.org/claude-opus-5-5-for-product-designers-6d354142d5ac?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-23T11:08:35.000Z",
+          "summary": "Anthropic just updated its frontier AI model, Opus. The new model, Opus 5.5, demonstrates even better results than its predecessor, Opus 5. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "items": [
