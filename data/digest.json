@@ -1,6 +1,155 @@
 {
-  "updatedAt": "2026-09-25T10:44:08.496Z",
+  "updatedAt": "2026-09-26T10:26:36.548Z",
   "days": [
+    {
+      "date": "2026-09-26",
+      "items": [
+        {
+          "id": "1bn9imx",
+          "title": "Rethinking the desktop with fractal window management",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wqm01h/rethinking_the_desktop_with_fractal_window/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-26T09:15:57.000Z",
+          "summary": "I recently watched Scott Jenson's talk \"Are we really going to use the same desktop UX forever?\" and it inspired me to prototype an idea i've had for the better part of a decade. submitted by /u/fezzinate [link]…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1fjwg1e",
+          "title": "Using Figma MCP with Cursor to create and edit designs",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wql9lp/using_figma_mcp_with_cursor_to_create_and_edit/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-26T08:28:30.000Z",
+          "summary": "submitted by /u/Different_Scholar_74 [link] [comments]",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1o9hnxm",
+          "title": "The amount of ai slop content in this sub is infuriating",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wqiwhn/the_amount_of_ai_slop_content_in_this_sub_is/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-26T06:04:42.000Z",
+          "summary": "Is this sub even moderated anymore? submitted by /u/qpqpdbdbqpqp [link] [comments]",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "u89i7f",
+          "title": "Really groundbreaking stuff… especially in 2026",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wqaags/really_groundbreaking_stuff_especially_in_2026/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-25T22:46:57.000Z",
+          "summary": "submitted by /u/theworlddidwut [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "y0e3r2",
+          "title": "Is this the line for burgers?",
+          "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-25T21:51:14.000Z",
+          "summary": "On something already in the scene solving a problem outside its brief Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1qh27hq",
+          "title": "How AI Works and How Users Think About It: Study Guide",
+          "link": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-25T17:00:00.000Z",
+          "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about how artificial intelligence works, and how users think about it.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "1gedm0e",
+          "title": "When Should You Disclose AI Use? The PACED Framework",
+          "link": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-09-25T17:00:00.000Z",
+          "summary": "How people react to being told that AI helped create a piece of content varies with audience, context, the nature and degree of AI use.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "ymoy39",
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-25T15:29:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "n2a38y",
+          "title": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
+          "link": "https://wave.subworkflow.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-25T12:34:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "wzbuc3",
+          "title": "Show HN: An AI interviewer that pushes back on your system design trade-offs",
+          "link": "https://prepd.tech/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-25T12:27:05Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "c24joi",
+          "title": "I Tested Opus 5.5 at Every Effort Level for UI Design",
+          "link": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-25T12:16:48.000Z",
+          "summary": "I was curious how different effort levels impact the quality of output Opus 5.5 produces. So I tested Opus 5.5 at every effort level, from… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "items": [
