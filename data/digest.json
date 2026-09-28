@@ -1,6 +1,255 @@
 {
-  "updatedAt": "2026-09-26T10:26:36.548Z",
+  "updatedAt": "2026-09-28T12:13:45.733Z",
   "days": [
+    {
+      "date": "2026-09-28",
+      "items": [
+        {
+          "id": "yacco1",
+          "title": "Regulating AI, Quantifying stress, The variance problem",
+          "link": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-28T11:14:59.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1kx5me3",
+          "title": "Common UX Design Methods, Ranked by Value",
+          "link": "https://jakobnielsenphd.substack.com/p/100-uxd-methods",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T10:16:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1fkdkqb",
+          "title": "Nvidia Debuts System Designed to Stop AI Agents from Going Awry",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T09:38:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "yzb6i",
+          "title": "I rebuilt my product design portfolio, roast it before recruiters do. No “looks great!” please, I need actual feedback on my product design portfolio",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ws9j5w/i_rebuilt_my_product_design_portfolio_roast_it/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-28T09:02:06.000Z",
+          "summary": "Hey folks, I’ve been rebuilding my portfolio over the last few weeks Portfolio: https://www.djux.design/ I’m a Product Designer with 3+ years of experience, mostly working on AI, SaaS and workflow-heavy products. The…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1at1wab",
+          "title": "Putting the trace before the loop: observability-first AI agent design",
+          "link": "https://dbln.me/blog/building-an-ai-agent-observability-first",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T05:39:36Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "158p6v8",
+          "title": "Are conference talks getting worse?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ws4gip/are_conference_talks_getting_worse/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-28T04:01:58.000Z",
+          "summary": "I went to a conf last week and was appalled to see AI markers in at least two talks; one on the mainstage and almost certainly nearly entirely AI written. All I could think was it’s not innovative, it’s not forward…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "rvr20e",
+          "title": "Why you're not getting promoted",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1ws1a13/why_youre_not_getting_promoted/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-28T01:19:28.000Z",
+          "summary": "External reasons. Honestly, it's often not about you. Try to avoid taking it personally. Maybe boss is only allowed 2 promotions and you were one of 3 high performers. Maybe boss wants to but has been told no for…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1wk1b3g",
+          "title": "Show HN: Help us fire our UI/UX designers",
+          "link": "https://vosu.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T00:29:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "12az3mz",
+          "title": "A Quick Guide on Creating a Design System",
+          "link": "https://www.andrewcoyle.com/blog/a-quick-guide-on-creating-a-design-system",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-27T22:06:14Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "xkiqyk",
+          "title": "As a designer, do you use GitHub in your role, and if so, for what?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wrwqh9/as_a_designer_do_you_use_github_in_your_role_and/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-27T21:49:46.000Z",
+          "summary": "I'm starting a new role and being asked to activate my GitHub account, but I've never used GitHub before. I'm curious to know if this is something other designers are using today. submitted by /u/YachtRock12 [link]…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "kpmwn3",
+          "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+          "link": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-27T19:38:02.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "14vrwt0",
+          "title": "Heypcb: Figma for Hardware, with AI",
+          "link": "https://heypcb.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-27T19:14:38Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "1e01cfv",
+          "title": "How AI Is Accelerating PCB Design and Prototyping",
+          "link": "https://www.eetimes.com/how-ai-is-accelerating-pcb-design-and-prototyping/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-27T10:01:30Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1eecmdp",
+          "title": "Show HN: Wet Bulb Tracker Tracker – sends you humid-heat alerts and forecasts",
+          "link": "https://news.ycombinator.com/item?id=49863884",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-27T06:22:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18xt87s",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 09/27/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wrbaqv/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-27T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "ablpp7",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 09/27/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wrbaqq/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-27T05:00:37.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "hqdsmw",
+          "title": "A Trump team wants to automate U.S. Web Design System accessibility testing",
+          "link": "https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-26T14:15:39Z",
+          "summary": "",
+          "categories": [
+            "Accessibility",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "r29zbt",
+          "title": "Show HN: HomeAI.design – Visualize interior design ideas from a photo",
+          "link": "https://homeai.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-26T14:13:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-26",
       "items": [
