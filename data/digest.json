@@ -1,6 +1,201 @@
 {
-  "updatedAt": "2026-09-28T12:13:45.733Z",
+  "updatedAt": "2026-09-29T11:43:49.701Z",
   "days": [
+    {
+      "date": "2026-09-29",
+      "items": [
+        {
+          "id": "103w58k",
+          "title": "Neuroevolution: Harnessing Creativity in AI Agent Design",
+          "link": "https://neuroevolutionbook.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T08:53:36Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1efjvgi",
+          "title": "An Open-Source Terminal UI for Azure DevOps",
+          "link": "https://news.ycombinator.com/item?id=49889041",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T06:30:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16dhsww",
+          "title": "Side projects and startups in the age of AI",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wt0bd8/side_projects_and_startups_in_the_age_of_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-29T04:13:27.000Z",
+          "summary": "With AI making it easier to build and launch products has anyone left their corporate job or put significant effort into a side project? What are you working on? How is it going? What has been successful and what…",
+          "categories": [
+            "AI",
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "17mew0b",
+          "title": "The strategic designer: navigating the Jevons paradox in the AI age",
+          "link": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-29T03:41:54.000Z",
+          "summary": "From specialist makers to strategic orchestrators: why compressing execution time increases the demand for design vision, systems thinking… Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "15ejocw",
+          "title": "I'm no longer interested in advancing my career",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wstu2p/im_no_longer_interested_in_advancing_my_career/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-28T23:05:40.000Z",
+          "summary": "I've achieved everything I set out to achieve in 6 years of doing UX. I'm a Lead, I've worked with popular multi million dollar brands, I've gotten a great salary, and I'm completely miserable. Combined, my partner and…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1ygf212",
+          "title": "The next larger context",
+          "link": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-28T22:29:04.000Z",
+          "summary": "Designing beyond the interface, the product, and the prompt Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "13uuw20",
+          "title": "What makes a brand last?",
+          "link": "https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-28T22:28:43.000Z",
+          "summary": "Two energy suppliers shared the same colour and cheerful voice, yet one of them went bust. A bank and a language app help explain why. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "knz5mc",
+          "title": "7 rounds of interviews later",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wss4he/7_rounds_of_interviews_later/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-28T21:52:56.000Z",
+          "summary": "Staff level position, went through seven rounds of interviews with everyone from a junior designer to CPO. Just to be told that someone else accepted the offer. I get it ... i was the backup plan but extremely…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "n369xx",
+          "title": "Nvidia launched a tool designed to stop AI agents from going rogue. How it works",
+          "link": "https://www.businessinsider.com/nvidia-launches-open-agent-safety-platform-ai-going-rogue-2026-9",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T20:07:25Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1mt2yi8",
+          "title": "Jensen Huang: All systems around AI must be designed with restrictive rights",
+          "link": "https://www.youtube.com/watch?v=GGzPtkYiYis",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T18:33:54Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "vn3g6b",
+          "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+          "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T17:34:36Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "ghzcsu",
+          "title": "Anybody else paralyzed by the overwhelming pressure to change everything they thought they knew because of AI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wsgmf2/anybody_else_paralyzed_by_the_overwhelming/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-28T14:47:55.000Z",
+          "summary": "I'm in a Lead role at a rather design-immature org. The design team consists of me and one other designer. The product is a Frankenstein of inconsistency and accessibility issues. During my time here, I have created…",
+          "categories": [
+            "AI",
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1xe36vg",
+          "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+          "link": "https://www.openappa.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-28T13:20:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "eou625",
+          "title": "I Tested Opus 5.5 at Every Effort Level for Animation Design",
+          "link": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-animation-design-848411dc7f0a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-28T12:26:50.000Z",
+          "summary": "Motion design is by far one of the most important parts of the design process. A well-crafted animated effect directly impacts how users… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "items": [
