@@ -1,6 +1,266 @@
 {
-  "updatedAt": "2026-09-29T11:43:49.701Z",
+  "updatedAt": "2026-09-30T11:30:08.500Z",
   "days": [
+    {
+      "date": "2026-09-30",
+      "items": [
+        {
+          "id": "ynuxqc",
+          "title": "The economics of attention in the age of AI",
+          "link": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-30T11:14:25.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "ccvq0m",
+          "title": "What is your experience of going from a ‘team of one’ to being a designer in a product team?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wu1a2m/what_is_your_experience_of_going_from_a_team_of/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-30T10:22:18.000Z",
+          "summary": "I have an opportunity that I’m excited about as I think it solves a lot of what is currently frustrating as a team of one - working in waterfall method, slow progress (in projects and my own development) and feeling…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1mzsxg2",
+          "title": "How to Sync a Design System with Claude Design",
+          "link": "https://nitayneeman.com/blog/how-to-sync-a-design-system-with-claude-design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T10:03:43Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1omyn8q",
+          "title": "Am I just burned out, or is consultancy genuinely not for me?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wtzvxa/am_i_just_burned_out_or_is_consultancy_genuinely/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-30T08:54:12.000Z",
+          "summary": "Hello there! I (27F) have been working as a consultant for a big company for about 2.5 years, and I’m starting to realize that maybe the consultancy world just isn’t for me. Working from home and being able to manage my…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1cozieh",
+          "title": "Design of Linkage Systems to Draw Specified Plane Curves(2017) [pdf]",
+          "link": "https://bertini.nd.edu/wampler2017/McCarthyTalk.pdf",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T08:44:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "6k6jl8",
+          "title": "Anyone else feeling anxious and overwhelmed by the AI pace?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wtsjxs/anyone_else_feeling_anxious_and_overwhelmed_by/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-30T01:51:05.000Z",
+          "summary": "I'm a senior product designer. Started as a graphic/motion designer and slowly moved to web and product. Lately I feel addicted to vibe coding. I've built some cool things with it, but I started feeling anxious about…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1es244m",
+          "title": "Ask HN: How do you maintain depth of understanding and velocity when using AI?",
+          "link": "https://news.ycombinator.com/item?id=49901420",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T22:08:51Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1vbla0l",
+          "title": "How to de-slopify your designs",
+          "link": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-29T21:39:48.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1es2148",
+          "title": "Designers changing mockups and calling correct & completed work defects",
+          "link": "https://news.ycombinator.com/item?id=49901004",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T21:36:36Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1qutiyc",
+          "title": "Show HN: Giving voice agents a voice that adapts to context",
+          "link": "https://gradium.ai/demos/voice-design-demo/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T19:08:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1lqraaq",
+          "title": "Designing a Programming Language for the AI Era",
+          "link": "https://zena-lang.dev/blog/2026/09/languages-for-the-ai-era/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T19:05:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "15ol97v",
+          "title": "Divergent thinking is being lost due to AI prototypes",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wthurm/divergent_thinking_is_being_lost_due_to_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-09-29T18:22:02.000Z",
+          "summary": "Firstly, I love AI coded prototypes. But a patten I’m seeing in product, devs and design are single prototype solutions. It looks decent, but everyone is fixed on this single solution. Canvas design (Figma, Miro,…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "13u23l2",
+          "title": "Why generic models are bad graphic designers",
+          "link": "https://grafista.io/blog/posts/how-grafista-fights-ai-slop",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T18:20:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ioz0i",
+          "title": "Show HN: A working 3D model of an Enigma machine",
+          "link": "https://enigma.design",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T17:15:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "nzs9tc",
+          "title": "Using commit history to predict the next vulnerability",
+          "link": "https://chainloop.dev/blog/predicting-the-next-vulnerability-from-fix-history/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T14:41:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "17wlthb",
+          "title": "Show HN: NetWasm – Independent .NET Compiler/Runtime (82.5 KB Hello World in C#)",
+          "link": "https://playground.netwasm.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T13:09:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "106scuk",
+          "title": "I Tested Claude Sonnet 5.5 for Web Design",
+          "link": "https://uxplanet.org/i-tested-claude-sonnet-5-5-for-web-design-8ab1df274cf9?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-29T12:49:48.000Z",
+          "summary": "And it’s not as good as Anthropic claims Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "1g31vak",
+          "title": "Show HN: Search2o – Search that finds and runs an AI agent for each request",
+          "link": "https://pypi.org/project/search2o/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T12:39:51Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1tw8fm4",
+          "title": "If you want to design for underserved users, look at farmers’ markets",
+          "link": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-29T12:10:56.000Z",
+          "summary": "The bottom third model, and why your help patterns miss the users who need them most Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "jbn12k",
+          "title": "Show HN: Sliderino, presentation software for the age of agents",
+          "link": "https://sliderino.embornal.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T11:54:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "items": [
