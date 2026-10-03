@@ -1,6 +1,531 @@
 {
-  "updatedAt": "2026-09-30T11:30:08.500Z",
+  "updatedAt": "2026-10-03T10:45:24.520Z",
   "days": [
+    {
+      "date": "2026-10-03",
+      "items": [
+        {
+          "id": "1jq5dsz",
+          "title": "Is there any website where I can compare the Android and iOS designs of the same app?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wwj0s4/is_there_any_website_where_i_can_compare_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-03T09:30:27.000Z",
+          "summary": "Hi, I’m learning UI/UX, and I was wondering if there’s a place where I can compare the design choices made for Android and iOS apps. Like screenshots of the same screen on both platforms, etc. submitted by…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "16x5c2e",
+          "title": "Show HN: A critical thinking site for kids and teens",
+          "link": "https://critikid.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-03T08:04:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1o9ew6b",
+          "title": "after over six years, the Chase mobile app has finally figured out how to implement dark mode",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wwhbjp/after_over_six_years_the_chase_mobile_app_has/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-03T07:41:55.000Z",
+          "summary": "submitted by /u/DereChen [link] [comments]",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "qreenj",
+          "title": "System Design – How SSDs Work Internally",
+          "link": "https://jzleetcode.github.io/posts/design-how-ssds-work-internally/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-03T06:52:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "xg455i",
+          "title": "Need User Research and User Journey Map Advice (Beginner)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wwfv04/need_user_research_and_user_journey_map_advice/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-03T06:12:05.000Z",
+          "summary": "Hi! I'm a university student currently working on a UI/UX assignment, and I'm a bit confused about the proper process for this project. Our professor assigned us to conduct user research…",
+          "categories": [
+            "Research"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "rpkb5k",
+          "title": "Getting into UX for Robotics/Physical AI",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wwcy8f/getting_into_ux_for_roboticsphysical_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-03T03:24:03.000Z",
+          "summary": "I’ve read thought leaders like Jakob Nielsen say that UX is moving beyond interfaces. I'm interested in learning more about doing UX for robotics, wearables, and physical uses of AI. Any resources you’d recommend? I’m…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "z4qilt",
+          "title": "Show HN: Television – an open source GUI for your agent harness",
+          "link": "https://television.run/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T23:25:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "8x6pgp",
+          "title": "Show HN: figma-server, the solution to Figma's hostility towards agents",
+          "link": "https://github.com/ctxrs/figma-server",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T21:11:27Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "w42sd8",
+          "title": "LF UX Designer – Bay Area Hybrid",
+          "link": "https://vuetech.sh/careers",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T20:43:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "vh45wc",
+          "title": "New tool means no more CAD needed when 3D print desiging",
+          "link": "https://www.partforge.ai/blog/welcome",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T18:00:18Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "19h3yy9",
+          "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+          "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-02T17:00:00.000Z",
+          "summary": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "fb5yi8",
+          "title": "Empathy Mapping: The First Step in Design Thinking",
+          "link": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-02T17:00:00.000Z",
+          "summary": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "wchkjk",
+          "title": "Toward a future space-based, highly scalable AI infrastructure system design",
+          "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2542435126003624%3Fshowall%3Dtruee/pii/S2542435126003624%3Fshowall%3Dtrue",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T16:23:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1l8nis3",
+          "title": "Show HN: Sidekins – a Mac companion that visits friends and does your work",
+          "link": "https://www.sidekins.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T16:22:37Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "564sht",
+          "title": "Adapting to new ways of work",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wvx2hc/adapting_to_new_ways_of_work/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-02T15:40:10.000Z",
+          "summary": "Hey! I work at a company that is also bought into everything AI and it’s become the only topic everyone talks about everyday all day, I also work at a department that now does AI solutions. Our ways of work have…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1eesaiz",
+          "title": "3D Modeling with Claude Code: A Practical Blender Workflow",
+          "link": "https://uxplanet.org/3d-modeling-with-claude-code-a-practical-blender-workflow-97e6e0b536b0?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-02T12:37:51.000Z",
+          "summary": "Claude Code can be used for various design tasks, including 3D modelling. But the best way to use Claude Code for 3D modeling is to treat… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "mcdt3k",
+          "title": "In/tension modeling: what gives us the right?",
+          "link": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-02T11:09:56.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "hpah1p",
+          "title": "CIRCT – An experimental effort to apply MLIR and LLVM to hardware design tools",
+          "link": "https://circt.llvm.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-02T01:34:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "frv80",
+          "title": "Show HN: PhreshOS – OS for Web Apps",
+          "link": "https://github.com/PhreshOS/system",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T22:55:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18y8gl0",
+          "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
+          "link": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-01T22:52:26.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1syo10i",
+          "title": "Design’s consensus was AI’s first casualty",
+          "link": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-01T22:51:02.000Z",
+          "summary": "The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1faubav",
+          "title": "AI beyond average: from chatting to collaborating",
+          "link": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-01T22:49:51.000Z",
+          "summary": "How context, skills, and feedback turn the same model into a different kind of collaborator Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "v5f3af",
+          "title": "Show HN: Fumble – keybr, but it learns from everything you type (macOS)",
+          "link": "https://fumble.alexmcconnell.ie",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T21:05:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zjial0",
+          "title": "Worktrunk: A CLI for Git worktree management, designed for AI agent workflows",
+          "link": "https://worktrunk.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T17:55:37Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "hw8pbr",
+          "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+          "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T15:10:46Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mnqgtg",
+          "title": "Agentic Front End Refactoring with QBDS, Claude Code, & Figma MCP",
+          "link": "https://medium.com/quantumblack/what-changes-when-your-design-system-can-talk-to-an-ai-0a856b3c40d9",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T15:09:11Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "k0zu9r",
+          "title": "Show HN: Tegaki – Handwriting animation for any font",
+          "link": "https://tegaki.ink/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T14:10:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1lb18kq",
+          "title": "Sonnet 5.5 vs Opus 5.5: Which one is better for product design?",
+          "link": "https://uxplanet.org/sonnet-5-5-vs-opus-5-5-which-one-is-better-for-product-design-c2c9849f754f?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-01T12:57:32.000Z",
+          "summary": "Anthropic just updated its most balanced AI model, Sonnet. What makes Sonnet 5.5 most interesting for product design is that, beyond more… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "nzcb1q",
+          "title": "Show HN: Silta: family assistant on Matrix with continuity across context limits",
+          "link": "https://github.com/dmitry-markin/silta",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T12:11:34Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "jxwatn",
+          "title": "Show HN: The Kio Programming Language",
+          "link": "https://jdevuyst.github.io/kio/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T12:07:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1kxy9e2",
+          "title": "First-class design systems on a Ryanair budget",
+          "link": "https://statecraftapp.com/field-notes/first-class-on-a-ryanair-budget",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-01T10:33:21Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "suqlo9",
+          "title": "Five-step color balancing with GenAI",
+          "link": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-30T23:11:26.000Z",
+          "summary": "Gemini & Qualitative Data Color Scheme Design Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1mvx9ry",
+          "title": "Federal pressure may force design education to rethink its identity",
+          "link": "https://uxdesign.cc/federal-pressure-may-force-design-education-to-rethink-its-identity-22d4ec56b1c2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-09-30T23:10:32.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "19h8rav",
+          "title": "system design in depth: deep notes and case studies",
+          "link": "https://system-design-in-depth.pages.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T19:08:00Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "65icfi",
+          "title": "Show HN: Hypercolor – Epic RGB lighting control for everything",
+          "link": "https://github.com/hyperb1iss/hypercolor",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T17:56:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1eslxey",
+          "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+          "link": "https://news.ycombinator.com/item?id=49911500",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T16:58:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "e6paaq",
+          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+          "link": "https://strata.do/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T14:59:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "zeb0ao",
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-09-30T13:30:00.000Z",
+          "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "14aaeiu",
+          "title": "GPT-6.1 Sol vs Claude Sonnet 5.5: I Tested Both for Web Design",
+          "link": "https://uxplanet.org/gpt-6-1-sol-vs-claude-sonnet-5-5-i-tested-both-for-web-design-6612bc851872?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-09-30T12:48:09.000Z",
+          "summary": "OpenAI just updated its most balanced AI model, GPT-6.1 Sol. The biggest change is that GPT-6.1 Sol is less about a new feature set and… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": false
+        },
+        {
+          "id": "8msgkl",
+          "title": "Show HN: Open-source country flags for React and Figma (SVG, ISO and dial codes)",
+          "link": "https://radianui.com/resources/flags",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-30T12:36:03Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "items": [
