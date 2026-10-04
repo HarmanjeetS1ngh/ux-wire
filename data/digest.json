@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-03T10:45:24.520Z",
+  "updatedAt": "2026-10-04T11:27:47.578Z",
   "days": [
+    {
+      "date": "2026-10-04",
+      "items": [
+        {
+          "id": "1o611gs",
+          "title": "Ficmap: an interactive 3D atlas for Westeros and other fictional worlds",
+          "link": "https://livenson.github.io/ficmap/?world=game-of-thrones",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T10:46:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "w7fxn7",
+          "title": "The GIL: from the cache line to the eval loop",
+          "link": "https://harut8.github.io/system-design/python-mastery/24-the-gil/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T09:41:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1nc6511",
+          "title": "Show HN: Artbucket – OSS brand assets and portals for humans and AI agents",
+          "link": "https://github.com/pwnera/artbucket",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T07:49:50Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "o1dg6t",
+          "title": "What does creativity in UI/UX actually mean in the age of AI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wx8sov/what_does_creativity_in_uiux_actually_mean_in_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T06:38:51.000Z",
+          "summary": "I’ve been thinking about what we actually mean when we call UX/UI work “creative”. In B2B software, a lot of the creativity isn’t really about making something visually surprising. It’s more about solving messy…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "nskoql",
+          "title": "Seeking mid-to-senior level career advice",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wx8n86/seeking_midtosenior_level_career_advice/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T06:29:17.000Z",
+          "summary": "I recently started my first FT UX role at a big tech company and am having to adjust to new tools (some of them outdated). A few things I am struggling with: - note taking during weekly reoccurring meetings - adjusting…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "7hvcfv",
+          "title": "An LLM Beat NetHack",
+          "link": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T06:10:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1gtsxn5",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 10/04/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wx76ek/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T05:00:39.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "1r7r5dt",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/04/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wx76ee/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "12zr9ta",
+          "title": "AITA? Need a check on my design team",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wx4irf/aita_need_a_check_on_my_design_team/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T02:31:28.000Z",
+          "summary": "To start; I’m not a UX designer, I’m a PM that has runs UX agency before. I want to hear your thoughts on this. The last two companies I’ve worked for, UX design IMO had been nothing more than rearranging some UI…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "o0ci3q",
+          "title": "The feed I produce myself",
+          "link": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-03T11:12:42.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1q2dadd",
+          "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+          "link": "https://thoreaubasic.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-03T07:28:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-03",
       "items": [
