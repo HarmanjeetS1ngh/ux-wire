@@ -1,6 +1,263 @@
 {
-  "updatedAt": "2026-10-04T11:27:47.578Z",
+  "updatedAt": "2026-10-05T12:53:49.323Z",
   "days": [
+    {
+      "date": "2026-10-05",
+      "items": [
+        {
+          "id": "7s9oc3",
+          "title": "Extended gamut colors & APCA",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wy732a/extended_gamut_colors_apca/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-05T12:19:21.000Z",
+          "summary": "I found out about the new color-contrast guidelines (being reviewed) and the “Accessible Perceptual Contrast Algorithm” a few years ago, and I’ve been really impressed with the thought and effort that’s been put into…",
+          "categories": [
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "55b938",
+          "title": "OntoPrune – Pruning 85% LLM context tokens and 6.7x TTFT on CPU",
+          "link": "https://github.com/vigmarcarlo/OntoPrune",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T12:15:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1te3ypb",
+          "title": "Claude Code Mods are game changers",
+          "link": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-05T12:12:58.000Z",
+          "summary": "Mods let you customize Claude Code to fit your specific needs. In this article, I’ll explain everything you need to know about mods and… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "qq1xpc",
+          "title": "First Agentic AI Design System to Bootstrap Products",
+          "link": "https://vitadesignsystem.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T11:33:13Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "jg758h",
+          "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
+          "link": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-05T11:01:01.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "17sr99q",
+          "title": "How do you design a website with AI and ship it (give keys) to the client?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wy3pph/how_do_you_design_a_website_with_ai_and_ship_it/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-05T09:01:07.000Z",
+          "summary": "Keep calm people. I'm a UX Designer and I already have my full time job. I always have been an employee and I never really did websites outside of organizations. The few times I did I used Wordpress or Squarespace to…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1cuv2fr",
+          "title": "A Design System in and for the Agentic Era",
+          "link": "https://mate.security/labs/a-design-system-in-and-for-the-agentic-era",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T08:12:06Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "o15rl7",
+          "title": "Color Psychology in UI Design: How Color Shapes User Behavior",
+          "link": "https://palettevault.github.io/blog/color-psychology-ui-design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T07:05:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "hbwdiw",
+          "title": "Show HN: EditUI – Cursor/Claude Design-style UI editing directly in the browser",
+          "link": "https://www.editui.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T23:33:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "15oxmui",
+          "title": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
+          "link": "https://github.com/maplibre/maplibre-compose",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T20:55:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1opy794",
+          "title": "Show HN: Build with Python – a beginner course where your code draws",
+          "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T18:59:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bqe8ux",
+          "title": "Show HN: Jev-pages – Building landing pages real time with Jev",
+          "link": "https://github.com/sagapranav/jev-pages",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T17:30:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zxth1p",
+          "title": "If software becomes this easy to reproduce, where should we put our effort?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wxl7nv/if_software_becomes_this_easy_to_reproduce_where/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T17:24:04.000Z",
+          "summary": "Yesterday someone in r/vibecoding showed an impressive Lightroom alternative they built. Someone else in r/accelerate shared what they describe as a full-featured audio workstation vibe-coded in 26 hours. The first…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1msyd60",
+          "title": "Design Systems for AI Agents",
+          "link": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T15:55:03Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "uq4y9d",
+          "title": "The building was there first",
+          "link": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-04T14:34:28.000Z",
+          "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "pkxty3",
+          "title": "system design, in depth. read it, watch it, run it, build it",
+          "link": "https://vedgupta.in/blog/system-design-in-depth/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T14:27:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1h5wkmc",
+          "title": "Is it worth moving to a job with higher layoff risk if it means better career growth?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wxgbtr/is_it_worth_moving_to_a_job_with_higher_layoff/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-04T13:57:35.000Z",
+          "summary": "I’m looking to transition to a new team within my company. The pay is better and it would be a title promotion so already it’s a no brainer to move teams. However I suspect my manager is trying to make a case for my…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "f4a65s",
+          "title": "Show HN: Untyped – check recorded agent runs against a TLA+ spec",
+          "link": "https://github.com/untyped-ai/untyped",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T13:33:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "srf6he",
+          "title": "Show HN: Colorful Design System for Agents",
+          "link": "https://orbeez-kit.vercel.app/chat",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-04T12:41:33Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "items": [
