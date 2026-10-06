@@ -1,6 +1,194 @@
 {
-  "updatedAt": "2026-10-05T12:53:49.323Z",
+  "updatedAt": "2026-10-06T12:20:47.701Z",
   "days": [
+    {
+      "date": "2026-10-06",
+      "items": [
+        {
+          "id": "40msz0",
+          "title": "Which training should I choose to get started with AI agent and automation?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wz12ln/which_training_should_i_choose_to_get_started/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-06T12:16:50.000Z",
+          "summary": "Hi everyone, As part of my job search, I’d like to develop my skills in AI agents and automation, with the goal of working as a Product Designer specializing in Design Systems. I’ve never used an AI agent before — I’ve…",
+          "categories": [
+            "AI",
+            "Career",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "1tld5vh",
+          "title": "how do you handle devs drifting away from design or going ahead to implement work without design involvement?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wyzwqy/how_do_you_handle_devs_drifting_away_from_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-06T11:14:45.000Z",
+          "summary": "as the title says, i work in a small team and sometimes devs implement work without design input or drift away from design. how do you approach this practically, i dont have an issue with devs working fast but just need…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "84qh02",
+          "title": "user testing",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wyrad2/user_testing/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-06T02:29:47.000Z",
+          "summary": "Hello, I am a junior designer, just want to hear from experienced designers, how do you decide what flows are worth testing after a prototype and why? I know this is a skill acquired by experience but how do I start…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "snp9z9",
+          "title": "How do you deal with extreme micro-managers with a sense of superiority complex? I am getting anxious and want to quit",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wyqvdl/how_do_you_deal_with_extreme_micromanagers_with_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-06T02:08:08.000Z",
+          "summary": "Just for context, I got a new manager about a year ago and initially we were sort of getting along but I never gave it much thought and just minded my own business. However, lately they have been acting weird and…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "7zmwa6",
+          "title": "Serena OS: Modern operating system design meets Amiga computers",
+          "link": "https://github.com/dplanitzer/Serena",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T23:35:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19ltd56",
+          "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+          "link": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-05T22:00:31.000Z",
+          "summary": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "7lxfqe",
+          "title": "AI skill atrophy: Are we forgetting how to think?",
+          "link": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-05T22:00:12.000Z",
+          "summary": "The hidden cost of outsourcing our thinking to AI. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "10i7fdu",
+          "title": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
+          "link": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-05T21:59:40.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1yrsoqu",
+          "title": "OpenASIP: Tools for design and programming of customized co-processors",
+          "link": "https://github.com/cpc/openasip",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T21:47:20Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "oe4xky",
+          "title": "Show HN: Soundscaper – Audacity 4-like audio editor in the browser",
+          "link": "https://soundscaper.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T21:09:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1c3u9xp",
+          "title": "Show HN: Designobo – AI prototyping tool in 40kb of js",
+          "link": "https://designobo.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T16:08:13Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "1vcc0zw",
+          "title": "Show HN: I gave 170 websites their 2019 design",
+          "link": "https://chromewebstore.google.com/detail/net19/aomcmjccojigoiehgcomlpbiabllpeif",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T16:02:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "gweu2e",
+          "title": "AI Parametric Part Design with FreeCAD on Browser",
+          "link": "https://chat.extrudeai.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T15:42:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "u28v5r",
+          "title": "Are your AI evals measuring the right things?",
+          "link": "https://commandline.microsoft.com/structured-ai-evaluation-design-assert-vs-petri-bloom/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-05T14:58:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "items": [
