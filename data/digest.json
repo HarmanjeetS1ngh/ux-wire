@@ -1,6 +1,220 @@
 {
-  "updatedAt": "2026-10-06T12:20:47.701Z",
+  "updatedAt": "2026-10-07T12:13:10.773Z",
   "days": [
+    {
+      "date": "2026-10-07",
+      "items": [
+        {
+          "id": "2zkekm",
+          "title": "Being a freelance designer is sooo expensive these days...",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wzush5/being_a_freelance_designer_is_sooo_expensive/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-07T12:06:54.000Z",
+          "summary": "Being a freelance designer is sooo fucking expensive these days.... Buy Mobbin, buy Claude, buy ChatGPT, pay for this blue tick, that subscription, another platform.... it just never ends. Before, getting into design…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "119fgh1",
+          "title": "Strange criticism",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wztkpt/strange_criticism/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-07T11:01:21.000Z",
+          "summary": "I've been pulled in a project a few days ago, no context or background, been asked to turnaround with wireframes immediately kind of thing. I've asked for feedback from my manager as i usually do for 1 on 1s and ive…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1m2hxnr",
+          "title": "How to demonstrate ownership?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wzt7le/how_to_demonstrate_ownership/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-07T10:39:26.000Z",
+          "summary": "I’ve received feedback I need to demonstrate more ownership and driving end to end processes but I’m not too sure what they looks like. Any help? submitted by /u/hotnoodles123 [link] [comments]",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "q8j6an",
+          "title": "Laid off after building a design system because company shifted to AI. how should i frame this in interviews?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1wzs09y/laid_off_after_building_a_design_system_because/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-07T09:23:19.000Z",
+          "summary": "Got laid off from my last role and need advice on how to explain my reason strategically for leaving in upcoming interviews. I built a comprehensive, reusable component design system for our product team. Once the…",
+          "categories": [
+            "AI",
+            "Career",
+            "Design System"
+          ],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "55lthe",
+          "title": "Show HN: I remade Mortyr's 2093-1944 engine using my own programming language",
+          "link": "https://github.com/Panzerschrek/PanzerMortyr",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T09:18:20Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ewkax7",
+          "title": "AI Usage Typology – Fisherman",
+          "link": "https://news.ycombinator.com/item?id=49987478",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T02:50:27Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "116mzo1",
+          "title": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
+          "link": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-06T23:35:43.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "r6zyrj",
+          "title": "Why designers need to stop reporting and start recommending at work",
+          "link": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-06T23:35:06.000Z",
+          "summary": "Sticky notes don’t help your team. They need your direction Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "zr2gfh",
+          "title": "How apps know us better than we do and influence our decisions",
+          "link": "https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-06T23:34:41.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1jor0xj",
+          "title": "Show HN: Open-source Implementaiton of Stripe's 3D Waves",
+          "link": "https://wave-studio.pages.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-06T18:20:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rkcyxk",
+          "title": "Show HN: Delegator – Stop juggling coding-agent sessions",
+          "link": "https://alcubi.ai/delegator/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-06T18:00:19Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fluzot",
+          "title": "Show HN: TOD,a universal Decision model based on Task Oriented Design",
+          "link": "https://parseclab.ai/tod/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-06T17:07:37Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "6190vy",
+          "title": "GPT-6 Astra vs Claude Opus 5.5: Which Is Better for Game Design?",
+          "link": "https://uxplanet.org/gpt-6-astra-vs-claude-opus-5-5-which-is-better-for-game-design-35e47babf36d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-06T14:51:58.000Z",
+          "summary": "OpenAI and Anthropic recently updated their flagship AI models, Astra and Opus. And it’s a great opportunity to test both models on one of… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "zcfjm0",
+          "title": "CircuitRF: An open source EDA tool for RF design and simulation",
+          "link": "https://github.com/potatobeanradio/circuitRF",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-06T14:25:57Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fphl6d",
+          "title": "Show HN: RigMark benchmarks local AI the way coding agents use it",
+          "link": "https://github.com/alexellis/rigmark",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-06T14:25:25Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mzrf0b",
+          "title": "A Practical Guide To Naming Things",
+          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-10-06T10:00:00.000Z",
+          "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 27,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "items": [
