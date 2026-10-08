@@ -1,6 +1,268 @@
 {
-  "updatedAt": "2026-10-07T12:13:10.773Z",
+  "updatedAt": "2026-10-08T12:23:16.616Z",
   "days": [
+    {
+      "date": "2026-10-08",
+      "items": [
+        {
+          "id": "u99ht2",
+          "title": "Claude Haiku 5.5: The Most Underrated Claude Model Just Got a Major Update",
+          "link": "https://uxplanet.org/claude-haiku-5-5-the-most-overlooked-claude-model-just-got-a-major-update-85c0bf30e76a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-08T11:56:02.000Z",
+          "summary": "Claude Sonnet, Opus, and Fable often receive a lot of media attention. People test these models in all possible scenarios and compare the… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "sb1mw0",
+          "title": "Portfolio review",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x0o8xw/portfolio_review/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-08T11:16:45.000Z",
+          "summary": "Hello, I redesigned my portfolio. Please give me some feedback. Best 💫 https://zuhalozturk.morhpt.com/ submitted by /u/TrifleFar8798 [link] [comments]",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "e9velh",
+          "title": "Learning Practical System Design",
+          "link": "https://news.ycombinator.com/item?id=50004434",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T11:16:32Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "e9vcii",
+          "title": "Scam Warning",
+          "link": "https://news.ycombinator.com/item?id=50004192",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T10:44:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19f36bw",
+          "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+          "link": "https://svg-spark.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T09:52:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1707ajv",
+          "title": "How should I showcase my projects in my portfolio?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x0mmi7/how_should_i_showcase_my_projects_in_my_portfolio/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-08T09:39:20.000Z",
+          "summary": "I'm currently working at an agency and I'm trying to work on my portfolio. The problem is, I'm having a difficult time on how to create case studies. Due to the NDA, I can't showcase the projects I'm working under the…",
+          "categories": [
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1uj27mx",
+          "title": "AI: incidents by design",
+          "link": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-08T09:20:37.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1a8txtc",
+          "title": "UX / Product Design misconceptions",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x0m5rd/ux_product_design_misconceptions/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-08T09:08:42.000Z",
+          "summary": "The last 6 months of AI being implemented in my company made me realise that most people think design only means “prototyping pretty UI”. I see this a lot on LinkedIn, but also where I work. The sentiment is “PMs can…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "n7753m",
+          "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in 12 hours",
+          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T07:52:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1r456bs",
+          "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
+          "link": "https://github.com/abird-ai/agentc",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T01:53:34Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jd1tgs",
+          "title": "Show HN: StayLeet – keeping skills sharp in AI coding era",
+          "link": "https://stayleet.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T23:19:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ex5h3f",
+          "title": "Ask HN: Is the Future of IDEs Bleak?",
+          "link": "https://news.ycombinator.com/item?id=49999930",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T23:00:26Z",
+          "summary": "",
+          "categories": [
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "13ie7oa",
+          "title": "Show HN: Railcode – Secure cloud for internal software",
+          "link": "https://railcode.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T21:55:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ngz1id",
+          "title": "Lathe: AI Workspace for Hardware Design",
+          "link": "https://www.lathelab.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T21:32:49Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "10othiq",
+          "title": "Bounded delegation: How much authority should AI have?",
+          "link": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-07T19:54:06.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "8k9fbn",
+          "title": "Beyond streaks and nudges: ethical gamification & AI design",
+          "link": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-07T19:48:49.000Z",
+          "summary": "Part 1 of 3 on designing systems that inspire rather than manipulate. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1lpz8kh",
+          "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
+          "link": "https://voicegremlin.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T17:16:36Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "16vawor",
+          "title": "Show HN: I had 100 tabs open, so I built Daysift with AI powered by Proton",
+          "link": "https://chromewebstore.google.com/detail/daysift-â-find-any-tab-in/llnlmmjddpfmjjkhpbjkdpcclgncajag",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T14:26:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "u0phbv",
+          "title": "Meta Muse vs OpenAI Dots: Which AI Assistant Is Better for Product Designers?",
+          "link": "https://uxplanet.org/meta-muse-vs-openai-dots-which-ai-assistant-is-better-for-product-designers-1fb2f4dd4530?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-07T14:13:04.000Z",
+          "summary": "September 2026 was a pretty hot month for AI companies. Both Meta and OpenAI released their AI assistants: Muse and Dots. Muse took the… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "items": [
