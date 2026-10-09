@@ -1,6 +1,306 @@
 {
-  "updatedAt": "2026-10-08T12:23:16.616Z",
+  "updatedAt": "2026-10-09T12:13:03.279Z",
   "days": [
+    {
+      "date": "2026-10-09",
+      "items": [
+        {
+          "id": "mz9fi0",
+          "title": "Tested the mobile hamburger menu on desktop. Got a 22% conversion lift. Here’s my theory on why.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x1hnmq/tested_the_mobile_hamburger_menu_on_desktop_got_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-09T10:18:13.000Z",
+          "summary": "Most folk say hidden nav on desktop is a bad idea. I’d have said the same. We run CRO for fashion/lifestyle stores. On one client we swapped the horizontal desktop nav for the same vertical drawer they use on mobile,…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "cu6ey7",
+          "title": "15 Figma Tools That Solve Problems Nobody Wants to Deal With",
+          "link": "https://uxplanet.org/15-figma-tools-that-solve-problems-nobody-wants-to-deal-with-2daa888067c2?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-09T10:18:07.000Z",
+          "summary": "5 powerful tools for serious UX work, and 10 tiny plugins that can rescue you from hours of repetitive design tasks. Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "rx9k75",
+          "title": "I Tried Claude With Figma on an 800+ Screen Project. It Never Reached the Hard Part",
+          "link": "https://uxplanet.org/i-tried-claude-with-figma-on-an-800-screen-project-it-never-reached-the-hard-part-7735b120f43a?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-09T10:17:51.000Z",
+          "summary": "I tested AI-assisted interface generation before designing more than 800 interconnected enterprise screens. The test struggled with visual… Continue reading on UX Planet »",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        },
+        {
+          "id": "ut1qvq",
+          "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-09T07:23:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1w1u5mm",
+          "title": "Tesler’s Law: complexity moved to a different part of the journey",
+          "link": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-08T23:17:58.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1dl70h7",
+          "title": "Are synthetic users (really) the future of UX research?",
+          "link": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-08T23:16:42.000Z",
+          "summary": "",
+          "categories": [
+            "Research",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "6bl3rg",
+          "title": "Synthetic users are making me rethink “imperfect research”",
+          "link": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-08T23:16:30.000Z",
+          "summary": "",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "ogdk10",
+          "title": "AI-generated UI is fast design, not UX",
+          "link": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-08T23:16:10.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "mmafri",
+          "title": "What the AI era owes you",
+          "link": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-08T23:15:43.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "fmbmz7",
+          "title": "Is it normal for a Senior Product Designer interview to ask about your high school GPA, SAT/ACT scores, and extracurriculars? (9 YOE)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x11o9c/is_it_normal_for_a_senior_product_designer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-08T20:21:47.000Z",
+          "summary": "I recently had one of the most uncomfortable and demoralizing interviews of my career, and I’m curious whether anyone else has experienced something similar. For context, I’m a Senior Product Designer with 9 years of…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "y4j4fc",
+          "title": "Show HN: Launching NS UI easy to use components,AI slop should be a term of past",
+          "link": "https://design.helpmarq.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T19:48:12Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "9brdbf",
+          "title": "Claude Haiku 5.5 is the Ultimate Junior Designer",
+          "link": "https://uxplanet.org/claude-haiku-5-5-is-the-ultimate-junior-designer-f8567a2d9697?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-08T15:44:09.000Z",
+          "summary": "Haiku 5.5 is the fastest and most token-efficient AI model from Anthropic. I’ve demonstrated what this model is capable of in my previous… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1dzcue4",
+          "title": "Human-Like and Male? How AI Assistant Design Relates to Monetary Reward",
+          "link": "https://dl.acm.org/doi/10.1145/3829807.3829910",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T15:41:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "p3kwng",
+          "title": "My first UX team meeting and my design got called “ugly”",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x0typd/my_first_ux_team_meeting_and_my_design_got_called/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-08T15:29:56.000Z",
+          "summary": "I took a volunteer UX Design position and just had my first meeting with the group to go over what we’re working on. After I shared, the CEO told me some parts of my design was “ugly,” “I don’t like it,” and “hurts my…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "k6hd5i",
+          "title": "Show HN: Wordminos – Crosswords Meet Dominos",
+          "link": "https://wordminos.com/play-en.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T12:56:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "lgtk2m",
+          "title": "Amazon innovates the dark pattern",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x0q6pf/amazon_innovates_the_dark_pattern/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-08T12:55:29.000Z",
+          "summary": "The first number in a super tiny size...this is a dark pattern but also a dirty play. Amazon is a fantastic example, leading ui practices and layouts than are used as template for a lot of marketplaces. (SORRY english…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "yqn282",
+          "title": "What can i use for mobile session replay tools for watching users without recruiting them ?",
+          "link": "https://www.reddit.com/r/userexperience/comments/1wyy1em/what_can_i_use_for_mobile_session_replay_tools/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-10-06T09:20:26.000Z",
+          "summary": "So we do moderated usability sessions every quarter and they're fine, but it's like 20 people in a controlled setup doing tasks we basically handed them meanwhile there's 50k monthly actives in the app and i honestly…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "rlfkyk",
+          "title": "When should an assistant interrupt you? I'm testing a \"wait for hesitation\" rule",
+          "link": "https://www.reddit.com/r/userexperience/comments/1wy4d7o/when_should_an_assistant_interrupt_you_im_testing/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-10-05T09:43:55.000Z",
+          "summary": "Earlier testers said anything under ~5 seconds felt \"too early\", so I raised the threshold and added a 10-second grace period at the start. I'd like to know if that fixed it. Prototype (1 min, no signup):…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "w0hamh",
+          "title": "What makes you close a company’s website after 10 seconds?",
+          "link": "https://www.reddit.com/r/userexperience/comments/1wxww5w/what_makes_you_close_a_companys_website_after_10/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-10-05T02:08:47.000Z",
+          "summary": "Our team creates websites for businesses, and we’re used to looking at them through the lens of design, structure, logic, conversions, and other professional considerations. But when you work on something for a long…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1ox5b8j",
+          "title": "Need User Research and User Journey Map Advice (Beginner)",
+          "link": "https://www.reddit.com/r/userexperience/comments/1wwfvhm/need_user_research_and_user_journey_map_advice/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-10-03T06:12:54.000Z",
+          "summary": "submitted by /u/can-i-just-sip-tea [link] [comments]",
+          "categories": [
+            "Research"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1eweni9",
+          "title": "Portfolio & Design Critique — October 2026",
+          "link": "https://www.reddit.com/r/userexperience/comments/1wupkxi/portfolio_design_critique_october_2026/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-10-01T04:00:09.000Z",
+          "summary": "Post your portfolio or something else you've designed to receive a critique. Generally, users who include additional context and explanations receive more (and better) feedback. Critiquers: Feedback should be supported…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "rbhp9",
+          "title": "Career Questions — October 2026",
+          "link": "https://www.reddit.com/r/userexperience/comments/1wupkx1/career_questions_october_2026/",
+          "source": "r/userexperience",
+          "publishedAt": "2026-10-01T04:00:08.000Z",
+          "summary": "Are you beginning your UX career and have questions? Post your questions below and we hope that our experienced members will help you get them answered! Posting Tips Keep in mind that readers only have so much time…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "items": [
