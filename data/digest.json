@@ -1,6 +1,211 @@
 {
-  "updatedAt": "2026-10-09T12:13:03.279Z",
+  "updatedAt": "2026-10-11T11:44:06.842Z",
   "days": [
+    {
+      "date": "2026-10-11",
+      "items": [
+        {
+          "id": "37lvp4",
+          "title": "`motif` - free, multiplayer, non-destructive UI/vector graphics editor",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x32axp/motif_free_multiplayer_nondestructive_uivector/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-11T07:53:42.000Z",
+          "summary": "Hey guys! Excited to share an alpha build of motif - an open-source vector graphics and UI design editor. Compared to traditional vector graphics software, motif is more of a blend of non-destructive CAD techniques and…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "2w5b3c",
+          "title": "Advice for dealing with chronic stress right now?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x31xe0/advice_for_dealing_with_chronic_stress_right_now/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-11T07:30:22.000Z",
+          "summary": "This kind of broad but I'm looking for some advice from people with a better mindset than me. I've pivoted careers many times and 5 years ago I used the last of my savings to study UX Design and almost broke myself…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1mdp998",
+          "title": "Show HN: Another App Store Screenshot Creator, but with high quality images",
+          "link": "https://screenbuilder.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-11T05:54:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zsrxyp",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 10/11/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x2zfq1/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-11T05:00:38.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "nriedn",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/11/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x2zfpt/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-11T05:00:37.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "19ipu4p",
+          "title": "How to be more creative with UI design?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x2gc45/how_to_be_more_creative_with_ui_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-10T14:13:44.000Z",
+          "summary": "First, I know UI design takes a lot of practice. With that said, how do I become more inventive, creative, experimental with UI design? I don’t want to get too specific but the gist of the feedback I got from work…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "uy1mtm",
+          "title": "Senior Product Designers: How do hiring managers evaluate portfolios when recent work is confidential?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x2cvgz/senior_product_designers_how_do_hiring_managers/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-10T11:22:02.000Z",
+          "summary": "TL;DR: I'm a Product Designer with 5 years of experience, but most of my recent enterprise/B2B work is confidential and can't be shown in my portfolio. I'm considering combining written summaries of recent projects with…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1ohrpp5",
+          "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
+          "link": "https://opencomponents.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-10T08:24:05Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "111son5",
+          "title": "Herdr does not accept unsolicited pull requests",
+          "link": "https://github.com/herdrdev/herdr/blob/master/CONTRIBUTING.md",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-10T06:46:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16lau4u",
+          "title": "Designing for an idea before it exists",
+          "link": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-09T20:32:02.000Z",
+          "summary": "On empty seats, metaphors, and the useful parts that don’t quite fit Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "8kmcx0",
+          "title": "The New Siri’s Biggest Strength Is Not Intelligence",
+          "link": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-09T17:00:00.000Z",
+          "summary": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "1wzi88y",
+          "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+          "link": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-09T17:00:00.000Z",
+          "summary": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "eaxqjs",
+          "title": "Show HN: Coolphabets – Teaching kids to read and write in their mother tongue",
+          "link": "https://news.ycombinator.com/item?id=50022532",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-09T16:05:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1voi9ck",
+          "title": "Show HN: Tode – Analytics for Figma plugins, which run in a null-origin iframe",
+          "link": "https://usetode.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-09T13:55:55Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "130s832",
+          "title": "Show HN: LLM skill to generate editable 3D house designs",
+          "link": "https://arcadium3d.com/create-with-ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-09T12:24:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "items": [
