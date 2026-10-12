@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-10-11T11:44:06.842Z",
+  "updatedAt": "2026-10-12T13:45:45.069Z",
   "days": [
+    {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "id": "1bib871",
+          "title": "Hug this cuddly toy, and hear the piercing scream of real AI data centers",
+          "link": "https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-12T13:00:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1rzkna3",
+          "title": "I Tested 100+ GitHub Tools for Claude. These 7 Are the Best",
+          "link": "https://uxplanet.org/i-tested-100-github-tools-for-claude-these-7-are-the-best-d3d13ad1befd?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-12T12:45:14.000Z",
+          "summary": "There are hundreds of GitHub repositories for Claude, and pretty much every repository claims it will streamline your work with Claude… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "dw7eg7",
+          "title": "Is this input scrub familiar enough for both developers and designers?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x40nz5/is_this_input_scrub_familiar_enough_for_both/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-12T12:34:29.000Z",
+          "summary": "I'm building a visual editor for both developers and designers. I want the controls to feel familiar to both groups while keeping the interface compact and clean. I've encountered a problem with way more capabilities…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "5zdtip",
+          "title": "On M.F. Husain and multiple meanings of the colour orange",
+          "link": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-12T11:35:46.000Z",
+          "summary": "The painting that introduced me to the power and purpose of art Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1uz7wed",
+          "title": "Borrowed slopes",
+          "link": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-12T11:35:36.000Z",
+          "summary": "When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "gywvmh",
+          "title": "Are companies hiring interns instead of juniors to avoid paying minimum wage? (UX/UI and Product Design, EU)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x3z0lu/are_companies_hiring_interns_instead_of_juniors/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-12T11:08:51.000Z",
+          "summary": "I've been looking for a job for UX/UI - Product Design roles almost everyday, and I keep noticing a pattern that there are almost more \"Intern\" listing than Junior or regular positions. (LinkedIn) A lot of these…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1k6gab9",
+          "title": "Seeking guidance from senior designers as a skilled UI/UX fresher, design graduate",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x3xtfr/seeking_guidance_from_senior_designers_as_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-12T09:58:25.000Z",
+          "summary": "Hey everyone, I’ve completed a 4-year design degree, worked on 10+ UI/UX projects, completed 2 internships, and have experience with Figma and building design systems. I'm also pretty good in making polished designs…",
+          "categories": [
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "36tuyk",
+          "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+          "link": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-12T09:07:53.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1sja14h",
+          "title": "If you zoom out, should these just be colored dots?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x3qrp5/if_you_zoom_out_should_these_just_be_colored_dots/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-12T02:56:06.000Z",
+          "summary": "https://www.ign.com/maps/the-legend-of-zelda-breath-of-the-wild/hyrule I dunno these maps always seem a bit messy to me, even with filters set submitted by /u/avidrunner84 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1j321r8",
+          "title": "Show HN: Guilds – Open-source inspectable multi-agents collaboration framework",
+          "link": "https://github.com/CigaleAI/guilds",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-11T14:11:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "13zmkte",
+          "title": "Show HN: GrogLog, a Free Drink Tracker",
+          "link": "https://groglog.io",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-11T13:39:37Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "items": [
