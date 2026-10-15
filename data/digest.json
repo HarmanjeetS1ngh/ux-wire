@@ -1,6 +1,439 @@
 {
-  "updatedAt": "2026-10-12T13:45:45.069Z",
+  "updatedAt": "2026-10-15T10:29:28.537Z",
   "days": [
+    {
+      "date": "2026-10-15",
+      "items": [
+        {
+          "id": "1wy93d1",
+          "title": "What's up with the Figma Config glazing on LinkedIn? Every other post are teams posting about attending Config and how they are so excited. What is so exciting and hype about a generic conference like Config? Am I missing something",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x6eana/whats_up_with_the_figma_config_glazing_on/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-15T06:27:12.000Z",
+          "summary": "I know people travelling and spending huge amounts of money for flights and hotels just for this conference. Crazy submitted by /u/badboy_1245 [link] [comments]",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "eewrqc",
+          "title": "Ask HN: How do you avoid building verbose AI slop designs?",
+          "link": "https://news.ycombinator.com/item?id=50099583",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T05:31:27Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "dspz5a",
+          "title": "Show HN: Real Design Benchmark – can you tell AI designs from real products?",
+          "link": "https://www.realdesignbenchmark.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T05:31:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ewrldr",
+          "title": "Show HN: TowerPanic – a family party game on a small FastAPI realtime engine",
+          "link": "https://towerpanic.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T02:02:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "x66ct0",
+          "title": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T01:08:07Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1eou8o0",
+          "title": "Those of you who have pivoted out of UX and didn’t move into PMing. What are you doing and do you like it?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x65oro/those_of_you_who_have_pivoted_out_of_ux_and_didnt/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-14T22:56:22.000Z",
+          "summary": "On my morning walk this morning I had my daily thought about the state of the industry, state of the world, etc. For the first time I had a real thought of “If I get let go from my job do I really want to do this…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1qrslyu",
+          "title": "Show HN: Fantastic Canvas",
+          "link": "https://github.com/aisixteen/fantastic",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-14T22:33:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1gx4m3g",
+          "title": "Show HN: Ito – Build Terminal UIs in Lua",
+          "link": "https://uji.sh/ito/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-14T22:23:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1i80ss7",
+          "title": "Nobody wants your AI app",
+          "link": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-14T22:09:56.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "e38vb4",
+          "title": "What I told the CFO when he asked why design matters",
+          "link": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-14T22:09:29.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "3uht9k",
+          "title": "Why storytelling is now the most valuable skill in tech",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x63dvr/why_storytelling_is_now_the_most_valuable_skill/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-14T21:17:32.000Z",
+          "summary": "submitted by /u/cgielow [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1skx3o5",
+          "title": "If AI agents become the interface, what are we actually designing for?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x5xkdj/if_ai_agents_become_the_interface_what_are_we/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-14T17:33:19.000Z",
+          "summary": "I’ve been working in UI/UX design for around 16 years, and lately I’ve been thinking quite a bit about where all of this might be heading. Not just how AI changes our workflows in Figma, but what happens to the…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "t7v0ps",
+          "title": "The state of agentic AI in chip design tools in 2026",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-14T15:48:15Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "gs0bgc",
+          "title": "Behavior-Centric AI Design",
+          "link": "https://swamp-club.com/behavior",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-14T15:26:43Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "5j5mp5",
+          "title": "Design Systems",
+          "link": "https://webflow.com/webflow-way/design-systems",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-14T14:51:36Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "18qiah5",
+          "title": "Reverse Engineer Anything: What the Viral GitHub Repo Actually Does",
+          "link": "https://uxplanet.org/reverse-engineer-anything-what-the-viral-github-repo-actually-does-c5ea949123a5?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-14T13:30:17.000Z",
+          "summary": "A hands-on take on REA, the tool for Claude Code and Codex that lets it decompile apps, the benefits this tool brings, and the limitations… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "p4knzp",
+          "title": "AI-assisted PCB design for KiCad 10",
+          "link": "https://github.com/mixelpixx/Konnect",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-14T10:51:37Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1uma6sm",
+          "title": "How getting good at your job can stop you getting better",
+          "link": "https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-14T08:53:49.000Z",
+          "summary": "Many experienced people plateau out of sight. Whether they keep growing depends partly on the problems they’re given to tackle. Continue reading on UX Collective »",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "19utvne",
+          "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+          "link": "https://pulseos.finance",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T23:13:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "166fhho",
+          "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+          "link": "https://wonderhop.io/en/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T23:10:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1blisoi",
+          "title": "Taste is not a design methodology",
+          "link": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-13T22:27:46.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "6d3nze",
+          "title": "How to talk about a design that looks worse on paper",
+          "link": "https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-13T22:26:58.000Z",
+          "summary": "Why it took Microsoft 5 years to roll out an ‘obvious fix’ Continue reading on UX Collective »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1hkw2kv",
+          "title": "Chinese Memory Maker's Tech Claim Sinks Samsung, SK Hynix Shares",
+          "link": "https://en.sedaily.com/international/2026/10/13/chinese-memory-makers-tech-claim-sinks-samsung-sk-hynix",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T21:03:55Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "edpbuu",
+          "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+          "link": "https://news.ycombinator.com/item?id=50073471",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T15:41:00Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "edomh9",
+          "title": "Ask HN: What tools do you use to create 3D print models using AI",
+          "link": "https://news.ycombinator.com/item?id=50072103",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T14:13:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "obfup7",
+          "title": "Want to Make Product Development with Claude Code More Predictable? Use Agent Skills!",
+          "link": "https://uxplanet.org/want-to-make-product-development-with-claude-code-more-predictable-use-agent-skills-f37d056f67cc?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-13T12:08:06.000Z",
+          "summary": "If you use Claude Code for product design and development, you know that AI performance can be inconsistent. Sometimes it works… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "1abb3al",
+          "title": "Figcraft: An open-source, clean-room reimplementation of Figma",
+          "link": "https://github.com/storytold/figcraft",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T09:32:45Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1hi2eix",
+          "title": "The synth everyone owned and few could program: a lesson for AI design",
+          "link": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-13T09:03:24.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1x4edfk",
+          "title": "Show HN: Turn spoken thoughts into system design diagrams",
+          "link": "https://github.com/triggeredcode/lucid",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-12T21:39:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1d1vg4y",
+          "title": "5 Best Claude Code Mods You Should Try in 2026",
+          "link": "https://uxplanet.org/5-best-claude-code-mods-you-should-try-in-2026-580eee0aec57?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-12T20:15:04.000Z",
+          "summary": "Mods let you customize your Claude Code to fit your specific needs. Previously, I’ve discussed how to create a new mod for Claude Code… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "j5xowe",
+          "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+          "link": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-12T18:03:56Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1ekzg2j",
+          "title": "Agent-first design: Bringing UX to the user",
+          "link": "https://www.qawolf.com/blog/agent-first-design-bringing-ux-to-the-user",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-12T17:55:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "items": [
