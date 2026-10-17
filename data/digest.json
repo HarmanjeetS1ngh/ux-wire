@@ -1,6 +1,345 @@
 {
-  "updatedAt": "2026-10-15T10:29:28.537Z",
+  "updatedAt": "2026-10-17T09:50:38.937Z",
   "days": [
+    {
+      "date": "2026-10-17",
+      "items": [
+        {
+          "id": "es3qxk",
+          "title": "Ask HN: Local AI product situation",
+          "link": "https://news.ycombinator.com/item?id=50129150",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T08:46:16Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1rl9waa",
+          "title": "Are we moving from UX Designers to Product Builders?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x80zxe/are_we_moving_from_ux_designers_to_product/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-17T04:27:05.000Z",
+          "summary": "I’m curious how other UX designers are experiencing the shift brought by AI, especially those currently working in product teams. My workflow has changed dramatically over the past year. I haven’t opened Figma in…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "ekzz4q",
+          "title": "Creating carousels with interesting physics",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x7om87/creating_carousels_with_interesting_physics/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-16T18:51:42.000Z",
+          "summary": "This is ridiculously satisfying. Bookmark it for your next spark of inspiration. submitted by /u/Marcelovc [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "13h36p4",
+          "title": "The rant I wish I could give to every bad PM I've worked with",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x7n24n/the_rant_i_wish_i_could_give_to_every_bad_pm_ive/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-16T17:52:40.000Z",
+          "summary": "Inspired by current events at the job I'm very grateful to have and would rather not lose. Sorry if this is the wrong flair to use. Dear PM, Software design is, if you boil it down, about creating a tool. Users approach…",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "stpxdh",
+          "title": "UX Maps: Glossary",
+          "link": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-16T17:00:00.000Z",
+          "summary": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "1nkoj6t",
+          "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
+          "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-16T17:00:00.000Z",
+          "summary": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "erk46j",
+          "title": "VectorCraft vs. Figma vs. Penpot vs. Adobe Illustrator vs. Wunjo Design?",
+          "link": "https://news.ycombinator.com/item?id=50119918",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T15:50:33Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1xc1hpr",
+          "title": "It’s impossible to work for small companies.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x7iujo/its_impossible_to_work_for_small_companies/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-16T15:12:43.000Z",
+          "summary": "That’s it. I’ve always liked working with small companies because of the greater freedom and much less bureaucracy. Now, with AI, it’s just not doable anymore. All processes are bulldozed by the devs, and the entire…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "erjcrj",
+          "title": "More Powerful Than Ever, (can't find work)",
+          "link": "https://news.ycombinator.com/item?id=50118322",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T13:44:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "caev5j",
+          "title": "AI will make it possible to design and build organisms from scratch",
+          "link": "https://economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T13:11:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "yht8be",
+          "title": "Building Your Own Skill for Claude Code? Here’s What You Need to Know",
+          "link": "https://uxplanet.org/building-your-own-skill-for-claude-code-heres-what-you-need-to-know-beece61249ed?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-16T12:57:57.000Z",
+          "summary": "A practical guide to creating custom Skills for Claude Code, from understanding SKILL.md to building, testing, and optimizing your first… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "18vm16c",
+          "title": "Is Your Organization Messing Up AI Adoption?",
+          "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-10-16T10:00:00.000Z",
+          "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow -…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "erhhbc",
+          "title": "Show HN: Trustmux – Async tmux from your phone, now in Ubuntu, Debian, Fedora",
+          "link": "https://news.ycombinator.com/item?id=50115537",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T08:06:27Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "o73fip",
+          "title": "Show HN: Beeline Multiplayer Agent Harness",
+          "link": "https://usebeeline.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T02:38:15Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1e8axct",
+          "title": "Show HN: Weatheristic.com to answer questions other weather sites don't",
+          "link": "https://weatheristic.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T01:16:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "4v7cer",
+          "title": "C, Type Systems, GLib, and API Design",
+          "link": "https://www.spurint.org/journal/2026/10/c-type-systems-glib-api-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T00:40:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ww4rzf",
+          "title": "Human in the loop means making sure the human is not out of the loop",
+          "link": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-15T22:09:29.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "nsm0h8",
+          "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI)",
+          "link": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-15T22:08:34.000Z",
+          "summary": "It was about what a designer really needed to know about shipping to production, and what people truly wanted from online learning Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1w6ho0u",
+          "title": "Nobody feels heard by a report",
+          "link": "https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-15T22:02:52.000Z",
+          "summary": "Why the forward-deployed engineer boom stops at the customer. Continue reading on UX Collective »",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "buk60r",
+          "title": "The AI experience doesn’t care about your org chart",
+          "link": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-15T22:00:47.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "er0ax0",
+          "title": "Ask HN: Frontier Capability on Average Computers",
+          "link": "https://news.ycombinator.com/item?id=50109846",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T20:36:30Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "6e6w3",
+          "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+          "link": "https://github.com/readysettech/rdst",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T18:09:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1y24cso",
+          "title": "Dashboard design becomes easier with Claude",
+          "link": "https://uxplanet.org/dashboard-design-becomes-easier-with-claude-daaf2d9376d4?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-15T17:16:04.000Z",
+          "summary": "Claude Dashboard is a new artifact recently introduced by Anthropic. Dashboard design is one of the most common product design tasks, so I… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1y37uba",
+          "title": "Researchers use AI to design proteins that cut up other protein",
+          "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T16:27:55Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1uo10f4",
+          "title": "Figma Specs",
+          "link": "https://www.figma.com/blog/introducing-figma-specs/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-15T14:19:10Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "items": [
