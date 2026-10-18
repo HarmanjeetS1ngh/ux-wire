@@ -1,6 +1,188 @@
 {
-  "updatedAt": "2026-10-17T09:50:38.937Z",
+  "updatedAt": "2026-10-18T10:02:32.375Z",
   "days": [
+    {
+      "date": "2026-10-18",
+      "items": [
+        {
+          "id": "17ga4ur",
+          "title": "China proposes export controls on its advanced AI models and chip designs",
+          "link": "https://thenextweb.com/news/china-ai-export-controls-draft",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-18T10:01:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1hwczr",
+          "title": "AI & job Hunting posts",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x8wf3f/ai_job_hunting_posts/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-18T06:50:33.000Z",
+          "summary": "Hi! Theres been a massive influx of posts consisting of the following questions: - how has your workflow changed using AI? - What do you use instead of Figma? - Are we all being replaced by AI? - I can’t find a job -…",
+          "categories": [
+            "AI",
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "188edei",
+          "title": "After being fired",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x8vimd/after_being_fired/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-18T05:55:53.000Z",
+          "summary": "(Not a native speaker) So it's been about 3 weeks since I got fired. Well I could've sat in my room and cry until I pass out but that doesn't pay my rent. I'm searching for some part time jobs(whatever they are) while…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1xa9shl",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 10/18/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x8ukzb/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-18T05:00:36.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "71ys1a",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/18/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x8ukz1/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-18T05:00:35.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "sqsh6n",
+          "title": "Dear designers. Never organize your Figma files",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x8oix7/dear_designers_never_organize_your_figma_files/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-17T23:37:34.000Z",
+          "summary": "A clean Figma file makes developers’ lives easier. Big mistake. Create 14 pages. Name them Final, Final 2, Final Latest, DO NOT USE, and New Final (Old). Put the approved design somewhere in Archive. When a developer…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "hlre0k",
+          "title": "As a color-blind designer, I think we underestimate how often UX assumes everyone perceives color the same way",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x8mkw0/as_a_colorblind_designer_i_think_we_underestimate/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-17T22:05:44.000Z",
+          "summary": "I recently completed my Bachelor's degree in Digital Media Design with a 4.0 GPA. I'm also color blind. Going through a design program while having color-vision deficiency gave me an interesting perspective on…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "eskgdg",
+          "title": "Real knowledge dont matter any more",
+          "link": "https://news.ycombinator.com/item?id=50134684",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T20:13:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "shwqki",
+          "title": "AutoMEP – The AI drafter for MEP engineers and designers",
+          "link": "https://automep.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T20:04:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "199wjaq",
+          "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+          "link": "https://github.com/Annora998/inboxwall",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T19:15:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "11apc6r",
+          "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T11:02:17Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "g7xwli",
+          "title": "Show HN: Gridmark – make logos by tweaking shapes on a grid",
+          "link": "https://gridmark.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T10:18:30Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ed82cp",
+          "title": "Ask HN: CAD for wood working with LLM support?",
+          "link": "https://news.ycombinator.com/item?id=50067325",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-13T05:54:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "items": [
