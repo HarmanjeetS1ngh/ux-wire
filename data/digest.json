@@ -1,6 +1,327 @@
 {
-  "updatedAt": "2026-10-18T10:02:32.375Z",
+  "updatedAt": "2026-10-20T10:33:12.469Z",
   "days": [
+    {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "id": "1sy1f6q",
+          "title": "Moving into my first “Staff” role, what advice do you wish you had before you started at that level?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xao3dw/moving_into_my_first_staff_role_what_advice_do/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-20T10:02:54.000Z",
+          "summary": "Basically what the title says. I’m coming from a mid level role and being promoted to a new team and jumping 2 levels. I’m sure the new team offered me this title because they believe I deserved it, but definitely…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "eu6lki",
+          "title": "CPU-native. Deterministic. O(1) processes. – the Old New Coolness",
+          "link": "https://news.ycombinator.com/item?id=50162847",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T08:15:12Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "15i48tz",
+          "title": "Show HN: Chai-UI – A design system to generative AI apps",
+          "link": "https://chai-ui.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T00:06:14Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "r7h8l",
+          "title": "Snapflow: An agentic design system for React, Vue and Angular",
+          "link": "https://www.snapflow.design/en/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T23:42:31Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "jhe92u",
+          "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+          "link": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-19T21:39:27.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1h3fzj",
+          "title": "Playing the sanshin without a sound",
+          "link": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-19T21:38:20.000Z",
+          "summary": "The slot machine and the checklist: a dilemma in feedback design. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "19naj1k",
+          "title": "How would you go about letting a student shadow you at work?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xa8phf/how_would_you_go_about_letting_a_student_shadow/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-19T20:51:23.000Z",
+          "summary": "I am a UX designer a couple years into my career and have a UX design student that asked to shadow me. I always willing to help up and coming designers, especially since It wasn't too long ago that I was in their…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "exxvci",
+          "title": "Show HN: A beautiful UI built upon Pavel Dobryakov's shader",
+          "link": "https://swirltogether.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T19:00:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1mzrhk0",
+          "title": "Solidworks launches AI hw design features [video]",
+          "link": "https://www.youtube.com/watch?v=PdcEehTrux0",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T17:47:44Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "iouxc1",
+          "title": "How to Design Human Oversight for AI Agents with ZizkaDB",
+          "link": "https://medium.com/@MirArshadTalpur/how-to-design-human-oversight-for-ai-agents-with-zizkadb-c5fd44df0a4c",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T14:27:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "8z168v",
+          "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+          "link": "https://github.com/kividbio/kividb",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T13:53:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "udj7yh",
+          "title": "Show HN: Chalk, interactive labs for system design ideas",
+          "link": "https://chalkbrain.com/labs/the-slate/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T13:33:53Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "15qriex",
+          "title": "I Tried Designing an Entire Product in Claude Code Without Figma",
+          "link": "https://uxplanet.org/i-tried-designing-an-entire-product-in-claude-code-without-figma-d5b76360db38?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-19T13:14:52.000Z",
+          "summary": "Here are 5 thigns I learned Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "sctnmf",
+          "title": "Show HN: LaunchWindow – Modern macOS App Grid; but Good",
+          "link": "https://avuriolabs.vercel.app/product/launchwindow",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T12:56:21Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1eln61i",
+          "title": "my friends send me screenshots of apps they hate like i'm the complaints department",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x9vjap/my_friends_send_me_screenshots_of_apps_they_hate/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-19T12:27:15.000Z",
+          "summary": "ever since my friends figured out what i do, my whatsapp is just screenshots now. a banking app that logged them out halfway through a transfer. a delivery app where the cancel button is hidden somewhere in space. no…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "15yqoq2",
+          "title": "Why design (still) matters, Taste is not a methodology, Borrowed slopes",
+          "link": "https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-19T11:50:05.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "13azca9",
+          "title": "AI native Requirements, design and simulations",
+          "link": "https://www.meltred.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T11:45:59Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "177vjbz",
+          "title": "What if AI sets us free?",
+          "link": "https://uxdesign.cc/what-if-ai-sets-us-free-084f4310709b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-19T11:12:29.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1fnjdml",
+          "title": "UX designers are not designing interfaces, they design personalities",
+          "link": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-19T11:12:12.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1rxxa6j",
+          "title": "Beyond the Canvas",
+          "link": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-19T09:29:20.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "5g3m5q",
+          "title": "Show HN: Free design canvas for your AI (open source)",
+          "link": "https://uidesigneditor.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T09:23:12Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1gi7pxl",
+          "title": "How is it going for designers actually using AI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1x9q5ic/how_is_it_going_for_designers_actually_using_ai/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-19T07:14:39.000Z",
+          "summary": "I’m seeing a lot of posts complaining about stakeholders making sub-par, vibe-coded UIs that they want to ship and feeling the career pinch. I’m interested to know how designers who are themselves vibe coding UIs are…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "d37l1w",
+          "title": "Air: A Python web framework designed for AI to write",
+          "link": "https://airwebframework.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-19T05:05:22Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1rzs03",
+          "title": "EvoGrain: Algorithmic Sound Design with L-Systems and Granular Synthesis",
+          "link": "https://nathanho.me/posts/evograin/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-18T16:43:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "items": [
