@@ -1,6 +1,229 @@
 {
-  "updatedAt": "2026-10-20T10:33:12.469Z",
+  "updatedAt": "2026-10-21T10:45:23.575Z",
   "days": [
+    {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "id": "47a3u9",
+          "title": "Roast my resume, jk not really..",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xbiyq9/roast_my_resume_jk_not_really/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-21T09:57:22.000Z",
+          "summary": "Alright sooo, for context I have 4+ years of experience as a UI/UX designer. I left job in june, have been unemployed for 4 months. I am not getting any call backs, barely any replies even for rejection. I have done a…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "xg52i",
+          "title": "Design v ADHD",
+          "link": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-21T08:18:25.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1yhgnjy",
+          "title": "How to get up to scratch with AI workflows without forking out for the subscriptions fees?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xbd914/how_to_get_up_to_scratch_with_ai_workflows/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-21T04:09:03.000Z",
+          "summary": "Been out of work for a 1.5 years, 13 years experience. Are there any free alternatives out there as an alternative to Claude that I could play around with to get up to speed? Not free tier plans which get you nowhere,…",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1n2nmtk",
+          "title": "Show HN: SchemaWright, learning database design in a gamified way",
+          "link": "https://schemawright.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T00:50:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "19ztm33",
+          "title": "Wireframing is back! Coded prototypes are helping",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xb5to3/wireframing_is_back_coded_prototypes_are_helping/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-20T22:12:42.000Z",
+          "summary": "I was very skeptical of Ai prototyping but recently, we’ve got into a good rhythm with product and design working together on a wireframe functional prototype, disconnected from the design system (purposefully). This…",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "16zcgkw",
+          "title": "Let AI have the average user: Why User Research should focus on bad days",
+          "link": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-20T21:30:52.000Z",
+          "summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you. Continue reading on UX Collective »",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1rgoaby",
+          "title": "AI doesn’t care about your job title",
+          "link": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-20T21:29:28.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1aew544",
+          "title": "Does anyone else feel Spotify's UI is just frustrating?",
+          "link": "https://www.reddit.com/r/UI_Design/comments/1n03mqt/does_anyone_else_feel_spotifys_ui_is_just/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T19:25:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1yhvwqi",
+          "title": "Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code",
+          "link": "https://www.modula9.net",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T19:24:53Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1oxkfjd",
+          "title": "Has anyone had a positive experience when it comes to PMs now generating AI prototypes?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xaymg3/has_anyone_had_a_positive_experience_when_it/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-20T17:36:03.000Z",
+          "summary": "My company (like many others) is shifting towards PMs generating AI prototypes. Then a designer will conduct a review to ensure it follows the design system. Has anyone here experienced this shift first-hand? If so, how…",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "11c15hy",
+          "title": "Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: Which Model Should You Use for Which Task?",
+          "link": "https://uxplanet.org/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5-which-model-should-you-use-for-which-task-558e2b26cb3c?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-20T17:24:48.000Z",
+          "summary": "An in-depth guide to choosing the right Claude model for product design, coding, prototyping, research, and everyday work; 20 practical… Continue reading on UX Planet »",
+          "categories": [
+            "Research"
+          ],
+          "level": "Beginner",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "b8kjtc",
+          "title": "The CO2-absorbing building made of old sinks, windscreens and toilets",
+          "link": "https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T14:25:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1kazy7k",
+          "title": "Show HN: Standard Topic – An AI and RSS-powered news and resource platform",
+          "link": "https://www.standardtopic.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T14:16:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "jili5",
+          "title": "Show HN: Daisy – macOS software KVM with native trackpad gestures",
+          "link": "https://misfitdev.github.io/daisy/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T14:10:44Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "eu90e8",
+          "title": "Ask HN: How to organize teams to ship AI-written code?",
+          "link": "https://news.ycombinator.com/item?id=50166173",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-20T13:34:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "2g6mpy",
+          "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+          "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-10-20T10:00:00.000Z",
+          "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a…",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "items": [
