@@ -1,6 +1,233 @@
 {
-  "updatedAt": "2026-10-21T10:45:23.575Z",
+  "updatedAt": "2026-10-22T10:46:48.776Z",
   "days": [
+    {
+      "date": "2026-10-22",
+      "items": [
+        {
+          "id": "l2834x",
+          "title": "AI vs. human therapist feedback in CBT: Randomized trial with deception design",
+          "link": "https://doi.org/10.1016/j.invent.2026.101012",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T09:50:51Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1q9gm9c",
+          "title": "Revamping my company's website: what are the biggest mobile UX mistakes to avoid?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xccwhm/revamping_my_companys_website_what_are_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-22T08:25:30.000Z",
+          "summary": "I'm currently in the process of revamping my company's website and alongside the desktop version, I obviously need to make sure the mobile experience is just as good. I'm fairly new to web design and UX, so I'd love to…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "x4skep",
+          "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+          "link": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T05:23:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1cvgwjo",
+          "title": "Show HN: HarnessHive – collaborative wiring harness design platform in browser",
+          "link": "https://harnesshive.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T01:32:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "odg7f",
+          "title": "Advice on Sharing UX Work",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xc4a94/advice_on_sharing_ux_work/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-22T00:35:26.000Z",
+          "summary": "My workplace has a Figma account managed by the company. For those of you who have been working in the field for a while now, what would you suggest is the best way to share the work you've done safely/without getting…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "31slr7",
+          "title": "A founder with a tool is not a founder with a clue",
+          "link": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-21T21:50:55.000Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "sdqc4x",
+          "title": "Can you take AI at its word?",
+          "link": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-21T21:50:06.000Z",
+          "summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "mug1ir",
+          "title": "Designers working in code, how are you organizing your prototypes and vibe coded design work?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xbzu4j/designers_working_in_code_how_are_you_organizing/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-21T21:21:14.000Z",
+          "summary": "My design process has changed a lot in the last year. Most of my concepts and even explorations now live in code. I still use Figma, but mostly for refinement or to draft ideas that are harder to explain with a prompt.…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1pzdq54",
+          "title": "Show HN: Overdesigned Simple Solitaire",
+          "link": "https://defaultsolitaire.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T20:45:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "evcqsu",
+          "title": "Ask HN: Can we immortalize your startup in our Ultracapitalism game?",
+          "link": "https://news.ycombinator.com/item?id=50186889",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T20:07:46Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "evcmx4",
+          "title": "Ask HN: How will programming language design change as more code comes from AI?",
+          "link": "https://news.ycombinator.com/item?id=50186311",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T19:31:41Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "90baru",
+          "title": "Show HN: Is there a YC advantage for sales?",
+          "link": "https://elegant-chebakia-7aee64.netlify.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T19:31:14Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "aau19n",
+          "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+          "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T19:30:52Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "14l04bx",
+          "title": "Google staff resign in backlash over its AI contracts with military",
+          "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T19:14:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "l6ylt",
+          "title": "Show HN: RMBG – remove backgrounds from images in the browser (no uploads)",
+          "link": "https://velmet44.github.io/rmbg/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T17:58:20Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "bn95r5",
+          "title": "Show HN: NiFT – Frictionless, Fast, Note taking app",
+          "link": "https://mtarin.com/projects/nift/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-21T16:28:05Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1am9utt",
+          "title": "Senior / Lead UX designers on the spectrum, how do you manage ?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xbqlrr/senior_lead_ux_designers_on_the_spectrum_how_do/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-21T15:41:32.000Z",
+          "summary": "Reaching 3 years in my company as a lead. I'm not performing anywhere near the level I did when I got hired. My brain feels like constant mush. I started as the de facto lead and due to a buyout, our company was…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "items": [
