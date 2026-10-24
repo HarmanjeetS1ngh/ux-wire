@@ -1,6 +1,341 @@
 {
-  "updatedAt": "2026-10-22T10:46:48.776Z",
+  "updatedAt": "2026-10-24T09:56:19.871Z",
   "days": [
+    {
+      "date": "2026-10-24",
+      "items": [
+        {
+          "id": "f8lof1",
+          "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
+          "link": "https://news.ycombinator.com/item?id=50219641",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-24T09:48:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "12jq8k3",
+          "title": "Have you ever successfully dealt with a micromanager?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xe1geq/have_you_ever_successfully_dealt_with_a/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-24T06:37:12.000Z",
+          "summary": "I know this could apply to any field, but I feel like there is a specific type of Queen Bee syndrome archetype in tech that likes to bully female subordinates to prove their 'competence', and I wonder who else has…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "4wafrn",
+          "title": "There's a silver lining",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xdldqf/theres_a_silver_lining/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-23T18:05:16.000Z",
+          "summary": "After finishing my UX/UI master, i have spent 4 months looking for junior UX/UI designer roles all over europe. I have applied to more jobs than i can count, and having reddit posts from this sub in my feed made me feel…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "qib112",
+          "title": "New Yorkers in tech/design, do you worry about leaving NY and how that effects your desirability for work?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xdjw56/new_yorkers_in_techdesign_do_you_worry_about/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-23T17:09:02.000Z",
+          "summary": "I've been working and living in NY for the past 8 years and working in tech. It's time to leave, just over the city. I do worry however, and not sure if its a valid worry, that my physical location affects my…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "12hcbm3",
+          "title": "UX Disciplines: Glossary",
+          "link": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-23T17:00:00.000Z",
+          "summary": "Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "ygm20f",
+          "title": "AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings",
+          "link": "https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-23T17:00:00.000Z",
+          "summary": "AI saves UX practitioners time on nearly every task, yet most feel lukewarm about it: mandates, unreliable output, and inflated expectations eat the gains.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "z1uyho",
+          "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+          "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T16:41:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1buwb5c",
+          "title": "We started with seven product designers in 2022. I'm the last man standing.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xdie3u/we_started_with_seven_product_designers_in_2022/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-23T16:12:48.000Z",
+          "summary": "I'm a Senior Product Designer at a Fortune 200 company (Aerospace) I've survived multiple rounds of layoffs in four years, reorganizations, leadership, etc. We used to have seven product designers. Four were laid off,…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "f8fwp6",
+          "title": "Ask HN: How can I grow as an engineer in the AI era",
+          "link": "https://news.ycombinator.com/item?id=50210502",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T15:17:34Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "sa45lb",
+          "title": "Show HN: ParaGraFX – An iOS app for reading and illustrating ePub books",
+          "link": "https://apps.apple.com/us/app/paragrafx-illustrate-books/id6795768929",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T14:27:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1k2vv7n",
+          "title": "Sigma FP2",
+          "link": "https://www.sigma-global.com/en/cameras/fp2/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T13:39:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1fzx5z6",
+          "title": "Can Claude Code Design Professional UI Animations? I Tested 3 Approaches",
+          "link": "https://uxplanet.org/can-claude-code-design-professional-ui-animations-i-tested-3-approaches-b6a855f0eadf?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-23T13:21:50.000Z",
+          "summary": "Animation design is an essential part of product design. Well-crafted animations immediately create a sense of attention to detail and… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "6fw0nh",
+          "title": "Accordion Icons: Which Work Best?",
+          "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-10-23T13:00:00.000Z",
+          "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "frqozn",
+          "title": "Text-to-Diagram for AI Systems: Designing a DSL an LLM Gets Right",
+          "link": "https://zerowithdot.com/blog/text-to-diagram-for-ai-systems/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T11:31:30Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "12hd0zn",
+          "title": "Entering Atomic Design from the screen",
+          "link": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-23T11:16:30.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "14yg36f",
+          "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
+          "link": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-23T11:15:20.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "109be81",
+          "title": "Show HN: Flaksorama – A party game for work events where anyone can win",
+          "link": "https://flaksorama.com/demo",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T09:56:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "myjncs",
+          "title": "Show HN: Cryptex Vault – A password manager designed to outlive its creator",
+          "link": "https://www.cryptex-vault.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T09:38:12Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "hp2q76",
+          "title": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
+          "link": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T09:22:18Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "106k2yb",
+          "title": "Designing an AI serving harness built to last",
+          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T07:02:52Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "qhpajc",
+          "title": "The .http File Format",
+          "link": "https://http-files.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T05:29:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "ue79nb",
+          "title": "Canva's first in-house AI image model plans designs before generating them",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T01:04:26Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "7wsy74",
+          "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+          "link": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-22T21:55:36.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1s43v93",
+          "title": "Show HN: Mnemolith – AI coding memory that goes stale when your code changes",
+          "link": "https://github.com/anishchugh05/mnemolith",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T18:59:50Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "2l67zn",
+          "title": "Axminster: UML/OCL design tool with MCP",
+          "link": "https://chironcodex.com/axminster/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T15:20:50Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "kbjrmg",
+          "title": "I Tested 3 Claude Code Skills for Web Design: Which One Is Best?",
+          "link": "https://uxplanet.org/i-tested-3-claude-code-skills-for-web-design-which-one-is-best-521137220dc1?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-22T13:48:42.000Z",
+          "summary": "Frontend Design vs. UI/UX Pro Max vs. Taste Skill — same prompt, same AI model, very different results. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "items": [
