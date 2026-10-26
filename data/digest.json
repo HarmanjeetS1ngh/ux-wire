@@ -1,6 +1,302 @@
 {
-  "updatedAt": "2026-10-24T09:56:19.871Z",
+  "updatedAt": "2026-10-26T11:45:20.941Z",
   "days": [
+    {
+      "date": "2026-10-26",
+      "items": [
+        {
+          "id": "fdfja4",
+          "title": "Who gets to name the future?",
+          "link": "https://uxdesign.cc/who-gets-to-name-the-future-436d069f16af?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-26T11:26:31.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1l63102",
+          "title": "The tap that pours hot water, not cold",
+          "link": "https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-26T11:26:19.000Z",
+          "summary": "On where a sushi self-service system quietly puts its risk Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "g8rohl",
+          "title": "Telling the wrong story, Design v ADHD, AI doesn’t care about your job title",
+          "link": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-26T11:20:17.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "pxt6z4",
+          "title": "Does UX get overlooked because so much of our work is invisible?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xftubx/does_ux_get_overlooked_because_so_much_of_our/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-26T11:09:34.000Z",
+          "summary": "A significant part of my work as a UX designer happens behind the scenes, and I'm starting to wonder how other designers deal with this. I work in enterprise SaaS, in a fairly delivery-driven environment. A lot of my…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "18m0ude",
+          "title": "Show HN: Ultimidi – piano learning web game",
+          "link": "https://game.ultimidi.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T10:58:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "119ujw8",
+          "title": "Stuck between staying in product design, moving into PM, or doing a design-business master’s abroad. Honest outside views wanted",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xfs5i7/stuck_between_staying_in_product_design_moving/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-26T09:33:11.000Z",
+          "summary": "I’m a B.Des UX graduate in Bangalore, currently a UI/UX design intern at a proptech startup, with a few earlier internships including some at AI product companies. I’ve gone back and forth on this for months and I think…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "6jq200",
+          "title": "Left UX for 5 years. Is it worth it to come back?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xfoxjm/left_ux_for_5_years_is_it_worth_it_to_come_back/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-26T06:08:50.000Z",
+          "summary": "Hi all, I worked in UX for 5 years and started to really hate it at my last job due to an overall just really shitty team and leadership. I left for 5 years and did some freelance. I'm thinking about getting a 1 year…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "fui2u1",
+          "title": "How long does it typically take everyone to put together a case study presentation deck? Genuinely curious!",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xfnmdb/how_long_does_it_typically_take_everyone_to_put/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-26T04:49:39.000Z",
+          "summary": "I’m actually so curious how long it takes other folks to put their decks together! I’m someone who really obsesses over the storytelling aspect because I want to feel confident in the narrative I’m presenting. But I’m…",
+          "categories": [
+            "Research"
+          ],
+          "level": "Advanced",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1kzz92w",
+          "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+          "link": "https://uipalooza.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T04:00:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "jlkv3z",
+          "title": "Disadvantages of Designating Mathematicians for AI Output Releases",
+          "link": "https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T22:18:47Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "f9m46c",
+          "title": "How to promote my non-profit edtech platform?",
+          "link": "https://news.ycombinator.com/item?id=50234850",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T18:54:58Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1tgdxsx",
+          "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
+          "link": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T15:20:51Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "7de0w5",
+          "title": "iPhone Duo \"Teardown\"",
+          "link": "https://www.youtube.com/watch?v=5laDGy4INB0",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T13:25:32Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "8iwioj",
+          "title": "The context advantage of human UX",
+          "link": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-25T12:34:03.000Z",
+          "summary": "Context is today’s human advantage, but it is also the raw material AI is rapidly learning to absorb. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "45oedn",
+          "title": "Nobody asked for the sparkle button",
+          "link": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-25T12:33:57.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "lrhjor",
+          "title": "Where to draw the line before AI reaches professional users",
+          "link": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-25T12:31:45.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1pk6121",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 10/25/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xethfc/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-25T05:00:40.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1xxx45p",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/25/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xethf1/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-25T05:00:39.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "f94693",
+          "title": "Show HN: ReVault – new secure archive format",
+          "link": "https://news.ycombinator.com/item?id=50227527",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T02:01:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "n4vb55",
+          "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+          "link": "https://adrs.systems",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T00:43:47Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ikj1gp",
+          "title": "Show HN: Orisuji, a maze you solve by folding your phone",
+          "link": "https://apps.apple.com/us/app/orisuji/id6817092898",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-24T16:34:39Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "dt646",
+          "title": "Deel vs. Rippling for Contractor Management: Which Platform Gets the User Experience Right?",
+          "link": "https://uxplanet.org/deel-vs-rippling-for-contractor-management-which-platform-gets-the-user-experience-right-275775f329d8?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-24T11:35:41.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "items": [
