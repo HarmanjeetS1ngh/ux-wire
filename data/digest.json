@@ -1,6 +1,368 @@
 {
-  "updatedAt": "2026-10-26T11:45:20.941Z",
+  "updatedAt": "2026-10-28T11:46:17.687Z",
   "days": [
+    {
+      "date": "2026-10-28",
+      "items": [
+        {
+          "id": "1goquxz",
+          "title": "Smaller teams want design leaders who make, again. Here’s how.",
+          "link": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-28T09:37:57.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "15kvmsk",
+          "title": "The agent woke up before you did",
+          "link": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-28T09:34:18.000Z",
+          "summary": "The last assumption of user-centered design just fell — and four companies pushed it at once. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "nmvhzd",
+          "title": "UX Design Patterns",
+          "link": "https://sambernheim.com/blog/ux-design-patterns",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T05:01:23Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1aon1nn",
+          "title": "Video resources that demonstrate AI workflows?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xhd941/video_resources_that_demonstrate_ai_workflows/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-28T03:17:17.000Z",
+          "summary": "Are there any videos or channels out there that best demonstrate how designers actually use AI from ideation to iteration to final product? Not from YouTube influencers, but from actual designers who are building actual…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1f7i5w9",
+          "title": "Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs",
+          "link": "https://www.cirkit.us/demo/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T03:09:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1yljl0j",
+          "title": "I built a live globe where you can tap strangers, chat for a minute, and collect passport stamps",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xhavw0/i_built_a_live_globe_where_you_can_tap_strangers/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-28T01:22:59.000Z",
+          "summary": "I made a small social experiment called Earth Together. It’s a live globe that shows the people currently visiting. You can spin around, tap someone’s little avatar, and send them a request to chat. If they accept, you…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "4f0s7h",
+          "title": "When UI Design Cared",
+          "link": "https://joaofaraco.com.br/en/articles/when-ui-design-actually-cared/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T22:11:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "x7etey",
+          "title": "Tailscale SSH: Investigation and remediation update",
+          "link": "https://tailscale.com/ssh-investigation-update",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T19:55:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "3c4lex",
+          "title": "Almost isn't good enough: Introducing VybBench, our Design Fidelity Benchmark",
+          "link": "https://cocolabs.ai/blog/introducing-vybbench",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T17:14:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1tjswhn",
+          "title": "Why are more companies not using Axure instead of Figma?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xgybpw/why_are_more_companies_not_using_axure_instead_of/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-27T17:07:13.000Z",
+          "summary": "I’ve started learning Axure and I’m fascinated. You can build much better prototypes compared to Figma, especially for usability studies. You can build more complicated interaction points meaning more interactive…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "ujd8av",
+          "title": "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+          "link": "https://sectr.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T15:40:07Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1g6sfhc",
+          "title": "Show HN: Dinemic – self-hosted ingress across multiple providers (DNS, LB, TLS)",
+          "link": "https://dinemic.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T14:38:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "jssdz8",
+          "title": "AI Motion Design, with the Prompts",
+          "link": "https://motioncrackers.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T14:27:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "17s9ep7",
+          "title": "Random wisdoms from product design long-timer",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xgsfxv/random_wisdoms_from_product_design_longtimer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-10-27T13:24:38.000Z",
+          "summary": "I’ve been in the industry for 20 years, all as IC, actively growing and adapting. Latter part is especially important since many seniors become complacent or jaded, making their takes less relevant as the industry…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "19ty9ve",
+          "title": "Claude Opus 5.5 Official Prompting Guide",
+          "link": "https://uxplanet.org/claude-opus-5-5-official-prompting-guide-25eaa238acdb?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-27T13:06:21.000Z",
+          "summary": "Anthropic’s 7 Rules for Better Results from Opus 5.5 Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "7n0jej",
+          "title": "Show HN: flint - SSH and SFTP client built with GPUI",
+          "link": "https://github.com/mousEHEHE/flint-gpui",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T12:05:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1bmse5f",
+          "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
+          "link": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-27T11:13:45.000Z",
+          "summary": "What a survey of 521 UX professionals found about AI in UX Continue reading on UX Collective »",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "Beginner",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "oerg8l",
+          "title": "Going nowhere fast",
+          "link": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-27T11:13:03.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1ivmn7f",
+          "title": "I tested 12 small AI models on 2,500 design-system questions",
+          "link": "https://www.designsystemscollective.com/i-tested-12-small-ai-models-on-2-500-design-system-questions-the-model-wasnt-what-mattered-4ef16e69ad64",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T09:34:32Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mvxzu0",
+          "title": "Offcut, design furniture by chatting with AI",
+          "link": "https://offcut.diy",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-27T08:56:00Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "11ohluy",
+          "title": "Building an AI-ready design system library: Code → Figma with MCP.",
+          "link": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-26T21:33:16.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "1sw7y7v",
+          "title": "Does Apple’s HomeView reduce effort, or ask for our attention?",
+          "link": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-26T21:32:18.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1wccdc6",
+          "title": "Show HN: Websites designed by 10 AI models, ranked by 4,500 human votes",
+          "link": "https://humansignal.com/taste-index",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T19:32:33Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "19ljsxf",
+          "title": "Dear Figma, I hope to come back",
+          "link": "https://kaitlynhova.medium.com/dear-figma-i-hope-to-come-back-3cf88f0b20fc",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T18:32:34Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "vp38vk",
+          "title": "Show HN: Mainplane – Agent in Go that lives on your old PC, drives your laptop",
+          "link": "https://github.com/mainplane-ai/mainplane",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T16:37:03Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fa55ae",
+          "title": "AI is coming for accounting after coding",
+          "link": "https://news.ycombinator.com/item?id=50243234",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T13:24:26Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "wqv159",
+          "title": "AGENTS.md in Claude Code: What it is and why it matters",
+          "link": "https://uxplanet.org/agents-md-in-claude-code-what-it-is-and-why-it-matters-2664ea64f7b0?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-26T12:17:25.000Z",
+          "summary": "AGENTS.md is a Markdown file with instructions that tell AI coding agents how to work with your project. Claude Code supports AGENTS.md… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 23,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "items": [
