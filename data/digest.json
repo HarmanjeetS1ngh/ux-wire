@@ -1,6 +1,203 @@
 {
-  "updatedAt": "2026-10-28T11:46:17.687Z",
+  "updatedAt": "2026-10-29T11:54:35.693Z",
   "days": [
+    {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "id": "fq1z0n",
+          "title": "Show HN: AI social media interview platform",
+          "link": "https://www.spotlytt.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-29T11:33:29Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "1bo6tui",
+          "title": "Why AI design tools keep making the same flyer",
+          "link": "https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-29T11:11:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fcdphk",
+          "title": "Ask HN: Techniques for productive AI use in the workspace",
+          "link": "https://news.ycombinator.com/item?id=50285795",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-29T08:02:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1htq1wk",
+          "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+          "link": "https://www.fabivo.app/en",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-29T05:21:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16ifbc5",
+          "title": "How I stopped dreading AI and started studying it full-time",
+          "link": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-28T23:24:01.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "l8t39p",
+          "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+          "link": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-28T23:23:05.000Z",
+          "summary": "6 UX questions for AI research tasks that take time Continue reading on UX Collective »",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1t62e7x",
+          "title": "The AI reckoning in UX was 20 years in the making",
+          "link": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-28T23:22:26.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "yqk2jn",
+          "title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
+          "link": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-28T23:21:43.000Z",
+          "summary": "All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise. Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "cnnig8",
+          "title": "Show HN: Measuring how much of an AI-assisted design is yours",
+          "link": "https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T18:41:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1pn9fva",
+          "title": "Clonecode – Copy any website, run it locally, hand the design to your AI",
+          "link": "https://getclonecode.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T17:41:11Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "fba56l",
+          "title": "Show HN: Vu – a new programming language designed for AI. Rust speeds, Py syntax",
+          "link": "https://vulang.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T16:35:24Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1fmo5ag",
+          "title": "Show HN: SysBreak – Learn system design by watching architectures break",
+          "link": "https://sysbreak.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T16:08:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1rmvn2h",
+          "title": "Bureau – Design-Review Workflow",
+          "link": "https://www.zeniteq.com/bureau-7-10-adds-ten-gates-to-ai-design-review-dr3pxz",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-28T14:12:29Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10lcjfi",
+          "title": "Claude Code Skills vs. Mods vs. Plugins vs. Agents: What’s the Difference?",
+          "link": "https://uxplanet.org/claude-code-skills-vs-mods-vs-plugins-vs-agents-whats-the-difference-5fccf8c1b4e6?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-28T13:28:02.000Z",
+          "summary": "Claude Code offers 4 powerful ways to extend its capabilities: Skills, Mods, Plugins, and Agents. They sound similar, but each solves a… Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "items": [
