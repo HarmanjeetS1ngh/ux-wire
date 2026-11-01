@@ -1,6 +1,268 @@
 {
-  "updatedAt": "2026-10-29T11:54:35.693Z",
+  "updatedAt": "2026-11-01T12:12:40.265Z",
   "days": [
+    {
+      "date": "2026-11-01",
+      "items": [
+        {
+          "id": "fq3s0u",
+          "title": "Magic vs. Wonder: memories of a distant future",
+          "link": "https://news.ycombinator.com/item?id=50324043",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-01T09:51:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "an0pjv",
+          "title": "We're Training a Figma-Fluent Editing Model",
+          "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-01T04:05:23Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "imxxzd",
+          "title": "Show HN: Show HN: Fig and Verse – daily Bible puzzles and trivia",
+          "link": "https://figandverse.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-01T02:42:30Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "cbpoof",
+          "title": "Design systems for agents",
+          "link": "https://design.how",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-01T01:27:36Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "5v0j5r",
+          "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+          "link": "https://www.jointter.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-31T16:24:24Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zo20ia",
+          "title": "Inside Anthropic's Design Team",
+          "link": "https://designerfund.com/blog/ai-design-anthropic",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-31T16:18:12Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "xwi9wt",
+          "title": "5 NEW Claude Mods that will change how you work",
+          "link": "https://uxplanet.org/5-new-claude-mods-that-will-change-how-you-work-618fa55bc7db?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-31T15:07:38.000Z",
+          "summary": "Mod is an add-on that changes how Claude Code looks and behaves. Mods work in both Claude Code for CLI (in a terminal window) and Claude… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "w0q43g",
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-10-31T08:00:00.000Z",
+          "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+          "categories": [],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "8nnb0d",
+          "title": "Show HN: Fishoid: an ambient fish tank for your screen",
+          "link": "https://fishoid.net/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-30T18:30:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "otfs77",
+          "title": "The Role of UX in Agentic Software Factories",
+          "link": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-30T17:00:00.000Z",
+          "summary": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 38,
+          "isHighlight": true
+        },
+        {
+          "id": "1vm17z6",
+          "title": "Experience Design: Dropping the “User” from “User Experience”",
+          "link": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-10-30T17:00:00.000Z",
+          "summary": "AI is expanding UX beyond human users to agents acting on their behalf. Experience design names this broader field, which still centers on people’s goals.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "j9zv7h",
+          "title": "ANSI 16-bit Art Design Studio with AI integration",
+          "link": "https://ansi.studio/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-30T15:52:50Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1qes27k",
+          "title": "Claude 5.5 Model Mistakes You’re Still Making",
+          "link": "https://uxplanet.org/claude-5-5-model-mistakes-youre-still-making-a5d128a5338b?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-30T15:48:55.000Z",
+          "summary": "8 common mistakes and how to fix them Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "andcvl",
+          "title": "Show HN: Free system design learning path with animated architecture diagrams",
+          "link": "https://prepd.tech/learning",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-30T14:43:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10ukoju",
+          "title": "We're training a Figma-fluent editing model",
+          "link": "https://twitter.com/figma/status/2115894206409723946",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-30T11:11:26Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "bicuof",
+          "title": "The people using AI should set its strategy",
+          "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-10-30T07:06:26.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1380sus",
+          "title": "Show HN: System Design Articles from Companies",
+          "link": "https://abhishekr3.github.io/rss-system-design/index.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-29T17:48:40Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tju3cj",
+          "title": "Anthropic Just Shipped Claude 2.0",
+          "link": "https://uxplanet.org/anthropic-just-shipped-claude-2-0-bbb46a9c1383?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-10-29T15:18:28.000Z",
+          "summary": "9 New Features That Make Claude Code More Powerful Than Ever Continue reading on UX Planet »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1ty6vjs",
+          "title": "Show HN: No String Theory – a store that sells air guitars (the box is real)",
+          "link": "https://nostringtheory.com?utm_source=hn&utm_medium=social&utm_campaign=launch",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-29T13:41:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tunad0",
+          "title": "Show HN: Vesalius, an on-device code graph for Claude Code",
+          "link": "https://github.com/haplollc/Vesalius",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-26T20:11:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "items": [
