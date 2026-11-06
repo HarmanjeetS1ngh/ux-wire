@@ -1,6 +1,430 @@
 {
-  "updatedAt": "2026-11-04T13:24:50.126Z",
+  "updatedAt": "2026-11-06T13:22:58.653Z",
   "days": [
+    {
+      "date": "2026-11-06",
+      "items": [
+        {
+          "id": "140dyye",
+          "title": "We are building an AI design tool that skips the prompt",
+          "link": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-06T10:07:11Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "9spuu4",
+          "title": "Where do you draw the line between \"playful\" and \"unusable\" in UI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xp8wuw/where_do_you_draw_the_line_between_playful_and/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-06T09:48:30.000Z",
+          "summary": "I've been designing a hand-drawn UI style: wobbly outlines, slightly tilted elements, sticker-like buttons, colors picked by feel instead of a strict scale. The rule I set myself was to break visual conventions but…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "l0hpm6",
+          "title": "The Elephant-Goldfish Model: scaling design-driven AI development",
+          "link": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-06T09:22:46Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "sudf43",
+          "title": "Recrutement de profils UX/UI et Design à Paris, Lyon, Bordeaux (France)",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xp8hpx/recrutement_de_profils_uxui_et_design_à_paris/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-06T09:20:05.000Z",
+          "summary": "Hello, Mon entreprise recrute des profils Design Strategist, Lead Product Designer, Product Designer, UX/UI Designer en France (Paris, Lyon, Bordeaux). On recherche des gens avec une expérience dans un environnement…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "19g2rfl",
+          "title": "Trying to catch up re AI skills in UX in the context of fintech/B2B Saas. Which is best to learn for this niche: Claude, Figma MCP, Repit etc?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xp8ecg/trying_to_catch_up_re_ai_skills_in_ux_in_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-06T09:13:58.000Z",
+          "summary": "Title submitted by /u/valportdes [link] [comments]",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1uha9f0",
+          "title": "A New Community For In-House UX People",
+          "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-11-06T08:00:00.000Z",
+          "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans…",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 29,
+          "isHighlight": true
+        },
+        {
+          "id": "13t0n5b",
+          "title": "Show HN: Mall Bats, a nostalgic tycoon game with a twitst",
+          "link": "https://mall-bats.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-06T07:40:12Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1w5a2ra",
+          "title": "UX Conference January Announced (Jan 19 - Feb 1)",
+          "link": "https://www.nngroup.com/training/january/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-11-06T04:34:21.000Z",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. January 19 - February 1, 2026.",
+          "categories": [],
+          "level": "General",
+          "impactScore": 34,
+          "isHighlight": true
+        },
+        {
+          "id": "zwq9ni",
+          "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+          "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-06T04:13:24.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "ynv0qw",
+          "title": "Native is a floor, not a ceiling",
+          "link": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-06T04:12:29.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1tcw5vb",
+          "title": "Show HN: Open-world text adventure played through AI agents",
+          "link": "https://eremoterra.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T23:04:45Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "96riy1",
+          "title": "Deriving a hyperscale cloud architecture: ALB [pdf]",
+          "link": "https://github.com/noahc66260/advanced-distributed-system-design/blob/main/alb_standalone.pdf",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T19:55:38Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1l1m4bg",
+          "title": "How to discuss latency in system design interviews",
+          "link": "https://interviewing.io/blog/how-to-discuss-latency-in-system-design-interviews",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T17:43:53Z",
+          "summary": "",
+          "categories": [
+            "Career"
+          ],
+          "level": "Beginner",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "85jls2",
+          "title": "Show HN: Flawless UI/UX – A design skill and inspection CLI for coding agents",
+          "link": "https://github.com/smokeeaasd/flawless-ui-ux",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T17:30:09Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tl8n2s",
+          "title": "Five Ways Nvidia Co-Design Maximizes the Value of Every Byte in the AI Factory",
+          "link": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T16:48:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "ftc6ff",
+          "title": "Ask HN: Any good AI design tools for pitch decks and visuals?",
+          "link": "https://news.ycombinator.com/item?id=50380992",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T16:18:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "junoke",
+          "title": "Show HN: Revline – An open-source AI-native video editor",
+          "link": "https://tryrevline.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T15:06:16Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "k068cu",
+          "title": "Design API: Programatically create and edit on-brand designs at scale",
+          "link": "https://rivermark.ai/design-api",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T13:50:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "rtgdmv",
+          "title": "Show HN: Scribbles is a small drawing canvas and a gallery of what visitors send",
+          "link": "https://scribbles.gallery/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T13:07:10Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1luhh17",
+          "title": "Making Immersive LLM Chat Experiences More Accessible",
+          "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-11-05T13:00:00.000Z",
+          "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric…",
+          "categories": [
+            "AI",
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 31,
+          "isHighlight": true
+        },
+        {
+          "id": "sxz4er",
+          "title": "5 NEW GitHub Repos for Claude Code Worth Trying for Product Design",
+          "link": "https://uxplanet.org/5-new-github-repos-for-claude-code-worth-trying-for-product-design-8d2ca0914487?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-05T12:40:07.000Z",
+          "summary": "Previously, I shared my all-time favorite collection of 7 GitHub repositories for Claude. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "a1fitj",
+          "title": "Design by numbers: is AI ruining UX or just pouring gasoline on the fire?",
+          "link": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-05T10:49:10.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1eidg2h",
+          "title": "Show HN: Vector – a macOS app for engineering with agents",
+          "link": "https://getvector.sh",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T10:49:01Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1yqrn1x",
+          "title": "Everyone’s got a quick question",
+          "link": "https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-05T10:47:24.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "y21m6",
+          "title": "I found a job!!! UX/UI designer with the ecommerce",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xoaj7n/i_found_a_job_uxui_designer_with_the_ecommerce/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-05T05:23:11.000Z",
+          "summary": "Omg guys I wanted to share amazing news as a sign of encouragement! There have been so many layoffs across the industry and the job market has been brutal! But keep on going and things will get better 🙏🏻 The journey…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "fsuwx9",
+          "title": "Ask HN: Credit card and loyalty analytics, where to start?",
+          "link": "https://news.ycombinator.com/item?id=50374845",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-05T03:38:59Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1xqiznu",
+          "title": "In a world of panic, calm and certainty win",
+          "link": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-04T22:13:21.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1beyuw8",
+          "title": "AI can generate the interface. What makes it worth caring about?",
+          "link": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-04T22:12:46.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1n6tej7",
+          "title": "How Figma manages sandboxes at scale",
+          "link": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-04T20:59:52Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "Advanced",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "d2xuwg",
+          "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+          "link": "https://github.com/gauge-sh/gauge-cli",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-04T20:31:30Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "alkds9",
+          "title": "Show HN: A platform-neutral language for design systems",
+          "link": "https://play.milda.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-04T14:38:35Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1vcdinf",
+          "title": "How to Become One of the Top 1% Most Effective Claude Code Users",
+          "link": "https://uxplanet.org/how-to-become-one-of-the-top-1-most-effective-claude-code-users-7c2ebe0c2afc?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-04T13:28:42.000Z",
+          "summary": "3 practical methods for making the most of Claude Code Continue reading on UX Planet »",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "items": [
