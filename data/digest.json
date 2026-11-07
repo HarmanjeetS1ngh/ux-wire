@@ -1,6 +1,184 @@
 {
-  "updatedAt": "2026-11-06T13:22:58.653Z",
+  "updatedAt": "2026-11-07T12:01:26.590Z",
   "days": [
+    {
+      "date": "2026-11-07",
+      "items": [
+        {
+          "id": "8kiotu",
+          "title": "What it's like reading Snow Country in Japanese for the first time",
+          "link": "https://sigmajp.works/blog/snow-country-first-time/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-07T11:34:22Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "11g4ubf",
+          "title": "156 applications in 90 days, 1 interview. Here’s my data. Tell me what I’m doing wrong.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xq45hy/156_applications_in_90_days_1_interview_heres_my/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-07T11:24:56.000Z",
+          "summary": "Product designer, ~4 yrs, Surat, India → trying to land something in Bengaluru, India or remote. I tracked every application from my inbox for 90 days instead of guessing. Image has the full flow. The numbers: - 156…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1ibep6o",
+          "title": "I stopped using Figma",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xq2soo/i_stopped_using_figma/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-07T09:56:50.000Z",
+          "summary": "Just wanted to let you know submitted by /u/Ambitious-Horse-1728 [link] [comments]",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "11r0wll",
+          "title": "Are design portfolios becoming too pretty?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xpzmsp/are_design_portfolios_becoming_too_pretty/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-07T06:33:53.000Z",
+          "summary": "Whilst a beautiful portfolio can look impressive but does it really show how good someone is at UX? Its interesting that two designers can have equally beautiful portfolios but be very different when it comes to…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "182v7ml",
+          "title": "SigmaTrace: Library-Agnostic Observability for CPU/GPU-Initiated RDMA Comms",
+          "link": "https://arxiv.org/abs/2610.24328",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-07T05:49:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ogmxne",
+          "title": "Any frustrated content designers here?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xpr055/any_frustrated_content_designers_here/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-06T23:07:12.000Z",
+          "summary": "I feel like content design portfolio interviews are broken. Ironically, they are themselves a content design problem that hasn't been solved. They give you a prompt and some basic instructions. \"Show X projects in Y…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1q00oq2",
+          "title": "After the AI bubble: a manifesto",
+          "link": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-06T22:42:58.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "sibcaf",
+          "title": "Importance of Harness, Context and Model co-design",
+          "link": "https://www.wisdom.ai/blog/context-harness-co-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-06T22:42:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "169a985",
+          "title": "Agent Harness: Definition",
+          "link": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-11-06T18:00:00.000Z",
+          "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 32,
+          "isHighlight": true
+        },
+        {
+          "id": "b6rwb0",
+          "title": "Usability 101: Introduction to Usability",
+          "link": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-11-06T18:00:00.000Z",
+          "summary": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "1grrkp9",
+          "title": "Figma for hardware: AI can generate CAD, but what should we build?",
+          "link": "https://opuslabs.substack.com/p/building-the-judgment-layer-for-hardware",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-06T17:28:43Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "197nkua",
+          "title": "GPT-6.1 Terra for UI Design",
+          "link": "https://uxplanet.org/gpt-6-1-terra-for-ui-design-fb2ef70b907d?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-06T14:13:43.000Z",
+          "summary": "GPT-6.1 Terra is OpenAI’s mid-tier, cost-efficient model built specifically for visual reasoning (the model excels at interpreting… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "r4o6oe",
+          "title": "The best-designed websites in AI. Hand-picked",
+          "link": "https://token-gallery.netlify.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-06T13:45:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "items": [
