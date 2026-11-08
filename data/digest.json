@@ -1,6 +1,141 @@
 {
-  "updatedAt": "2026-11-07T12:01:26.590Z",
+  "updatedAt": "2026-11-08T12:21:30.527Z",
   "days": [
+    {
+      "date": "2026-11-08",
+      "items": [
+        {
+          "id": "bewmka",
+          "title": "Show HN: An open-source IDE for software architecture",
+          "link": "https://github.com/swiftbuild-ai/swiftbuild",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T10:53:21Z",
+          "summary": "",
+          "categories": [],
+          "level": "Advanced",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "197hi2q",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 11/08/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xqrbvb/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-08T06:00:49.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "1e45zr8",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 11/08/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xqrbv0/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-08T06:00:48.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "smdbu0",
+          "title": "Frustrated and losing my passion for design",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xqpvoh/frustrated_and_losing_my_passion_for_design/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-08T04:35:24.000Z",
+          "summary": "I have a quick rant for this field that I'm passionate in and just started my career. I'm really thankful that I was able to start my first full time product designer role right after graduating from college a few…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1xj9sr9",
+          "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+          "link": "https://eyesrhythm.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-07T21:47:47Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "6bna8u",
+          "title": "Otherwise you’re just a machine",
+          "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-07T20:15:42.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "12srnwm",
+          "title": "The Developer's Design Advantage: Why UX and UI Matter with Kathryn Grayson Nanz [video]",
+          "link": "https://www.youtube.com/watch?v=aoJ-7ozu8h0",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-07T15:00:20Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "g61ctj",
+          "title": "Ask HN: Non-Malicious Bots",
+          "link": "https://news.ycombinator.com/item?id=50403901",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-07T12:18:18Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1o68n1p",
+          "title": "Show HN: Rui, orchestrating 100 agents in 2.5 MB of RAM",
+          "link": "https://github.com/DivyanshGolyan/rui",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-07T12:02:28Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "um76ib",
+          "title": "„What’s your stack?”",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xq2wg9/whats_your_stack/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-07T10:03:23.000Z",
+          "summary": "I’m getting this question in interviews lately. What the fuck are they talking about? Tempted to answer “B12, Omega 3, Magnesium, Tren, Figma, VS Code, Claude Code and my brain”, next time. submitted by /u/susmab_676…",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "items": [
