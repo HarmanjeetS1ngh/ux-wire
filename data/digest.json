@@ -1,6 +1,284 @@
 {
-  "updatedAt": "2026-11-08T12:21:30.527Z",
+  "updatedAt": "2026-11-09T14:35:09.900Z",
   "days": [
+    {
+      "date": "2026-11-09",
+      "items": [
+        {
+          "id": "1dqaauh",
+          "title": "5 Underrated Claude Code Tools That Fix Its Biggest Problems",
+          "link": "https://uxplanet.org/5-underrated-claude-code-tools-that-fix-its-biggest-problems-1b6007eddf4f?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-09T14:27:53.000Z",
+          "summary": "Claude Code is great for rapid prototyping, but when it comes to production-ready design, Claude has a few problems: the UI it generates… Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "g766ll",
+          "title": "Ask HN: Am I the only one that thinks $100/month earns us freedom of work?",
+          "link": "https://news.ycombinator.com/item?id=50425749",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-09T14:02:07Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "j3np0i",
+          "title": "As predicted, the PO and UX Designer roles are merging but they found a new label: \"Product Builder\" so they don't have to say \"PO + UX Designer\"",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xrrnn1/as_predicted_the_po_and_ux_designer_roles_are/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-09T13:28:39.000Z",
+          "summary": "Damn didn't think it will happen that fast submitted by /u/ke1ke2ke3 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "rt86nb",
+          "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+          "link": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-09T12:20:07.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "xbv4ox",
+          "title": "What a ruler leaves out",
+          "link": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-09T12:13:57.000Z",
+          "summary": "On designing tools as rules — and what they quietly subtract from the world Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "zpmxhg",
+          "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+          "link": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-09T12:13:36.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1a9h7zm",
+          "title": "Design and build the design system",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xrq3b1/design_and_build_the_design_system/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-09T12:12:12.000Z",
+          "summary": "Work in a medtech company, building products with react tailwind and Qt. Have been building the tokens for their design system and now moving to build their components. After that, I was told to build those components…",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "116qceb",
+          "title": "Infinite tokens: the new country club flex",
+          "link": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-09T12:11:27.000Z",
+          "summary": "Well-chosen constraints organize your thinking. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "14ba9fr",
+          "title": "Before you ship your Wrapped this year",
+          "link": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-09T12:11:16.000Z",
+          "summary": "What last December’s recaps got right, what changed in 2026, and the step almost nobody takes. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1qk40z4",
+          "title": "Show HN: Open-source customer-facing agents",
+          "link": "https://github.com/radioso-ai/radioso",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-09T10:46:31Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1spk90r",
+          "title": "Been auditing onboarding flows and the failure point is almost never where teams think it is",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xrn1hb/been_auditing_onboarding_flows_and_the_failure/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-09T09:11:22.000Z",
+          "summary": "So I've been observing that most onboarding post-mortems focus on the first screen, but that's rarely where things go wrong. Screen one is usually fine as teams obsess over it. The drop happens at screen three or four,…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "g72y94",
+          "title": "Everything to automate and make your device,like aPC and phone,smart as a robot",
+          "link": "https://news.ycombinator.com/item?id=50420578",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-09T03:12:49Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1oinfeb",
+          "title": "UX career ladder",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xrdwge/ux_career_ladder/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-09T00:42:06.000Z",
+          "summary": "I've recently joined a mid/large sized software company and I am not finding any clear definition or role expectations for any of the design levels. I used to work at IBM and there was a lot of good documentation on the…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "ikkbdb",
+          "title": "Astryx: An open source design system that's customizable and agent ready",
+          "link": "https://github.com/meta/astryx",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T23:27:30Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "g6mfih",
+          "title": "HN's HTML has changed slightly",
+          "link": "https://news.ycombinator.com/item?id=50415959",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T18:58:15Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "t4c82n",
+          "title": "Show HN: Recto – A tool that lets you visually edit what coding agents create",
+          "link": "https://recto.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T18:17:30Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1euj1ah",
+          "title": "Show HN: Figma for Investing",
+          "link": "https://www.aulico.com/tradespaces/new",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T18:04:23Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1mdx74d",
+          "title": "Show HN: Velork – Design and Code, Together",
+          "link": "https://velork.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T15:31:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "mwc4iw",
+          "title": "Archimedes: AI agents that design physical things",
+          "link": "https://standardphysics.com/archimedes",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T13:59:08Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1vs6en",
+          "title": "LLMs are terrible at designing AI systems",
+          "link": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T12:33:58Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "qe8qg",
+          "title": "Why Hasn't Figma Shut Down Already?",
+          "link": "https://elnahla.com/why-hasnt-figma-shut-down-already/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T12:08:22Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "items": [
