@@ -1,6 +1,217 @@
 {
-  "updatedAt": "2026-11-09T14:35:09.900Z",
+  "updatedAt": "2026-11-10T13:53:53.651Z",
   "days": [
+    {
+      "date": "2026-11-10",
+      "items": [
+        {
+          "id": "kyos0j",
+          "title": "Show HN: View Markdown like you would on GitHub/Obsidian, right in your terminal",
+          "link": "https://mddog.pages.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T13:25:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "27fvrd",
+          "title": "Show HN: AI Vision Index, private tests of how well 36 AI models see",
+          "link": "https://aivisionindex.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T12:46:55Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1n4gej6",
+          "title": "What being the new kid taught me about persuasion as a designer",
+          "link": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-10T12:09:18.000Z",
+          "summary": "People don’t say yes to ideas. They say yes to who they get to be. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "c1mgep",
+          "title": "Every new medium gets called cheating",
+          "link": "https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-10T12:09:06.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1t85mc3",
+          "title": "Siemens planning acquisition of Lauterbach (debug/trace tools)",
+          "link": "https://press.siemens.com/global/en/pressrelease/siemens-expand-portfolio-semiconductor-design-and-verification-planned-acquisition",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T10:35:57Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "ouqfki",
+          "title": "Can someone help me figure out the steps required to become an up to date modern designer",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xsjf0j/can_someone_help_me_figure_out_the_steps_required/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-10T10:22:23.000Z",
+          "summary": "I was laid off and want to give it my all to get back into design. But the company I last worked at simply used text prompt v0 for prototyping. Everything has changed in the six months I've been laid off. Can someone…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "16t9oh",
+          "title": "Crying most weeks at a new job. When should I quit?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xsh7ln/crying_most_weeks_at_a_new_job_when_should_i_quit/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-10T08:00:06.000Z",
+          "summary": "TL;DR: Took a “stepping stone” role after a redundancy. The team is dysfunctional and under-resourced, I got publicly shut down by a group PM, and my manager hasn’t backed me up. I’m mentally checked out and…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "n5dyqi",
+          "title": "How are you staying relevant as a UX designer who doesn’t want to become an engineer?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xsgsno/how_are_you_staying_relevant_as_a_ux_designer_who/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-10T07:32:46.000Z",
+          "summary": "I’ve been working in UX for almost 20 years now, currently at a large government organization. Slow, bureaucratic, and change management is always a struggle. But when I look at my network, the field is changing fast. I…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "6gfhjc",
+          "title": "Show HN: Android and iOS games running offline in the browser",
+          "link": "https://phoam.app/demos",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T05:49:45Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "g7qk2j",
+          "title": "FLEY AI-Voce – a voice AI assistant you but can also control your PC and phone",
+          "link": "https://news.ycombinator.com/item?id=50436493",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T05:37:27Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "tg4o4t",
+          "title": "Texpresso: A True Wysiwyg System for Open-Source LaTeX Design",
+          "link": "https://github.com/let-def/texpresso",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T00:46:42Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "vjo87m",
+          "title": "Claude Fable 5.2 for UI Design: Better, but at What Cost?",
+          "link": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-09T22:55:33.000Z",
+          "summary": "I tested Anthropic’s new flagship AI model against Opus 5.5 on a real product design task. Here’s what I learned about design quality… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "52epix",
+          "title": "My boss just demanded everything be done by hand for brands and UI and content after 1 year of full speed Ai",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xs4s6q/my_boss_just_demanded_everything_be_done_by_hand/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-09T21:46:06.000Z",
+          "summary": "édit: apparently my lack of Oxford comma confused people about what was asked. All design, done by humans Back in business baby! I work in an AI methodology team. explained a bit in last weeks meme about replacing…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "14xh8dl",
+          "title": "Have your AI agent design your product screenshots",
+          "link": "https://www.glizzshots.xyz/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-09T19:10:37Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1avhkvr",
+          "title": "Show HN: I made every icon in 34 styles, including Christmas, Kawaii and Soft 3D",
+          "link": "https://withicons.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-09T18:35:17Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1i73dst",
+          "title": "Protobench – Figma for hardware, from design intent to engineering",
+          "link": "https://protobenchai.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-09T18:03:44Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "items": [
