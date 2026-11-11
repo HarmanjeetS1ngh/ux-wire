@@ -1,6 +1,272 @@
 {
-  "updatedAt": "2026-11-10T13:53:53.651Z",
+  "updatedAt": "2026-11-11T13:06:10.401Z",
   "days": [
+    {
+      "date": "2026-11-11",
+      "items": [
+        {
+          "id": "127nlkb",
+          "title": "How far ahead does your company plan roadmaps in the AI world? Is everything ASAP now?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xtgvl1/how_far_ahead_does_your_company_plan_roadmaps_in/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-11T12:47:49.000Z",
+          "summary": "I work in the financial industry as an AI designer, with 15+ years of design experience in other industries. In the AI world, a year-long roadmap no longer feels realistic. I'm curious how far ahead your company plans…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "dh7nt3",
+          "title": "Show HN: NoDOM high performance WASM UI kit for DuckDB-WASM",
+          "link": "https://osullivj.github.io/nodom_ukprop/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T11:58:56Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "9ygli1",
+          "title": "Show HN: Aq – an attention queue TUI for Claude Code",
+          "link": "https://github.com/nodo-labs-uk/attention-queue",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T11:43:35Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "i7h7lb",
+          "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+          "link": "https://github.com/Crokily/pi-durable-bot",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T11:11:34Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10gkccx",
+          "title": "An AI flyer designer that generates designs with code, not images",
+          "link": "https://www.tryanvil.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T09:31:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1k1rrrk",
+          "title": "Show HN: GraphFlow – system design diagrams that run in the browser",
+          "link": "https://graph-flow-virid.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T07:24:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "xxchgi",
+          "title": "How is your team handling Eng/PM/Design collaboration in the AI transition?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xt6m87/how_is_your_team_handling_engpmdesign/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-11T02:56:24.000Z",
+          "summary": "I know most companies are probably going through this “figuring out” “fast-paced” “ambiguous” phase currently at this AI transition period. However, it also feels like an excuse of bad organization / prioritization…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "1exhu4v",
+          "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+          "link": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-10T23:34:58.000Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "g8b14z",
+          "title": "Ask HN: Do you believe RSI is possible?",
+          "link": "https://news.ycombinator.com/item?id=50447699",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T23:18:43Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "tfqu72",
+          "title": "3 UX Design Courses Worth Taking If You’ve Already Mastered the Basics",
+          "link": "https://uxplanet.org/3-ux-design-courses-worth-taking-if-youve-already-mastered-the-basics-956a5b2b0a36?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-10T22:50:39.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 21,
+          "isHighlight": true
+        },
+        {
+          "id": "o0xb9o",
+          "title": "Are Pills and Median Dots the em dash for UI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xsyo5g/are_pills_and_median_dots_the_em_dash_for_ui/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-10T21:05:20.000Z",
+          "summary": "So, did not see it until now, but recently I started to use more often AI to generate quick mockups and ideas on my projects, however, I found it very frustrating that AI is using TOO MANY pills and median dots, like A…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "gs6z29",
+          "title": "Design hiring hits a record low",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xsw5ji/design_hiring_hits_a_record_low/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-10T19:27:11.000Z",
+          "summary": "New state of the tech job market shows that PM job openings seem to be doing the best out of the traditional tech practices (Engineering, Design, Product) while design hits a record low. To those that have been in the…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "h3zd65",
+          "title": "Show HN: Ramble – Message your agent directly from your Apple Watch",
+          "link": "https://ramble.watch",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T16:22:01Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "jrl6iv",
+          "title": "Show HN: Ilo Musi 8 – Handheld Game Console Emulating CHIP-8 Platform",
+          "link": "https://ilomusi8.sadale.net/en/welcome",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T16:04:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1uqxrdq",
+          "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+          "link": "https://aircad.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T15:01:19Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1auzqff",
+          "title": "Show HN: Sugo – Turn PDFs and Screenshots into Compact Markdown for LLMs",
+          "link": "https://github.com/Muralnick/sugo",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T14:59:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1hbpn64",
+          "title": "Show HN: QueenMQ – slow LLM calls blocked our Kafka partitions, so we built it",
+          "link": "https://github.com/queen-mq/queen",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T14:52:36Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "tpcze8",
+          "title": "Designing human and generative AI collaboration",
+          "link": "https://academic.oup.com/pnasnexus/article/5/11/pgag353/9025436",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T14:28:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "16x28ic",
+          "title": "Can Claude Fable 5.2 Replace Product Designers?",
+          "link": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-10T14:15:13.000Z",
+          "summary": "Fable 5.2 is Anthropic’s most advanced AI model. The model demonstrates excellent results across most product design tasks. Given the… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Advanced",
+          "impactScore": 23,
+          "isHighlight": true
+        },
+        {
+          "id": "1fhi1xp",
+          "title": "Show HN: AppTraction – A Native Mac App for Apple's App Store Connect",
+          "link": "https://apptraction.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-10T14:09:13Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "items": [
