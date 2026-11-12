@@ -1,6 +1,259 @@
 {
-  "updatedAt": "2026-11-11T13:06:10.401Z",
+  "updatedAt": "2026-11-12T14:08:58.474Z",
   "days": [
+    {
+      "date": "2026-11-12",
+      "items": [
+        {
+          "id": "xoo2so",
+          "title": "Show HN: Closed,Mechanical Mould Design AI Agent",
+          "link": "https://closed.sh",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T13:17:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "11w1qmk",
+          "title": "Good lofi ui kits for patter/ anatomy visualisation",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xubtia/good_lofi_ui_kits_for_patter_anatomy_visualisation/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-12T12:44:15.000Z",
+          "summary": "Need to visualize UX patterns in a lofi non-branded way. Think greyscale, blockstyle text but all the components that you might need There’s al Lot of offer and a lot of them are lacking things or are to big and become…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1z1vz4",
+          "title": "Free Fitchecks – Fitmaxxing App",
+          "link": "https://apps.apple.com/redeem/?ctx=offercodes&id=6826834829&code=LAUNCH",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T12:33:00Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "orkusy",
+          "title": "The AI mind tax that afflicts those who use AI best",
+          "link": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-12T11:14:40.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "yn6ej3",
+          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-11-12T10:00:00.000Z",
+          "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 31,
+          "isHighlight": true
+        },
+        {
+          "id": "s6o0r6",
+          "title": "Landing page for my app",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xu7px3/landing_page_for_my_app/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-12T08:45:08.000Z",
+          "summary": "submitted by /u/ExerciseForeign4436 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "1mi7cg2",
+          "title": "Show HN: MetaArena – Compare & Rank 5,353 Meta Global AI Hackathon Projects",
+          "link": "https://meta-hackathon.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T08:36:48Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "189o72n",
+          "title": "The AI-Native Playbook: Train the Model, Shrink the Team",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xtwbw6/the_ainative_playbook_train_the_model_shrink_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-11T22:54:45.000Z",
+          "summary": "I work at a company that's going \"AI native.\" If you haven't heard the phrase yet, you will. It starts with enthusiasm. Leadership talks about the future, about working smarter, about \"freeing us up for higher-value…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "mgklyu",
+          "title": "Why are we cloning Photoshop?",
+          "link": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-11T22:20:42.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "g4t7te",
+          "title": "Every click has a price now. Who designs how that “feels”?",
+          "link": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-11T22:15:19.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1aqa2xr",
+          "title": "The bathroom flaws that infuriate every designer",
+          "link": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-11T22:10:34.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1hj7u3t",
+          "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
+          "link": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-11T22:08:32.000Z",
+          "summary": "",
+          "categories": [
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 28,
+          "isHighlight": true
+        },
+        {
+          "id": "1w2ly07",
+          "title": "Show HN: Zumungo – AI-driven home automation",
+          "link": "https://zumungo.com/get-started.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T21:58:28Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "2fokjd",
+          "title": "Show HN: Move more with short random exercise challenges",
+          "link": "https://www.sporadic.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T21:31:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "16hfnv0",
+          "title": "Why Nobody Is Talking About Claude Fable 5.2",
+          "link": "https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-11T20:10:57.000Z",
+          "summary": "5 Reasons Why Claude Fable 5.2 Didn’t Live Up to the Hype Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "1oa1mex",
+          "title": "400 applications, 14 interviews, 1 offer. Some stuff that actually helped",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xtod09/400_applications_14_interviews_1_offer_some_stuff/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-11T17:45:01.000Z",
+          "summary": "Got laid off this summer. Mid-level product designer, about 5 years in, no degree. Took about 4 months and roughly 400 applications to land an offer. Around 20 companies ever replied, 14 turned into interviews, 7 of…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "gpmorb",
+          "title": "Want to Create Animations with Claude Code? Try These 5 GitHub Repositories",
+          "link": "https://uxplanet.org/want-to-create-animations-with-claude-code-try-these-5-github-repositories-8f5c5bb24908?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-11T14:27:42.000Z",
+          "summary": "If you want to create stunning animations or motion effects with Claude Code, these 5 GitHub repositories can help you with that. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": false
+        },
+        {
+          "id": "na9rd9",
+          "title": "Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP",
+          "link": "https://github.com/editmamei/editmamei",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T13:14:56Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1b68qvj",
+          "title": "Show HN: Micron – Oberon with the Power of C",
+          "link": "https://github.com/rochus-keller/Micron",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-08T13:40:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "items": [
