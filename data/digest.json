@@ -1,6 +1,222 @@
 {
-  "updatedAt": "2026-11-12T14:08:58.474Z",
+  "updatedAt": "2026-11-13T13:33:23.195Z",
   "days": [
+    {
+      "date": "2026-11-13",
+      "items": [
+        {
+          "id": "5qmqd7",
+          "title": "AI Room Design from Your Photo – 2 Free Designs",
+          "link": "https://roomdesign-ai.online/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T12:32:23Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "2nz33v",
+          "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+          "link": "https://www.niklasroy.com/carton-clock/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T12:00:18Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ej7clz",
+          "title": "The crooked plate that felt more human than the algorithm",
+          "link": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-13T10:58:22.000Z",
+          "summary": "We have spent years teaching machines to be flawless. Now the flawlessness is beginning to feel like a kind of absence. Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "10vnu7j",
+          "title": "Disrespected as a product designer in the workplace",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xv46px/disrespected_as_a_product_designer_in_the/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T10:14:39.000Z",
+          "summary": "I was hired by a b2b Saas company to design their MVP from a crap AI prototype they made with Claude. Mind you, a lot of those functions didn't even end up in the MVP due to to tech constraints. The biggest and…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "kn21gf",
+          "title": "The System Design Roadmap for Juniors",
+          "link": "https://soargram.io/content/908364498",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T10:09:48Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "jccg44",
+          "title": "Writing Effective Tools for Agents",
+          "link": "https://p99log.com/designing-tools-for-ai-agents/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T09:25:08Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "jquc03",
+          "title": "Associate UX designers in London (2–3 yrs exp)where are you hiding?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xv2x0n/associate_ux_designers_in_london_23_yrs_expwhere/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T08:54:25.000Z",
+          "summary": "As the title says. Not a recruiter, just someone who works at a company that can't seem to fill an associate UX role (2-3 years exp) at our Liverpool Street office. Flexible working, and honestly it's a lovely place.…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "9ld0qo",
+          "title": "Learning figma",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xv04r8/learning_figma/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T06:03:08.000Z",
+          "summary": "Hi everyone, I’m a beginner in UI/UX design and currently learning Figma. I also work as a delivery driver, so I’m trying to learn these things in my free time. I designed a website using a 1440px frame with Auto Layout…",
+          "categories": [
+            "Tool"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "15jn7xp",
+          "title": "Brandrail – make Claude Code and Cursor follow your design system",
+          "link": "https://github.com/brandrail-app/brandrail",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T03:17:26Z",
+          "summary": "",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "i2n13r",
+          "title": "I just can't figure out my process with figma/make/claude and keep going back to baslamiq",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xuwsyc/i_just_cant_figure_out_my_process_with/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T03:06:11.000Z",
+          "summary": "Been a designer for 15 years, product designer for the past 12 years. At my new job I'm the first product designer. The PO has been handing me files he made in Claude. they are actually pretty good- looks wise. I've…",
+          "categories": [
+            "Tool",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "aqqlu",
+          "title": "AI is the new old design material",
+          "link": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-13T02:33:09.000Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1mv8rrl",
+          "title": "SF company designs and assembles PCBs with AI in weeks instead of months",
+          "link": "https://solderable.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T20:05:36Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "g9v7u6",
+          "title": "Show HN: A Slack-like GitHub client for managing PRs",
+          "link": "https://news.ycombinator.com/item?id=50472636",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T19:14:33Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "zkh5vi",
+          "title": "Jensen Huang Resigns as Nvidia CEO: What Happens Next for AI Chips?",
+          "link": "https://oplexa.com/blogs/jensen-huang-resigns-nvidia-ceo-november-2026/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T14:51:57Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1dlazpz",
+          "title": "Smarter AI Product Design Centers the User's Real Needs",
+          "link": "https://spectrum.ieee.org/human-centered-ai-product-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-12T14:36:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "3tji7z",
+          "title": "Anthropic Just Dropped Claude Whiteboard, Sheets and Data",
+          "link": "https://uxplanet.org/anthropic-just-dropped-claude-whiteboard-sheets-and-data-a9a89b69a3d8?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-12T14:13:39.000Z",
+          "summary": "Anthropic just released 3 new types of artifacts: Whiteboard, Sheets, and Data. Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 25,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "items": [
