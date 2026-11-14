@@ -1,6 +1,191 @@
 {
-  "updatedAt": "2026-11-13T13:33:23.195Z",
+  "updatedAt": "2026-11-14T12:38:53.226Z",
   "days": [
+    {
+      "date": "2026-11-14",
+      "items": [
+        {
+          "id": "ok8fus",
+          "title": "Made a UXD Studying discord server!",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xvtcus/made_a_uxd_studying_discord_server/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-14T04:37:05.000Z",
+          "summary": "if you want to study uxd and have a studying partner along the way this is the place! - beginner friendly -premium resources -collaboration you're especially welcome if youre trying to transition to this field from…",
+          "categories": [
+            "Research"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "112awfm",
+          "title": "Sick of Herding AI Cats?",
+          "link": "https://clowder.sh",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-14T04:13:42Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "3lvfuq",
+          "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
+          "link": "https://chipagents.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-14T00:42:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "qfzwyx",
+          "title": "How do you become a design engineer?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xvnnyb/how_do_you_become_a_design_engineer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T23:51:55.000Z",
+          "summary": "Thinking this would be a viable title with long-term stability for me and need some advice. submitted by /u/Far_Butterscotch2599 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "ldw8oe",
+          "title": "Decision theatre or decision design?",
+          "link": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-13T23:51:42.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "9xcnwm",
+          "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
+          "link": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-13T23:51:27.000Z",
+          "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneously Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "1mn8n17",
+          "title": "Ready for a new chapter.",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xvl30a/ready_for_a_new_chapter/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T22:00:09.000Z",
+          "summary": "First order of business: 5090s for everyone in this sub ❤️ submitted by /u/Allinthedesign [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "a5avsr",
+          "title": "Show HN: Harness Relay – the coding agents you have, working together",
+          "link": "https://agentic-system-lab.github.io/harness-relay/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T21:01:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ybvxk2",
+          "title": "When it comes to seeing the duration of the timer I’m setting…",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xvj3pu/when_it_comes_to_seeing_the_duration_of_the_timer/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-13T20:41:26.000Z",
+          "summary": "You guessed it: I’m all thumbs. 👎 submitted by /u/bhoran235 [link] [comments]",
+          "categories": [],
+          "level": "General",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "sq6xwp",
+          "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+          "link": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-11-13T18:00:00.000Z",
+          "summary": "As AI speeds up development, it can be a challenge for research to adapt. Research can define what each release must measure and what it can help teams discover.",
+          "categories": [
+            "AI",
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 38,
+          "isHighlight": true
+        },
+        {
+          "id": "7qlkzb",
+          "title": "Journey Mapping 101",
+          "link": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "source": "Nielsen Norman Group",
+          "publishedAt": "2026-11-13T18:00:00.000Z",
+          "summary": "A journey map is a visualization of the process that a person goes through in order to accomplish a goal.",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 30,
+          "isHighlight": true
+        },
+        {
+          "id": "1e6fc0k",
+          "title": "Show HN: Scenedraw – Create multiple excalidraw scenes, backed up on GDrive",
+          "link": "https://scenedraw.app",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T16:27:52Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1axineu",
+          "title": "Show HN: Leetsys – Practice system design interviews with an AI interviewer",
+          "link": "https://www.leetsys.dev",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T15:24:40Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "1sxic45",
+          "title": "Claude Fable 5.2 Official Prompting Guide",
+          "link": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-13T14:22:48.000Z",
+          "summary": "Anthropic’s 5 new rules for prompting Fable 5.2 Continue reading on UX Planet »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 21,
+          "isHighlight": true
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "items": [
