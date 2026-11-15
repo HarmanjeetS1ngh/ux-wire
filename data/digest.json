@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-11-14T12:38:53.226Z",
+  "updatedAt": "2026-11-15T13:05:04.428Z",
   "days": [
+    {
+      "date": "2026-11-15",
+      "items": [
+        {
+          "id": "1su6p5w",
+          "title": "Operating System Design Review",
+          "link": "https://github.com/ElliotKillick/operating-system-design-review",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-15T11:50:02Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "fzxdm",
+          "title": "Show HN: Dynaura – Dynamic Island toasts for the web",
+          "link": "https://dynaura.ashutoshswamy.in",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-15T07:46:54Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": true
+        },
+        {
+          "id": "1tmnz84",
+          "title": "Experienced job hunting, portfolio/case study/resume questions and review — 11/15/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xwny4m/experienced_job_hunting_portfoliocase_studyresume/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-15T06:00:56.000Z",
+          "summary": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. If you are early career (looking for or working…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "Advanced",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "1pwx8t6",
+          "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 11/15/26",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xwny4c/breaking_into_uxearly_career_job_hunting/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-15T06:00:55.000Z",
+          "summary": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. Please use this thread to ask questions…",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": true
+        },
+        {
+          "id": "8lzv0",
+          "title": "Toward a future space-based, highly scalable AI infrastructure system design",
+          "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-14T23:12:20Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1f0qr2z",
+          "title": "Design and AI: Job Requirements in late 2026",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xwbmfp/design_and_ai_job_requirements_in_late_2026/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-14T19:53:35.000Z",
+          "summary": "I recently moved teams internally, and the role posted to cover my old responsibilities reads differently from the one I was hired into just over a year ago. I’m not the hiring manager and I’m not recruiting: no link,…",
+          "categories": [
+            "AI",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": true
+        },
+        {
+          "id": "8m03ds",
+          "title": "Results from a 49 day job search from layoff to offer",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xw9lbc/results_from_a_49_day_job_search_from_layoff_to/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-14T18:30:21.000Z",
+          "summary": "38 applications 14 rejections 5 first round interviews 2 offers 4.5 YOE mostly in EdTech AMA submitted by /u/readcz [link] [comments]",
+          "categories": [
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "10kkx6s",
+          "title": "Is Design Leadership failing the industry?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xw1k74/is_design_leadership_failing_the_industry/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-14T12:45:39.000Z",
+          "summary": "I'm seeing more and more jobs being posted around AI requirements in using AI for design patterns, running systems single handedly or primarily focused on becoming a UI tweaker / Engineer. I've seen max 2-3 jobs in the…",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 17,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "items": [
