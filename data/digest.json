@@ -1,6 +1,262 @@
 {
-  "updatedAt": "2026-11-15T13:05:04.428Z",
+  "updatedAt": "2026-11-16T14:10:15.859Z",
   "days": [
+    {
+      "date": "2026-11-16",
+      "items": [
+        {
+          "id": "175uu69",
+          "title": "Whiteboard exercise question",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xxpxbw/whiteboard_exercise_question/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-16T13:54:38.000Z",
+          "summary": "Hi all, just did a whiteboard exercise as part of a hiring process and I was surprised to find out the interviewer was expecting, amongst other things, that I question the research that was “done”, as part of the…",
+          "categories": [
+            "Research",
+            "Career"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "112y6de",
+          "title": "Has your actual interface design process changed due to AI?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xxpiyf/has_your_actual_interface_design_process_changed/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-16T13:36:31.000Z",
+          "summary": "I'm talking about actually designing interfaces within Figma. Are you doing it manually or are you using Claude to do the work for you? I haven't explored AI for designing that much so I was wondering if Claude can…",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 19,
+          "isHighlight": false
+        },
+        {
+          "id": "1932poz",
+          "title": "Show HN: Prettywhale.ai – Generate data pipelines from data samples",
+          "link": "https://marketplace.visualstudio.com/items?itemName=prettywhale-ai.prettywhale",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T13:11:30Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "1r1fbuw",
+          "title": "Show HN: Furnish – AI-powered home design with editable 2D plans and 3D views",
+          "link": "https://github.com/Joystonm/furnish/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T13:07:06Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "22t1sd",
+          "title": "US to designate AI \"national champions\"",
+          "link": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T12:22:04Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "15q8mo9",
+          "title": "Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens",
+          "link": "https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-16T12:17:08.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "ygbt0q",
+          "title": "The trash robot that doesn’t pick up, but hands out",
+          "link": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-16T12:16:15.000Z",
+          "summary": "On kawaii, embarrassment, and designing to invite Continue reading on UX Collective »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": true
+        },
+        {
+          "id": "nhwrht",
+          "title": "Coolest Design",
+          "link": "https://coolest.design/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T11:37:16Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "763vmn",
+          "title": "Loadsketch: A system design simulator. Every request runs for real",
+          "link": "https://loadsketch.mclee.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T09:51:01Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "gnny76",
+          "title": "Ask HN: Startups are spamming helpdesk chats now?",
+          "link": "https://news.ycombinator.com/item?id=50515458",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T08:48:41Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1yyluku",
+          "title": "Product design contracting gigs from North America or UK, tips?",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xxk3y1/product_design_contracting_gigs_from_north/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-16T08:24:11.000Z",
+          "summary": "I recently got back into freelancing. I'm working from EU, and would appreciate any tips on how to enter North America or UK with remote freelancing for Product design or UX design. Any tips on where / how to get…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 15,
+          "isHighlight": false
+        },
+        {
+          "id": "4vfzyl",
+          "title": "Show HN: Figma Like AI Landing Page Builder",
+          "link": "https://codecainehq.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T06:57:49Z",
+          "summary": "",
+          "categories": [
+            "AI",
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": true
+        },
+        {
+          "id": "eb2fpj",
+          "title": "How to get good at app UI/UX the classic way",
+          "link": "https://www.reddit.com/r/UXDesign/comments/1xxhnqa/how_to_get_good_at_app_uiux_the_classic_way/",
+          "source": "r/UXDesign",
+          "publishedAt": "2026-11-16T05:53:32.000Z",
+          "summary": "Hi everyone, i am using AI to build mobile apps (as everyone is these days) but the constraint i found is that the UI/UX is very much AI slop. Even with MCPs like mobbin, the UI/UX doesn't improve that much. Well, at…",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 17,
+          "isHighlight": false
+        },
+        {
+          "id": "9ehts",
+          "title": "Agentic AI Designs an Analog Synthesizer",
+          "link": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T01:28:10Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1rj7377",
+          "title": "Keytrace – One identity, many proofs",
+          "link": "https://keytrace.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-16T00:59:30Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "89e4zr",
+          "title": "Show HN: Skillset: Easily curate and install agent skills collection",
+          "link": "https://github.com/itsmeyaw/skillset",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-15T22:53:37Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": true
+        },
+        {
+          "id": "fcrxuv",
+          "title": "Improve perception in robots by building around the optics instead",
+          "link": "https://opdo.ai/insights/how-to-design-camera-data-center-robot",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-15T22:36:26Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "slac7n",
+          "title": "Show HN: profiler-md converts performance profiles to Markdown",
+          "link": "https://github.com/TomerAberbach/profiler-md",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-15T16:04:51Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1i9whwi",
+          "title": "Show HN: Folate – Local DOM selector model that beats 7B VLMs at 1/60th the size",
+          "link": "https://github.com/figranium/folate",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-15T15:55:36Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "items": [
