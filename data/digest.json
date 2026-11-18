@@ -1,6 +1,377 @@
 {
-  "updatedAt": "2026-11-17T15:03:35.230Z",
+  "updatedAt": "2026-11-18T14:43:21.357Z",
   "days": [
+    {
+      "date": "2026-11-18",
+      "items": [
+        {
+          "id": "1w082qy",
+          "title": "Show HN: ClearOffice Hub – Build Enterprise Apps with Natural Language",
+          "link": "https://www.clearofficehub.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-18T14:26:04Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "qzao7s",
+          "title": "GPT-6.2 Astra for UI Design",
+          "link": "https://uxplanet.org/gpt-6-2-astra-for-ui-design-5960175a77e7?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-18T13:32:21.000Z",
+          "summary": "GPT-6.2 Astra is the latest and most powerful AI model from OpenAI. Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 23,
+          "isHighlight": false
+        },
+        {
+          "id": "xprjtw",
+          "title": "Designing the Langfuse AI Gateway",
+          "link": "https://langfuse.com/blog/2026-11-11-building-the-langfuse-ai-gateway",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-18T12:37:14Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "11xd2z2",
+          "title": "What is a researcher’s worth?",
+          "link": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-17T23:26:24.000Z",
+          "summary": "",
+          "categories": [
+            "Research"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "s7udip",
+          "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+          "link": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "publishedAt": "2026-11-17T23:25:21.000Z",
+          "summary": "How to decipher your PM’s AI-generated mockup without losing hours Continue reading on UX Collective »",
+          "categories": [
+            "AI"
+          ],
+          "level": "Beginner",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "25qvig",
+          "title": "TDD with AI Agents: Design the Tests First, Let the Agent Implement",
+          "link": "https://realpython.com/tdd-ai-agents/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-17T22:41:21Z",
+          "summary": "",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1h3hml5",
+          "title": "Show HN: A Variety of Chess Games",
+          "link": "https://chessreport.ca/games",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-17T21:46:06Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1r6o2ib",
+          "title": "Anthropic Just Released New Rules of Claude Code",
+          "link": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
+          "source": "UX Planet",
+          "publishedAt": "2026-11-17T21:01:18.000Z",
+          "summary": "Things move fast in the AI space, and what we considered best practices for Claude Code just a few months ago may already be outdated with… Continue reading on UX Planet »",
+          "categories": [
+            "AI"
+          ],
+          "level": "General",
+          "impactScore": 27,
+          "isHighlight": true
+        },
+        {
+          "id": "184mu69",
+          "title": "Rebuilding the Metabase MCP server: lessons for MCP tool design",
+          "link": "https://www.metabase.com/blog/mcp-tool-design-lessons",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-17T17:38:15Z",
+          "summary": "",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1hgg3bk",
+          "title": "Show HN: SigMap, an AR Wi-Fi Heatmap for iPhone",
+          "link": "https://apps.apple.com/us/app/sigmap-wifi-heatmap/id6819154750",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-17T15:09:25Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1ozecdh",
+          "title": "Meet AI 2027 Conference (Dec 1)",
+          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "source": "Smashing Magazine",
+          "publishedAt": "2026-11-17T12:00:00.000Z",
+          "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027…",
+          "categories": [
+            "AI",
+            "Tool",
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 33,
+          "isHighlight": true
+        },
+        {
+          "id": "1k5l2nw",
+          "title": "Designed for a Dead Language",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/designed-for-a-dead-language/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2026-06-30T16:22:27.000Z",
+          "summary": "Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you. In 1788, Prussia introduced…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1dp8rev",
+          "title": "Good designers, bad websites: a proposal",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/good-designers-bad-websites-a-proposal/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2026-04-23T12:57:21.000Z",
+          "summary": "I want to discuss accessibility because it is the most important thing for making websites. Other A List Apart articles give you innovation and insight. This article will give you homework. These are just my personal…",
+          "categories": [
+            "Accessibility"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "1ny9fz1",
+          "title": "For Craft Sake: On the laws and principles behind good design",
+          "link": "https://blog.prototypr.io/for-craft-sake-on-the-laws-and-principles-behind-good-design-3b2989610e64?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2026-03-29T07:16:52.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "4b4pny",
+          "title": "Design for Amiability: Lessons from Vienna",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/design-for-amiability-lessons-from-vienna/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-10-15T15:35:00.000Z",
+          "summary": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments. Social media…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1gwyqln",
+          "title": "Innovating the Workspace: Crafting a Home Office Solution with Spacious, Adjustable, and Movable…",
+          "link": "https://blog.prototypr.io/innovating-the-workspace-crafting-a-home-office-solution-with-spacious-adjustable-and-movable-7df2b74ae95a?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-10-03T08:46:52.000Z",
+          "summary": "",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "1wlg9ec",
+          "title": "20+ best bookmarking tools for people who loves to save links",
+          "link": "https://blog.prototypr.io/20-best-bookmarking-tools-for-people-who-loves-to-save-links-fc15d5f0e5ff?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-30T11:55:43.000Z",
+          "summary": "Save and curate links you love. Continue reading on Prototypr »",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "svn2ph",
+          "title": "I stopped using Figma for 70% of my product design work…and my output doubled.",
+          "link": "https://blog.prototypr.io/i-stopped-using-figma-for-70-of-my-product-design-work-and-my-output-doubled-7aceb264dd5a?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-30T11:55:08.000Z",
+          "summary": "Most design problems aren’t ‘design’ problems and that’s why Figma is not where you should be doing most of your design work. Continue reading on Prototypr »",
+          "categories": [
+            "Tool"
+          ],
+          "level": "General",
+          "impactScore": 20,
+          "isHighlight": false
+        },
+        {
+          "id": "1p7pfpt",
+          "title": "Design Dialects: Breaking the Rules, Not the System",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-09-26T16:48:12.000Z",
+          "summary": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\" — Kenneth L. Pike The web has accents. So should our design systems.…",
+          "categories": [
+            "Design System"
+          ],
+          "level": "General",
+          "impactScore": 26,
+          "isHighlight": true
+        },
+        {
+          "id": "44k6hv",
+          "title": "I Tested 5 AI Tools on 10 Real UI Design Prompts — Here’s What Actually Works in 2025",
+          "link": "https://blog.prototypr.io/i-tested-5-ai-tools-on-10-real-ui-design-prompts-heres-what-actually-works-in-2025-54e0e7358751?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-23T07:01:53.000Z",
+          "summary": "An unfiltered look at the first-pass results from Stitch, Claude, and more — and what it means for the future of UI design. Continue reading on Prototypr »",
+          "categories": [
+            "AI",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "10tig31",
+          "title": "The world doesn’t need more courses — It needs better ones",
+          "link": "https://blog.prototypr.io/the-world-doesnt-need-more-courses-it-needs-better-ones-99dc2070b722?source=rss----eb297ea1161a---4",
+          "source": "Prototypr",
+          "publishedAt": "2025-09-20T06:22:58.000Z",
+          "summary": "My own sleepless thoughts on why the future of learning must go beyond crash tutorials and tackle ethics, accessibility, and… Continue reading on Prototypr »",
+          "categories": [
+            "Accessibility",
+            "Trend"
+          ],
+          "level": "General",
+          "impactScore": 22,
+          "isHighlight": false
+        },
+        {
+          "id": "1jxap1s",
+          "title": "An Holistic Framework for Shared Design Leadership",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-07-23T14:10:22.000Z",
+          "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has the right skills to…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1ppaih4",
+          "title": "From Beta to Bedrock: Build Products that Stick.",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+          "source": "A List Apart",
+          "publishedAt": "2025-04-23T18:04:31.000Z",
+          "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months. Financial products, which is…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 24,
+          "isHighlight": false
+        },
+        {
+          "id": "1xg68oy",
+          "title": "How to Group Your Sidebar Items for Better Findability",
+          "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+          "source": "UX Movement",
+          "publishedAt": "2025-03-19T15:27:48.000Z",
+          "summary": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "18x9fh8",
+          "title": "How to Make Any Sidebar Menu Easier to Scan",
+          "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+          "source": "UX Movement",
+          "publishedAt": "2025-03-19T15:24:10.000Z",
+          "summary": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "t2299q",
+          "title": "The Optimal Design for Sidebar Indicators",
+          "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+          "source": "UX Movement",
+          "publishedAt": "2024-11-22T18:05:18.000Z",
+          "summary": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and…",
+          "categories": [],
+          "level": "General",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "10vq0as",
+          "title": "How to Design a Sidebar That Saves Screen Space",
+          "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+          "source": "UX Movement",
+          "publishedAt": "2024-11-22T17:58:44.000Z",
+          "summary": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        },
+        {
+          "id": "kr71tv",
+          "title": "How to Handle Large-Scale Item Groups in a Sidebar",
+          "link": "https://uxmovement.com/navigation/how-to-handle-large-scale-item-groups-in-a-sidebar/",
+          "source": "UX Movement",
+          "publishedAt": "2024-08-28T02:26:51.000Z",
+          "summary": "A sidebar navigation with a few items is simple to design. All you have to do is display them in a list with relevant icons. But what do you do when you have multiple large-scale item groups to display? The typical…",
+          "categories": [],
+          "level": "Beginner",
+          "impactScore": 18,
+          "isHighlight": false
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "items": [
@@ -24765,429 +25136,6 @@
           "link": "https://www.infoq.com/articles/tradeoffs-event-driven-design/",
           "source": "Hacker News",
           "publishedAt": "2026-07-04T09:19:54Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        }
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "items": [
-        {
-          "id": "kiofeh",
-          "title": "Show HN: FinMav – Screen 3,000+ stocks by describing what you want in  English",
-          "link": "https://www.finmav.ai",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-04T05:40:45Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "1hof4ow",
-          "title": "What Makes a Great UX Designer?",
-          "link": "https://www.reddit.com/r/UXDesign/comments/1un04yo/what_makes_a_great_ux_designer/",
-          "source": "r/UXDesign",
-          "publishedAt": "2026-07-04T05:06:34.000Z",
-          "summary": "Hi! I'm an Industrial Design student and I'm becoming very interested in UX design. I'd love to learn more about the field, especially what skills are the most valuable to develop, what separates a good UX designer from…",
-          "categories": [],
-          "level": "General",
-          "impactScore": 15,
-          "isHighlight": false
-        },
-        {
-          "id": "1yhm92i",
-          "title": "Tips for becoming an international designer?",
-          "link": "https://www.reddit.com/r/UXDesign/comments/1umw7sp/tips_for_becoming_an_international_designer/",
-          "source": "r/UXDesign",
-          "publishedAt": "2026-07-04T01:44:45.000Z",
-          "summary": "I’ve been a UX designer for four years and want to land projects paid in dollars (or euros). I’m Brazilian, and I know that the first and most important step is English proficiency…however, I wanted to go a step further…",
-          "categories": [],
-          "level": "General",
-          "impactScore": 15,
-          "isHighlight": false
-        },
-        {
-          "id": "z9y7xv",
-          "title": "Show HN: Pulse v0.2.0",
-          "link": "https://news.ycombinator.com/item?id=48780038",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T21:15:06Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "z9jp7v",
-          "title": "Show HN: I ran 400 hours of interviews, so I built the tool I wished existed",
-          "link": "https://news.ycombinator.com/item?id=48778853",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T19:17:10Z",
-          "summary": "",
-          "categories": [
-            "Tool",
-            "Career"
-          ],
-          "level": "General",
-          "impactScore": 22,
-          "isHighlight": false
-        },
-        {
-          "id": "16g780p",
-          "title": "Show HN: Emra – A workspace where every app you build shares one db",
-          "link": "https://emra.app",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T18:21:41Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "ewlyzk",
-          "title": "Average site pop-ups",
-          "link": "https://www.reddit.com/r/UXDesign/comments/1umk58h/average_site_popups/",
-          "source": "r/UXDesign",
-          "publishedAt": "2026-07-03T17:08:42.000Z",
-          "summary": "I’m so tired of every website opening to a swarm of pop-ups like this. I use standard pop-up and ad blockers, so I’m mainly talking about some of the things you see here (cookie prompts, AI chatbots trying to talk to…",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 17,
-          "isHighlight": false
-        },
-        {
-          "id": "1ee5m70",
-          "title": "Stop Reporting UX Activity and Report Business Outcomes",
-          "link": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-          "source": "Nielsen Norman Group",
-          "publishedAt": "2026-07-03T17:00:00.000Z",
-          "summary": "UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
-          "categories": [
-            "Research"
-          ],
-          "level": "General",
-          "impactScore": 32,
-          "isHighlight": true
-        },
-        {
-          "id": "1684ygb",
-          "title": "Crafting AI Explanations for Every Role in Your Enterprise",
-          "link": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-          "source": "Nielsen Norman Group",
-          "publishedAt": "2026-07-03T17:00:00.000Z",
-          "summary": "Different enterprise roles need different types of explanations for AI outputs.",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 32,
-          "isHighlight": true
-        },
-        {
-          "id": "h729l6",
-          "title": "Notion pulled itself back from the brink of failure (2019)",
-          "link": "https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T16:06:37Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "16aann2",
-          "title": "How I got Claude to actually USE my Figma design library instead of redrawing icons from scratch",
-          "link": "https://www.reddit.com/r/UXDesign/comments/1umeqvh/how_i_got_claude_to_actually_use_my_figma_design/",
-          "source": "r/UXDesign",
-          "publishedAt": "2026-07-03T13:38:49.000Z",
-          "summary": "TL;DR: Claude kept \"designing\" its own icons out of circles and rectangles instead of using our published Figma library. Fixed it with a reusable skill containing a component-key map. Now it imports real library…",
-          "categories": [
-            "Tool"
-          ],
-          "level": "General",
-          "impactScore": 17,
-          "isHighlight": false
-        },
-        {
-          "id": "lrwgb9",
-          "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
-          "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-          "source": "Smashing Magazine",
-          "publishedAt": "2026-07-03T13:00:00.000Z",
-          "summary": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns…",
-          "categories": [
-            "Tool"
-          ],
-          "level": "General",
-          "impactScore": 29,
-          "isHighlight": true
-        },
-        {
-          "id": "z9h0w7",
-          "title": "What I had to unlearn as a perfectionist before I could ship",
-          "link": "https://news.ycombinator.com/item?id=48774284",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T12:36:48Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "185qjmq",
-          "title": "Automatic Prefix Caching – vLLM",
-          "link": "https://docs.vllm.ai/en/latest/design/prefix_caching/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T11:53:12Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "103lkxl",
-          "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-          "link": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "publishedAt": "2026-07-03T11:17:14.000Z",
-          "summary": "",
-          "categories": [
-            "AI",
-            "Tool"
-          ],
-          "level": "General",
-          "impactScore": 28,
-          "isHighlight": true
-        },
-        {
-          "id": "1eyt148",
-          "title": "Did good UX break the job market?",
-          "link": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "publishedAt": "2026-07-03T11:16:44.000Z",
-          "summary": "",
-          "categories": [
-            "Career"
-          ],
-          "level": "General",
-          "impactScore": 26,
-          "isHighlight": true
-        },
-        {
-          "id": "1qushvn",
-          "title": "Vibe Coding Is a Dead End",
-          "link": "https://uxplanet.org/vibe-coding-is-a-dead-end-01f10ba40f46?source=rss----819cc2aaeee0---4",
-          "source": "UX Planet",
-          "publishedAt": "2026-07-03T10:55:23.000Z",
-          "summary": "If I had to choose the buzzword of 2026, without any doubt it would be “vibe coding.” Continue reading on UX Planet »",
-          "categories": [],
-          "level": "General",
-          "impactScore": 21,
-          "isHighlight": false
-        },
-        {
-          "id": "1vdtgz5",
-          "title": "We Tested 40 CSS Tools for Performance and Learning Curve. Here's What Won",
-          "link": "https://cssawwwards.com/blog/color-blindness-accessible-design-guide-2026",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T06:02:25Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "9uv2yq",
-          "title": "The seven AI tools I actually use and when",
-          "link": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "publishedAt": "2026-07-03T03:56:18.000Z",
-          "summary": "",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 26,
-          "isHighlight": false
-        },
-        {
-          "id": "z9ehiw",
-          "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-          "link": "https://news.ycombinator.com/item?id=48770319",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-03T03:18:42Z",
-          "summary": "",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 20,
-          "isHighlight": false
-        },
-        {
-          "id": "1788mme",
-          "title": "Show HN: Capcat – CLI/TUI to Archive Articles as Markdown and HTML (FOSS)",
-          "link": "https://capcat.org/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T22:37:46Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "1b7v9ei",
-          "title": "I’ve Watched 10 UI Trends Rise and Die. Most Designers Still Can’t Name Half of Them.",
-          "link": "https://uxplanet.org/ui-design-styles-explained-670cfabdf430?source=rss----819cc2aaeee0---4",
-          "source": "UX Planet",
-          "publishedAt": "2026-07-02T22:01:24.000Z",
-          "summary": "You have touched all ten of these today. Maybe before you even got out of bed. Continue reading on UX Planet »",
-          "categories": [
-            "Trend"
-          ],
-          "level": "General",
-          "impactScore": 23,
-          "isHighlight": false
-        },
-        {
-          "id": "1vncsd9",
-          "title": "The Fable 5 Blackout: What It Proved About Running Claude Code and Hermes Together",
-          "link": "https://uxplanet.org/the-fable-5-blackout-what-it-proved-about-running-claude-code-and-hermes-together-6d35b65397b9?source=rss----819cc2aaeee0---4",
-          "source": "UX Planet",
-          "publishedAt": "2026-07-02T22:00:52.000Z",
-          "summary": "Fable 5 went dark worldwide in under an hour. Here’s the pattern that makes the vendor irrelevant Continue reading on UX Planet »",
-          "categories": [],
-          "level": "General",
-          "impactScore": 21,
-          "isHighlight": false
-        },
-        {
-          "id": "162eb42",
-          "title": "Show HN: Material 3 Expressive Web Components",
-          "link": "https://matraic.github.io/m3e/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T21:15:39Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "1tmsa4u",
-          "title": "Show HN: Collection of skills to help improve UX and AI Product design",
-          "link": "https://github.com/tommyjepsen/awesome-ux-skills",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T19:45:48Z",
-          "summary": "",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 20,
-          "isHighlight": false
-        },
-        {
-          "id": "igh265",
-          "title": "Framesmith 1.8 – click an element to give an AI agent design feedback",
-          "link": "https://github.com/vicmaster/framesmith",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T19:42:00Z",
-          "summary": "",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 20,
-          "isHighlight": false
-        },
-        {
-          "id": "57da27",
-          "title": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
-          "link": "https://www.eebench.org/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T19:37:25Z",
-          "summary": "",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 20,
-          "isHighlight": false
-        },
-        {
-          "id": "1dglfwh",
-          "title": "Show HN: MotionLoom – An open-source video-as-code language for video creation",
-          "link": "https://lovelyzombieyho.github.io/anica-landing-page/motionloom/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T17:53:44Z",
-          "summary": "",
-          "categories": [],
-          "level": "General",
-          "impactScore": 18,
-          "isHighlight": false
-        },
-        {
-          "id": "9ybu09",
-          "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-          "link": "https://manufact.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T15:11:20Z",
-          "summary": "",
-          "categories": [
-            "Tool"
-          ],
-          "level": "General",
-          "impactScore": 24,
-          "isHighlight": false
-        },
-        {
-          "id": "ofkqcl",
-          "title": "Caveman for Claude Code",
-          "link": "https://uxplanet.org/caveman-for-claude-code-cfa0b0b35240?source=rss----819cc2aaeee0---4",
-          "source": "UX Planet",
-          "publishedAt": "2026-07-02T12:59:11.000Z",
-          "summary": "How It Works, Why Use It, and How to Set It Up Continue reading on UX Planet »",
-          "categories": [],
-          "level": "Beginner",
-          "impactScore": 21,
-          "isHighlight": false
-        },
-        {
-          "id": "v6aobs",
-          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
-          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "source": "Smashing Magazine",
-          "publishedAt": "2026-07-02T10:00:00.000Z",
-          "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context,…",
-          "categories": [
-            "AI"
-          ],
-          "level": "General",
-          "impactScore": 29,
-          "isHighlight": true
-        },
-        {
-          "id": "m38bdf",
-          "title": "Design your MCP server like a UI, not an API",
-          "link": "https://bump.sh/blog/4-rules-to-build-an-efficient-mcp-server/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-02T09:33:26Z",
           "summary": "",
           "categories": [],
           "level": "General",
